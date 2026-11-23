@@ -1,0 +1,60 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  /* 传统纹样配色 —— 多色均衡分工 */
+  --gf-cream: #faf5f0;        /* 黄白游，页面主背景 - 淡化处理 */
+  --gf-blush: #ec7696;        /* 淡绛红，装饰/悬停高亮 */
+  --gf-rose: #b45a7e;         /* 莲红，次要按钮/点缀 */
+  --gf-blue: #6ba368;         /* 竹青，导航栏底色 */
+  --gf-blue-deep: #3d723a;    /* 石绿，深色链接/图谱大类节点 */
+  --gf-maroon: #801d3a;       /* 绛紫，主按钮强调色 */
+  --gf-navy: #181e38;         /* 螺黛，页脚/下拉菜单/最深色 */
+
+  /* 同色系补充色（来自传统色卡第二组），用于丰富层次、避免单调 */
+  --gf-pink-light: #f0a1a8;   /* 合欢，浅粉点缀/次级标签 */
+  --gf-blue-light: #a8c9a6;   /* 柳绿，浅绿点缀/图表辅助色 */
+  --gf-blue-alt: #4a8a47;     /* 松花绿，备用深绿，可与石绿轮换使用 */
+
+  --gf-bg: var(--gf-cream);
+  --gf-surface: rgba(255, 253, 249, 0.72);   /* 卡片/面板背景，半透明玻璃感 */
+  --gf-text: #411c35;            /* 荸荠紫，主文字代替纯黑 */
+  --gf-text-muted: #8b7480;      /* 次要文字，紫灰色调 */
+  --gf-border: rgba(240, 217, 192, 0.5);     /* 边框，半透明弱化 */
+
+  }
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background-color: var(--gf-bg);
+  background-image: url('./images/底纹.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: var(--gf-text);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
