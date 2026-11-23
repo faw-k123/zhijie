@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.4-draft",
+  "case_count": 2,
+  "cases": [
+    {
+      "case_id": null,
+      "candidate_id": "P12-C002",
+      "formal_case_id": null,
+      "performer": "泉州师范学院南音团队",
+      "performer_type": "中外合作演出",
+      "country": "阿联酋",
+      "region": "中东及部分伊斯兰文化地区",
+      "subregion": "阿布扎比",
+      "instrument": [
+        "南音琵琶",
+        "四宝"
+      ],
+      "work": "《风打梨》",
+      "music_type": "南音",
+      "activity_date": "2025-11-14",
+      "activity_location": "Abu Dhabi, Umm Al Emarat Park",
+      "activity_status": "performed_confirmed",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "strict_sample_eligible": false,
+      "source_ids": [
+        "P12-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "P12-S002",
+          "title": "福建古乐唱响阿布扎比",
+          "publisher": "福建日报（人民日报客户端转载）",
+          "url": "https://sdxw.iqilu.com/share/YS0yMS0xNjg4NzUyMw==.html",
+          "source_type": "主流媒体",
+          "published_at": "2025-11-21",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "supports": "2025-11-14 阿布扎比国母公园第七届国家包容与共存节开幕式；泉州师院南音《风打梨》；南音琵琶、四宝",
+          "does_not_support": "不代表长期传播效果；观众引语为记者转述；表演者是中国团队",
+          "notes": "演出后报道"
+        }
+      ],
+      "source_count": 1,
+      "summary": "泉州师院南音团队在阿布扎比国家包容与共存节开幕式演出《风打梨》。",
+      "evidence_limitations": "中国团队；观众引语为记者转述；无独立受众调查。",
+      "data_version": "v1.4-draft"
+    },
+    {
+      "case_id": null,
+      "candidate_id": "P12-C003",
+      "formal_case_id": null,
+      "performer": "Li Cangxiao 与墨西哥音乐家",
+      "performer_type": "中外合作演出",
+      "country": "墨西哥",
+      "region": "拉丁美洲",
+      "subregion": "墨西哥城",
+      "instrument": [
+        "二胡",
+        "钢琴",
+        "弦乐四重奏",
+        "打击乐"
+      ],
+      "work": "Kangding; Butterfly Lovers; Libertango; Danzón No. 2; Horse Racing",
+      "music_type": "跨文化室内乐",
+      "activity_date": "2026-09-25 / 2026-09-27",
+      "activity_location": "Palacio de Bellas Artes, Mexico City; UNAM",
+      "activity_status": "performed_confirmed",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "strict_sample_eligible": false,
+      "source_ids": [
+        "P12-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "P12-S003",
+          "title": "Se celebran con éxito en la Ciudad de México el concierto “Bajo la misma luna”",
+          "publisher": "Centro Cultural de China en México",
+          "url": "http://wap.ccchinamexico.org/es/Events/Detail/1790615770",
+          "source_type": "机构官网",
+          "published_at": "2026-09-28",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "supports": "2026-09-25 墨西哥城 Palacio de Bellas Artes、09-27 UNAM；二胡 Li Cangxiao 与墨西哥音乐家；曲目 Kangding、Butterfly Lovers、Libertango、Danzón No. 2、Horse Racing",
+          "does_not_support": "不代表独立受众调查；掌声为记者描述；表演者含中国二胡演奏者",
+          "notes": "演出后报道"
+        }
+      ],
+      "source_count": 1,
+      "summary": "二胡演奏者 Li Cangxiao 与墨西哥音乐家在墨西哥城合作演出中国与拉美曲目。",
+      "evidence_limitations": "含中国二胡演奏者；掌声为记者描述；无独立受众调查。",
+      "data_version": "v1.4-draft"
+    }
+  ]
+}

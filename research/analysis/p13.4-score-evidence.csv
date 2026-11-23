@@ -1,0 +1,17 @@
+﻿candidate_id,indicator_id,source_id,source_dependency_group,evidence,evidence_grade,supports,limitation
+P13-C001,emotional_universality,P13-S002,xinhua_kuwait,中国教授称音乐是“世界语言”，科威特官员称活动促进文化外交；属于单次活动引语，不支持整体受众偏好。,A,有限/单次证据,同源报道；不能外推整体受众
+P13-C001,story_explainability,P13-S002,xinhua_kuwait,报道列出《春江花月夜》《空谷鸟鸣》《潇湘水云》等曲目，并说明乐器/曲目背景与现场讲解。,A,有直接事实支持,同源报道；不能外推整体受众
+P13-C001,cross_cultural_adaptation,P13-S002,xinhua_kuwait,中国音乐家与科威特女子乐团合作《茉莉花》，科威特乌德琴演奏者参与；有实际合作，非单纯同台。,A,有直接事实支持,同源报道；不能外推整体受众
+P13-C001,educational_support,P13-S002,xinhua_kuwait,现场有乐器介绍、观众体验技法和讨论，属于一次性演示，不是持续课程。,A,有限/单次证据,同源报道；不能外推整体受众
+P13-C001,performer_bridge_role,P13-S002,xinhua_kuwait,中国演奏者在文化中心语境中承担交流角色，但无个人长期桥梁记录。,A,有限/单次证据,同源报道；不能外推整体受众
+P13-C001,audience_participation,P13-S002,xinhua_kuwait,报道描述观众体验乐器技法、讨论和即兴互动；无量化参与数据。,A,有直接事实支持,同源报道；不能外推整体受众
+P13-C001,channel_fit,P13-S002,xinhua_kuwait,文化中心室内乐+讲解+互动，形式与小型跨文化场景匹配；无渠道效果数据。,A,有直接事实支持,同源报道；不能外推整体受众
+P13-C001,era_theme_relevance,P13-S002,xinhua_kuwait,活动以传统与当代作品、中科文化外交为主题，直接回应文明交流议题。,A,有直接事实支持,同源报道；不能外推整体受众
+P13-C001,dissemination_continuity,P13-S002,xinhua_kuwait,连续两日活动并属于文化中心系列，但无长期持续记录。,A,有限/单次证据,同源报道；不能外推整体受众
+P12-C004,emotional_universality,P13-S004,xinhua_argentina,UBA 学者称观众被中国旋律与 Piazzolla 音乐感动，有人从座位站起；属于单次活动反馈。,A,有限/单次证据,同源报道；不能外推整体受众
+P12-C004,story_explainability,P13-S004,xinhua_argentina,报道列出《送我一支玫瑰花》《秋野》《月下花情》等曲目，并说明作品背景/改编。,A,有直接事实支持,同源报道；不能外推整体受众
+P12-C004,cross_cultural_adaptation,P13-S004,xinhua_argentina,中国乐器与拉丁/探戈及 Piazzolla 作品结合，属实际跨文化编排。,A,有直接事实支持,同源报道；不能外推整体受众
+P12-C004,performer_bridge_role,P13-S004,xinhua_argentina,中国音乐学院音乐家与阿根廷观众/学者交流，但无个人长期记录。,A,有限/单次证据,同源报道；不能外推整体受众
+P12-C004,audience_participation,P13-S004,xinhua_argentina,观众被描述为起立/情绪反应，但没有互动、参与或量化记录。,A,有限/单次证据,同源报道；不能外推整体受众
+P12-C004,channel_fit,P13-S004,xinhua_argentina,科隆剧院 Salón Dorado 的正式音乐会，场地/形式与作品匹配；无渠道效果。,A,有直接事实支持,同源报道；不能外推整体受众
+P12-C004,era_theme_relevance,P13-S004,xinhua_argentina,活动置于中国建国76周年、中阿53周年和全球文明倡议框架。,A,有直接事实支持,同源报道；不能外推整体受众

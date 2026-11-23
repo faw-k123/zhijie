@@ -1,0 +1,11 @@
+﻿candidate_id,approval_item,indicator,decision,approved_score,approver,approval_date,approval_reason,source_id
+P12-C002,case_admission,,APPROVED,,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S002
+P12-C002,indicator_score,story_explainability,APPROVED,1,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S002
+P12-C002,indicator_score,cross_cultural_adaptation,APPROVED,2,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S002
+P12-C002,indicator_score,era_theme_relevance,APPROVED,2,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S002
+P12-C002,indicator_score,channel_fit,APPROVED_REVOKE,,yxh,2026-11-01,审批表勾选批准撤回；保持 null,
+P12-C003,case_admission,,APPROVED,,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S003
+P12-C003,indicator_score,story_explainability,APPROVED,1,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S003
+P12-C003,indicator_score,cross_cultural_adaptation,APPROVED,2,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S003
+P12-C003,indicator_score,era_theme_relevance,APPROVED,1,yxh,2026-11-01,审批表勾选批准；未填写补充理由,P12-S003
+P12-C003,indicator_score,channel_fit,APPROVED_REVOKE,,yxh,2026-11-01,审批表勾选批准撤回；保持 null,

@@ -1,0 +1,6 @@
+﻿candidate_id,candidate_type,related_case_id,related_song_id,source_reopen,source_accessible,evidence_traceable,activity_status,performance_confirmed,outcome_verified,review_status,formal_eligible,reason
+RQ-23,existing_song_case_link,CASE008,23,NO,UNKNOWN,YES_IN_EXISTING_DATA,program_listed,NO,NO,pending_human_review,NO,external source recheck not executed; program_listed only
+RQ-158,existing_song_case_link,CASE008,158,NO,UNKNOWN,YES_IN_EXISTING_DATA,program_listed,NO,NO,pending_human_review,NO,external source recheck not executed; program_listed only
+RQ-26,existing_song_case_link,CASE008,26,NO,UNKNOWN,YES_IN_EXISTING_DATA,program_listed,NO,NO,pending_human_review,NO,external source recheck not executed; program_listed only
+RQ-28,existing_song_case_link,CASE008,28,NO,UNKNOWN,YES_IN_EXISTING_DATA,program_listed,NO,NO,pending_human_review,NO,external source recheck not executed; program_listed only
+RQ-29,existing_song_case_link,CASE008,29,NO,UNKNOWN,YES_IN_EXISTING_DATA,program_listed,NO,NO,pending_human_review,NO,external source recheck not executed; program_listed only

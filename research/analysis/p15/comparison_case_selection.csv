@@ -1,0 +1,7 @@
+﻿strict_case_id,control_case_id,selection_rule,matched_dimensions,unmatched_dimensions,rationale
+CASE005,CASE032,同乐器/同案例类型优先；其次同地区或同主体类型；无评分案例保留为证据对照,同case_type=foreign_individual_cross_cultural；同乐器古筝,控制案例为扩展样本；CASE032/035无有效评分,按预定义规则选择，不按结论挑选
+CASE005,CASE035,同乐器/同案例类型优先；其次同地区或同主体类型；无评分案例保留为证据对照,同case_type=foreign_individual_cross_cultural；同乐器古筝,控制案例为扩展样本；CASE032/035无有效评分,按预定义规则选择，不按结论挑选
+CASE005,CASE004,同乐器/同案例类型优先；其次同地区或同主体类型；无评分案例保留为证据对照,同case_type=foreign_individual_cross_cultural；同北美/个人,乐器不同（二胡/秦琴 vs 古筝）,按预定义规则选择，不按结论挑选
+CASE006,CASE004,同乐器/同案例类型优先；其次同地区或同主体类型；无评分案例保留为证据对照,同case_type=foreign_individual_cross_cultural；同北美/个人,乐器不同（二胡/秦琴 vs 古筝）,按预定义规则选择，不按结论挑选
+CASE006,CASE032,同乐器/同案例类型优先；其次同地区或同主体类型；无评分案例保留为证据对照,同case_type=foreign_individual_cross_cultural；同乐器古筝,控制案例为扩展样本；CASE032/035无有效评分,按预定义规则选择，不按结论挑选
+CASE006,CASE035,同乐器/同案例类型优先；其次同地区或同主体类型；无评分案例保留为证据对照,同case_type=foreign_individual_cross_cultural；同乐器古筝,控制案例为扩展样本；CASE032/035无有效评分,按预定义规则选择，不按结论挑选

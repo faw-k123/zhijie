@@ -1,0 +1,8 @@
+﻿song_id,song_title,original_status,review_conclusion,evidence_url,page_title,publisher,event_date,event_location,performer,piece_match_reason,activity_match_reason,source_quality,evidence_limitations,reviewer_recommendation
+1,【二胡】三寸天堂,ambiguous_match,remain_ambiguous,https://www.erhuschool.tw/5611/,,孫文軒胡琴學院,,,,页面标题/检索词涉及三寸天堂，但未打开正文，无法确认是否为海外活动,,C,页面当前抓取失败；无活动地点/日期,保留ambiguous；人工打开原页并核对活动主体
+5,倩女幽魂 (二胡版),ambiguous_match,remain_ambiguous,,,微信公众号视频,,,,只有微信视频线索，无法确认海外活动或演出主体,,C,无原始URL/正文；视频标题不能替代活动证据,保留ambiguous；寻找可追溯原始视频/活动页
+8,江南 (二胡版),ambiguous_match,rejected_match,https://m.thepaper.cn/newsDetail_forward_33609468,远渡重洋，江南音韵惊艳加拿大！,澎湃号·政务/无锡发布,2026-07（报道）,加拿大渥太华、多伦多,无锡民族乐团,正文曲目为《金蛇狂舞》《世间始终你好》《二泉映月》《红河谷》《百鸟朝凤》《夜深沉》《十面埋伏》，未出现歌曲《江南》,活动真实，但不是目标曲目,B,报道标题‘江南音韵’指江南丝竹风格，不是歌曲《江南》,拒绝该匹配；不要将区域报道当作目标曲目证据
+12,葬花吟（二胡版）,ambiguous_match,remain_ambiguous,https://www.xiaohongshu.com/discovery/item/67a168ca000000002a00fa1a,小红书 404,小红书用户帖,,牛津（声称）,,标题提到葬花吟与牛津舞台，但页面404，无法核对曲目版本,,D,页面404；无活动主体/日期/演出者,保留ambiguous；页面404不等于活动不存在
+17,【古筝】万蝶振翅,ambiguous_match,remain_ambiguous,https://www.bilibili.com/video/BV1x1t1z4EAb/,验证码_哔哩哔哩,B站,,西班牙/英国（标题声称）,,标题声称街头演奏《万蝶振翅》，但页面为验证码，无法核对视频正文,,C,验证码拦截；无活动主体/日期,保留ambiguous；需原始视频或活动记录
+19,关山月,ambiguous_match,remain_ambiguous,https://www.xiaohongshu.com/discovery/item/67fef6a8000000001e007e0b,小红书 404,小红书用户帖,,伯克利（声称）,,帖子标题涉及《关山月》实况，但页面404，无法打开正文,,D,页面404；社交帖非独立来源,保留ambiguous；找北美琴社原始活动页
+22,卧龙吟（古琴版）,ambiguous_match,remain_ambiguous,https://www.bilibili.com/video/BV1A24y1u7w3/,验证码_哔哩哔哩,B站,,伦敦（标题声称）,,标题涉及伦敦幽兰琴社雅集《卧龙吟》，但页面验证码，无法核对,,C,验证码拦截；无活动主体/日期,保留ambiguous；找琴社原始活动记录

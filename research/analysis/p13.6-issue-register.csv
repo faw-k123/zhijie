@@ -1,0 +1,4 @@
+﻿issue_id,severity,status,area,description,impact,recommendation,blocking
+I-01,high,open,案例分类/严格样本,CASE007 标记 strict_sample_eligible=True 且 analysis_sample=strict_individual，但 owner_approval_status=needs_more_evidence；API strict_individual 筛选只返回2条，数据标记为3条。,严格样本数量口径不一致；不能把3条都当作已批准严格样本。,二选一：将CASE007改为扩展/候选样本，或补齐证据并重新审批；同步更新计数与报告。,YES
+I-02,medium,open,活动状态,40个案例均没有 activity_status 字段，无法从数据层区分 announced/program_listed/performed_confirmed。,活动状态只能依赖来源叙述；影响自动筛选与证据审计。,在下一候选版本加入 activity_status 并回填已核案例，或在发布说明中明确该限制。,NO
+I-03,medium,open,发布工程,当前为 v1.6-draft，data_version=v1.6-draft，未加入主 manifest，不能直接作为正式 v1.6 激活。,需要独立发布/promotion步骤，否则激活会读取不到 v1.6。,审批后建立 v1.6 正式目录、更新主manifest、生成发布前快照并复验哈希。,YES

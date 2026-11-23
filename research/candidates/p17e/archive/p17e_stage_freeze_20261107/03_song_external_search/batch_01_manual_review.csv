@@ -1,0 +1,5 @@
+﻿review_id,music_id,music_name,candidate_type,source_url,evidence_summary,review_question,review_status
+P17E-B01-RQ-1,1,【二胡】三寸天堂,song_external_evidence,http://www.erhuschool.tw/5611/,台湾孙文轩胡琴学院页面出现三寸天堂，非海外活动页面,是否为明确海外活动？是否涉及目标曲目？,pending_human_review
+P17E-B01-RQ-3,3,一生所爱（Cover 卢冠廷）,song_external_evidence,http://krirkcn.com/home/single?id=74730868531278,泰国格乐大学2022元宵晚会，学生安贝二胡独奏《一生所爱》,是否为明确海外活动？是否涉及目标曲目？,pending_human_review
+P17E-B01-RQ-5,5,倩女幽魂 (二胡版),song_external_evidence,,搜索结果有微信公众号演奏视频，非明确海外活动,是否为明确海外活动？是否涉及目标曲目？,pending_human_review
+P17E-B01-RQ-8,8,江南 (二胡版),song_external_evidence,https://m.thepaper.cn/newsDetail_forward_33609468,加拿大江南音韵报道，未确认具体曲目《江南》,是否为明确海外活动？是否涉及目标曲目？,pending_human_review

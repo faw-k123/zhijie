@@ -1,0 +1,6 @@
+﻿case_id,music_id,matched_title,case_work_title,source_id,match_method,match_status,match_reason,confidence,reviewer,reviewed_at
+CASE008,23,平沙落雁,平沙落雁,C008-S001,exact,pending,CASE008 work 字段列有《平沙落雁》；库中同名古琴曲,medium,,
+CASE008,158,梅花三弄,梅花三弄,C008-S001,exact,pending,CASE008 work 字段列有《梅花三弄》；选择明确标注古琴的版本 158,medium,,
+CASE008,26,流水,流水,C008-S001,exact,pending,CASE008 work 字段列有《流水》；库中同名古琴曲,medium,,
+CASE008,28,酒狂,酒狂,C008-S001,exact,pending,CASE008 work 字段列有《酒狂》；选择古琴类目 28，不映射阮版本 172,medium,,
+CASE008,29,阳关三叠,阳关三叠,C008-S001,exact,pending,CASE008 work 字段列有《阳关三叠》；库中同名古琴曲,medium,,

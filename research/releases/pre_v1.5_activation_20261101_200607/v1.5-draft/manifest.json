@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.5-draft",
+  "status": "draft",
+  "base_version": "v1.2",
+  "active_version": "v1.2",
+  "created_at": "2026-11-01",
+  "case_count": 38,
+  "source_count": 58,
+  "score_count": 380,
+  "files": {
+    "cases.json": {
+      "sha256": "d52af81a2dc43fe3901c23e6c9acfe1b79fc0040aab3e5574bf9c60430699b50",
+      "bytes": 140168
+    },
+    "success_factors.json": {
+      "sha256": "1c75f68f63c42f246d71965548bda51b54409cc95012d4c0bbc05af454741568",
+      "bytes": 144847
+    },
+    "music_scores.json": {
+      "sha256": "52364251f172645f958dd56b0cbefa458d318059a7d67f2402b3417015a821e7",
+      "bytes": 976
+    },
+    "regional_strategies.json": {
+      "sha256": "dde4c956a520e2dd08e79e94926782a09752adc3f2308b858ec33cc157de3423",
+      "bytes": 931
+    }
+  },
+  "note": "P12.4.5批准构建；含CASE037/CASE038；未激活；主manifest未修改。"
+}

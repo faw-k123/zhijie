@@ -1,0 +1,101 @@
+﻿case_id,candidate_id,performer,indicator_id,indicator_label,score_draft,score_status,source_ids,evidence,evidence_gap,review_status,next_action
+CASE011,CAND001,Duke Chinese Music Ensemble,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：机构合奏团存在，有课程/演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：机构合奏团存在，有课程/演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,story_explainability,故事可解释性,,null,,现有来源仅支持机构/活动存在：机构合奏团存在，有课程/演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：机构合奏团存在，有课程/演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,education_support,教育支持程度,2,draft_score,CAND001-S001,官网提供合奏团/课程入口,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND001-S001,大学合奏团以中国音乐开展社区活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：机构合奏团存在，有课程/演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,channel_fit,传播渠道适配度,1,draft_score,CAND001-S001,校内合奏/演出渠道,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：机构合奏团存在，有课程/演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE011,CAND001,Duke Chinese Music Ensemble,sustainability,传播持续性,,null,,现有来源仅支持机构/活动存在：机构合奏团存在，有课程/演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：UCLA 中国音乐组织与活动入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：UCLA 中国音乐组织与活动入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,story_explainability,故事可解释性,,null,,现有来源仅支持机构/活动存在：UCLA 中国音乐组织与活动入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：UCLA 中国音乐组织与活动入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,education_support,教育支持程度,2,draft_score,CAND002-S001,面向初学者与有经验者开放,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND002-S001,大学中国音乐组织,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：UCLA 中国音乐组织与活动入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,channel_fit,传播渠道适配度,1,draft_score,CAND002-S001,校内活动入口,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：UCLA 中国音乐组织与活动入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE012,CAND002,UCLA Chinese Music,sustainability,传播持续性,,null,,现有来源仅支持机构/活动存在：UCLA 中国音乐组织与活动入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：2026 年度音乐会活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：2026 年度音乐会活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,story_explainability,故事可解释性,1,draft_score,CAND003-S001,年度音乐会主题 From Silk to Symphony,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：2026 年度音乐会活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,education_support,教育支持程度,1,draft_score,CAND003-S001,大学乐团年度音乐会,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND003-S001,中西音乐主题,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：2026 年度音乐会活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,channel_fit,传播渠道适配度,1,draft_score,CAND003-S001,线下音乐会,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：2026 年度音乐会活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE013,CAND003,Qingyun Chinese Music Ensemble,sustainability,传播持续性,1,draft_score,CAND003-S001,年度音乐会,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：学生主导的 East-West 合作报道,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：学生主导的 East-West 合作报道,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,story_explainability,故事可解释性,1,draft_score,CAND004-S001,学生主导的 East-West 合作报道,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,cross_cultural_adaptation,跨文化改编程度,2,draft_score,CAND004-S001,报道明确为 East-West 合作,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,education_support,教育支持程度,2,draft_score,CAND004-S001,学生主导合作项目,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND004-S001,中美学生合作,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：学生主导的 East-West 合作报道,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,channel_fit,传播渠道适配度,1,draft_score,CAND004-S001,校园合作项目,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：学生主导的 East-West 合作报道,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE014,CAND004,Indiana University East-West collaboration,sustainability,传播持续性,,null,,现有来源仅支持机构/活动存在：学生主导的 East-West 合作报道,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：校园中国音乐活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：校园中国音乐活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,story_explainability,故事可解释性,,null,,现有来源仅支持机构/活动存在：校园中国音乐活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：校园中国音乐活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,education_support,教育支持程度,1,draft_score,CAND005-S001,校园中国音乐活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND005-S001,校园文化活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：校园中国音乐活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,channel_fit,传播渠道适配度,1,draft_score,CAND005-S001,校园活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：校园中国音乐活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE015,CAND005,University of Illinois Chinese music event,sustainability,传播持续性,,null,,现有来源仅支持机构/活动存在：校园中国音乐活动页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：Chinese Music Ensemble 招新信息,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：Chinese Music Ensemble 招新信息,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,story_explainability,故事可解释性,,null,,现有来源仅支持机构/活动存在：Chinese Music Ensemble 招新信息,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：Chinese Music Ensemble 招新信息,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,education_support,教育支持程度,2,draft_score,CAND006-S001,乐团招新/合奏教育,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND006-S001,大学中国音乐合奏团,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：Chinese Music Ensemble 招新信息,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,channel_fit,传播渠道适配度,1,draft_score,CAND006-S001,校内合奏,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：Chinese Music Ensemble 招新信息,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,sustainability,传播持续性,,null,,现有来源仅支持机构/活动存在：Chinese Music Ensemble 招新信息,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：学生组织登记页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：学生组织登记页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,story_explainability,故事可解释性,,null,,现有来源仅支持机构/活动存在：学生组织登记页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：学生组织登记页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,education_support,教育支持程度,1,draft_score,CAND007-S001,学生组织,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND007-S001,学生中国民乐组织,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：学生组织登记页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,channel_fit,传播渠道适配度,1,draft_score,CAND007-S001,学生组织活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：学生组织登记页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,sustainability,传播持续性,,null,,现有来源仅支持机构/活动存在：学生组织登记页,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：2016 音乐会节目单,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：2016 音乐会节目单,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,story_explainability,故事可解释性,1,draft_score,CAND008-S001,2016 音乐会节目单,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：2016 音乐会节目单,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,education_support,教育支持程度,1,draft_score,CAND008-S001,学院合奏团,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND008-S001,学院中国音乐合奏,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：2016 音乐会节目单,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,channel_fit,传播渠道适配度,1,draft_score,CAND008-S001,音乐会,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：2016 音乐会节目单,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE018,CAND008,Williams Chinese Music Ensemble,sustainability,传播持续性,,null,,现有来源仅支持机构/活动存在：2016 音乐会节目单,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：乐团介绍与演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：乐团介绍与演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,story_explainability,故事可解释性,,null,,现有来源仅支持机构/活动存在：乐团介绍与演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：乐团介绍与演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,education_support,教育支持程度,1,draft_score,CAND009-S001,乐团介绍/演出入口,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND009-S001,纽约中国民族乐团,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：乐团介绍与演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,channel_fit,传播渠道适配度,1,draft_score,CAND009-S001,乐团演出,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：乐团介绍与演出入口,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE019,CAND009,Chinese Music Ensemble of New York,sustainability,传播持续性,1,draft_score,CAND009-S001,乐团持续活动入口,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,emotional_resonance,情感共通性,,null,,现有来源仅支持机构/活动存在：2026-02-07 图书馆演出活动,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,timbre_identity,音色辨识度,,null,,现有来源仅支持机构/活动存在：2026-02-07 图书馆演出活动,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,story_explainability,故事可解释性,1,draft_score,CAND010-S001,图书馆演出活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,cross_cultural_adaptation,跨文化改编程度,,null,,现有来源仅支持机构/活动存在：2026-02-07 图书馆演出活动,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,education_support,教育支持程度,1,draft_score,CAND010-S001,社区/图书馆活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,bridge_role,外国演奏者的文化桥梁作用,1,draft_score,CAND010-S001,社区中国音乐活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,audience_participation,受众参与度,,null,,现有来源仅支持机构/活动存在：2026-02-07 图书馆演出活动,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,channel_fit,传播渠道适配度,1,draft_score,CAND010-S001,社区活动,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,era_theme_relevance,时代主题关联度,,null,,现有来源仅支持机构/活动存在：2026-02-07 图书馆演出活动,缺个人演奏、曲目、受众或音色证据,draft_pending,补来源或人工复核后决定是否写入正式编码
+CASE020,CAND010,Ba Ban Chinese Music Society,sustainability,传播持续性,1,draft_score,CAND010-S001,持续社区活动入口,需人工复核锚点,draft_pending,补来源或人工复核后决定是否写入正式编码

@@ -1,0 +1,21 @@
+﻿candidate_id,indicator_id,original_score,review_status,suggested_score,review_reason,source_ids,reviewer
+P13-C001,emotional_universality,1,approved,1,中国教授/科威特官员引语支持单次活动情感交流；不上升为整体受众。,P13-S002,独立复核（待负责人审批）
+P13-C001,timbral_distinctiveness,,approved,,null 保留：无录音/音色描述。,,独立复核（待负责人审批）
+P13-C001,story_explainability,2,approved,2,曲目与乐器背景/现场讲解有来源。,P13-S002,独立复核（待负责人审批）
+P13-C001,cross_cultural_adaptation,2,approved,2,中科合作《茉莉花》、乌德琴参与，实际合作。,P13-S002,独立复核（待负责人审批）
+P13-C001,educational_support,1,approved,1,一次性演示/体验，非持续课程；1分合适。,P13-S002,独立复核（待负责人审批）
+P13-C001,performer_bridge_role,1,approved,1,文化中心交流角色；无长期个人记录。,P13-S002,独立复核（待负责人审批）
+P13-C001,audience_participation,2,approved,2,观众体验技法、讨论、即兴互动；有实际参与，但无量化。,P13-S002,独立复核（待负责人审批）
+P13-C001,channel_fit,2,needs_revision,1,文化中心室内乐+讲解+互动支持形式匹配，但无渠道效果；2分过高，降为1。,P13-S002,独立复核（待负责人审批）
+P13-C001,era_theme_relevance,2,approved,2,传统/当代作品与中科文化外交主题直接相关。,P13-S002,独立复核（待负责人审批）
+P13-C001,dissemination_continuity,1,approved,1,连续两日/系列，但无长期记录；1分。,P13-S002,独立复核（待负责人审批）
+P12-C004,emotional_universality,1,approved,1,UBA 学者转述观众被感动/起立；单次活动。,P13-S004,独立复核（待负责人审批）
+P12-C004,timbral_distinctiveness,,approved,,null 保留：无录音/音色评论。,,独立复核（待负责人审批）
+P12-C004,story_explainability,2,approved,2,曲目与作品背景/改编有来源。,P13-S004,独立复核（待负责人审批）
+P12-C004,cross_cultural_adaptation,2,approved,2,中国乐器与拉丁/探戈/Piazzolla 实际结合。,P13-S004,独立复核（待负责人审批）
+P12-C004,educational_support,,approved,,null 保留：无课程/工作坊。,,独立复核（待负责人审批）
+P12-C004,performer_bridge_role,1,approved,1,中阿音乐交流；无个人长期记录。,P13-S004,独立复核（待负责人审批）
+P12-C004,audience_participation,1,needs_revision,,“起立/感动”是情绪反应，不是参与行为；撤回为 null。,P13-S004,独立复核（待负责人审批）
+P12-C004,channel_fit,2,needs_revision,1,科隆剧院正式音乐会支持形式匹配，但无渠道效果；降为1。,P13-S004,独立复核（待负责人审批）
+P12-C004,era_theme_relevance,2,approved,2,76周年/中阿53年/全球文明倡议框架。,P13-S004,独立复核（待负责人审批）
+P12-C004,dissemination_continuity,,approved,,null 保留：单次活动。,,独立复核（待负责人审批）

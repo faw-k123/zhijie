@@ -1,0 +1,438 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.7",
+  "status": "partial",
+  "status_label": "六国试验策略已审批",
+  "note": "六国×20首为已审批的试验设计，不代表国家总体偏好；C级曲目保留在context_required_music_ids。",
+  "regions": [
+    "东亚",
+    "东南亚",
+    "欧洲",
+    "北美",
+    "中东及部分伊斯兰文化地区",
+    "拉丁美洲"
+  ],
+  "audiences": [
+    "音乐学院学生",
+    "华裔社群",
+    "青年短视频用户",
+    "世界音乐爱好者",
+    "博物馆与文化机构",
+    "综合"
+  ],
+  "themes": [
+    "丝绸之路与文明交流",
+    "和平与友谊",
+    "自然生态与山水审美",
+    "乡愁、迁徙与故乡",
+    "非遗保护",
+    "青年文化交流",
+    "女性艺术表达",
+    "城市化与传统记忆",
+    "数字技术与传统音乐",
+    "心理疗愈与情绪共鸣"
+  ],
+  "rows": [
+    {
+      "strategy_id": "V17-R01",
+      "region": "东亚",
+      "country": "日本",
+      "audience": "高校、动漫/游戏音乐社群、文化机构、短视频与小型现场",
+      "match_reason": "内容产业与动漫具有强文化入口，但不推定所有日本受众偏好动漫",
+      "music_ids": [
+        "MU001",
+        "MU002",
+        "MU010",
+        "MU015",
+        "MU018",
+        "MU019",
+        "MU005",
+        "MU007",
+        "MU008",
+        "MU009",
+        "MU016",
+        "MU017"
+      ],
+      "priority_music_ids": [
+        "MU001",
+        "MU002",
+        "MU010",
+        "MU015",
+        "MU018",
+        "MU019"
+      ],
+      "secondary_music_ids": [
+        "MU005",
+        "MU007",
+        "MU008",
+        "MU009",
+        "MU016",
+        "MU017"
+      ],
+      "context_required_music_ids": [
+        "MU003",
+        "MU004",
+        "MU006",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU020"
+      ],
+      "primary_entry_mechanisms": [
+        "M3",
+        "M7",
+        "M8",
+        "M9"
+      ],
+      "theme_frame": "青年文化交流、自然审美、女性故事",
+      "adaptation_design": "二胡/葫芦丝与影视化叙事；昆曲和豫剧使用短字幕片段；保留原乐器音色",
+      "language_and_mediation": "日语标题、曲目故事100字内；长版提供中日双语导赏",
+      "religion_and_cultural_safeguard": "不把东亚文化相近等同于理解一致；避免把中国元素包装成泛东亚符号",
+      "pilot_design": "每首30—60秒原版/熟悉风格版A/B，之后选4首做小型导赏会",
+      "success_metrics": "完整观看率、音色识别、理解准确率、收藏/报名学习、开放回答",
+      "source_ids": [
+        "CTY-S01"
+      ],
+      "evidence_status": "hypothesis_for_pilot",
+      "display_allowed": true
+    },
+    {
+      "strategy_id": "V17-R02",
+      "region": "东南亚",
+      "country": "泰国",
+      "audience": "文化委员会网络、高校、社区节庆、博物馆和户外空间",
+      "match_reason": "官方文化指导强调地方传统参与和宗教间理解，具体音乐偏好需实测",
+      "music_ids": [
+        "MU002",
+        "MU004",
+        "MU005",
+        "MU008",
+        "MU015",
+        "MU016",
+        "MU001",
+        "MU007",
+        "MU009",
+        "MU010",
+        "MU014",
+        "MU018",
+        "MU020"
+      ],
+      "priority_music_ids": [
+        "MU002",
+        "MU004",
+        "MU005",
+        "MU008",
+        "MU015",
+        "MU016"
+      ],
+      "secondary_music_ids": [
+        "MU001",
+        "MU007",
+        "MU009",
+        "MU010",
+        "MU014",
+        "MU018",
+        "MU020"
+      ],
+      "context_required_music_ids": [
+        "MU003",
+        "MU006",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU017",
+        "MU019"
+      ],
+      "primary_entry_mechanisms": [
+        "M1",
+        "M2",
+        "M5",
+        "M9"
+      ],
+      "theme_frame": "水域文明、自然生态、社区节庆与青年友谊",
+      "adaptation_design": "与泰国弦乐/管乐/打击乐艺术家共创；民歌设计可参与副歌；生态曲配河流与鸟类影像",
+      "language_and_mediation": "泰语导赏为主，保留中文曲名及准确音译；由当地文化顾问审校",
+      "religion_and_cultural_safeguard": "尊重佛教及多宗教社会；宗教场所版本不使用娱乐化宗教符号，不从多数宗教推断个人偏好",
+      "pilot_design": "曼谷与一处非首都城市各测一场，原版/合作版对照",
+      "success_metrics": "现场停留、共同演唱率、情绪词、文化理解、合作方复邀",
+      "source_ids": [
+        "CTY-S02"
+      ],
+      "evidence_status": "hypothesis_for_pilot",
+      "display_allowed": true
+    },
+    {
+      "strategy_id": "V17-R03",
+      "region": "欧洲",
+      "country": "英国",
+      "audience": "大学、博物馆、世界音乐节、实验音乐场地、社区广播",
+      "match_reason": "政策显示现场生态、数字传播和多样性重要，艺术参与仍存在群体差异",
+      "music_ids": [
+        "MU003",
+        "MU005",
+        "MU006",
+        "MU007",
+        "MU011",
+        "MU018",
+        "MU001",
+        "MU002",
+        "MU008",
+        "MU010",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU017"
+      ],
+      "priority_music_ids": [
+        "MU003",
+        "MU005",
+        "MU006",
+        "MU007",
+        "MU011",
+        "MU018"
+      ],
+      "secondary_music_ids": [
+        "MU001",
+        "MU002",
+        "MU008",
+        "MU010",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU017"
+      ],
+      "context_required_music_ids": [
+        "MU004",
+        "MU009",
+        "MU015",
+        "MU016",
+        "MU019",
+        "MU020"
+      ],
+      "primary_entry_mechanisms": [
+        "M2",
+        "M4",
+        "M5",
+        "M6",
+        "M9"
+      ],
+      "theme_frame": "文明对话、自然生态、实验创作与女性表达",
+      "adaptation_design": "古琴/昆曲采用导赏音乐会；中阮式跨界经验转化为古琴爵士、室内乐或声音艺术合作",
+      "language_and_mediation": "英文节目册避免神秘化用语；提供可访问字幕、手语/无障碍信息",
+      "religion_and_cultural_safeguard": "面向多族群分众招募，不把英国受众等同于单一白人/古典乐群体；宗教内容保持中性",
+      "pilot_design": "专业评论组与普通观众组分开；同一曲目原版/跨界版比较",
+      "success_metrics": "理解、情绪、音色记忆、付费意愿、问答参与、不同群体差异",
+      "source_ids": [
+        "CTY-S03",
+        "CTY-S04"
+      ],
+      "evidence_status": "hypothesis_for_pilot",
+      "display_allowed": true
+    },
+    {
+      "strategy_id": "V17-R04",
+      "region": "北美",
+      "country": "美国",
+      "audience": "高校、公共图书馆、社区艺术中心、在线课程和流媒体",
+      "match_reason": "官方调查显示数字观看、在线学习与现场艺术参与均重要，但州际差异显著",
+      "music_ids": [
+        "MU001",
+        "MU003",
+        "MU007",
+        "MU008",
+        "MU010",
+        "MU019",
+        "MU002",
+        "MU004",
+        "MU005",
+        "MU009",
+        "MU015",
+        "MU016",
+        "MU017",
+        "MU018"
+      ],
+      "priority_music_ids": [
+        "MU001",
+        "MU003",
+        "MU007",
+        "MU008",
+        "MU010",
+        "MU019"
+      ],
+      "secondary_music_ids": [
+        "MU002",
+        "MU004",
+        "MU005",
+        "MU009",
+        "MU015",
+        "MU016",
+        "MU017",
+        "MU018"
+      ],
+      "context_required_music_ids": [
+        "MU006",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU020"
+      ],
+      "primary_entry_mechanisms": [
+        "M1",
+        "M3",
+        "M4",
+        "M7",
+        "M8",
+        "M9"
+      ],
+      "theme_frame": "多元社区、青年成长、社会连接与女性行动",
+      "adaptation_design": "用人物故事和60秒技巧片引流，再以校园/社区工作坊转化；民歌可与当地弦乐、爵士或合唱合作",
+      "language_and_mediation": "英语为主；西语社区另做本地化试点，不能用英语版本代表全美",
+      "religion_and_cultural_safeguard": "按州、年龄和族群分层；避免猎奇化“外国人会中国乐器”；宗教联想只作个体解释",
+      "pilot_design": "两个州各做线上样本与线下工作坊，记录从观看到学习的漏斗",
+      "success_metrics": "观看完成、分享理由、学习报名、现场参与、30天记忆与复访",
+      "source_ids": [
+        "CTY-S05",
+        "CTY-S06"
+      ],
+      "evidence_status": "hypothesis_for_pilot",
+      "display_allowed": true
+    },
+    {
+      "strategy_id": "V17-R05",
+      "region": "中东及部分伊斯兰文化地区",
+      "country": "阿联酋",
+      "audience": "阿布扎比文化机构、大学、博物馆、使馆文化项目和家族友好活动",
+      "match_reason": "阿布扎比文化策略鼓励遗产、创新与包容参与；媒体规范要求尊重宗教、文化和隐私",
+      "music_ids": [
+        "MU002",
+        "MU005",
+        "MU007",
+        "MU009",
+        "MU014",
+        "MU015",
+        "MU001",
+        "MU004",
+        "MU006",
+        "MU008",
+        "MU010",
+        "MU012",
+        "MU016",
+        "MU018"
+      ],
+      "priority_music_ids": [
+        "MU002",
+        "MU005",
+        "MU007",
+        "MU009",
+        "MU014",
+        "MU015"
+      ],
+      "secondary_music_ids": [
+        "MU001",
+        "MU004",
+        "MU006",
+        "MU008",
+        "MU010",
+        "MU012",
+        "MU016",
+        "MU018"
+      ],
+      "context_required_music_ids": [
+        "MU003",
+        "MU011",
+        "MU013",
+        "MU017",
+        "MU019",
+        "MU020"
+      ],
+      "primary_entry_mechanisms": [
+        "M1",
+        "M2",
+        "M4",
+        "M5",
+        "M6"
+      ],
+      "theme_frame": "丝绸之路、自然、家庭友谊与文明交流",
+      "adaptation_design": "以纯器乐、家族友好和遗产对话为主；可与乌德琴/卡农等当地音乐家共创但不声称历史同源",
+      "language_and_mediation": "阿拉伯语/英语双语；所有宗教、历史和图像表述由当地机构审校",
+      "religion_and_cultural_safeguard": "《酒狂》不以酒为推广中心；暴力/复仇曲目仅限有解释的机构场景；尊重宗教、隐私、着装与拍摄许可",
+      "pilot_design": "先做6首无歌词器乐闭门焦点组，通过合规复核后公开试演",
+      "success_metrics": "舒适度、尊重感、情绪、理解、家庭参与、机构复邀、零合规事件",
+      "source_ids": [
+        "CTY-S07",
+        "CTY-S08"
+      ],
+      "evidence_status": "hypothesis_for_pilot",
+      "display_allowed": true
+    },
+    {
+      "strategy_id": "V17-R06",
+      "region": "拉丁美洲",
+      "country": "巴西",
+      "audience": "文化点/社区组织、大学、户外节庆、短视频和在线音乐平台",
+      "match_reason": "官方材料强调文化多样、地方协作和社会参与；线上音乐普及但传统音乐会门槛较高",
+      "music_ids": [
+        "MU001",
+        "MU004",
+        "MU008",
+        "MU010",
+        "MU016",
+        "MU020",
+        "MU002",
+        "MU003",
+        "MU005",
+        "MU009",
+        "MU015",
+        "MU018",
+        "MU019"
+      ],
+      "priority_music_ids": [
+        "MU001",
+        "MU004",
+        "MU008",
+        "MU010",
+        "MU016",
+        "MU020"
+      ],
+      "secondary_music_ids": [
+        "MU002",
+        "MU003",
+        "MU005",
+        "MU009",
+        "MU015",
+        "MU018",
+        "MU019"
+      ],
+      "context_required_music_ids": [
+        "MU006",
+        "MU007",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU017"
+      ],
+      "primary_entry_mechanisms": [
+        "M1",
+        "M2",
+        "M3",
+        "M5",
+        "M9"
+      ],
+      "theme_frame": "社区节庆、土地记忆、爱情、迁徙与多样表达",
+      "adaptation_design": "强化节奏和共同演唱但保留核心旋律/乐器；与巴西弦乐、打击乐和社区合唱团共创",
+      "language_and_mediation": "葡萄牙语为主；不同地区试点不以圣保罗代表全国",
+      "religion_and_cultural_safeguard": "尊重天主教、福音派、非洲裔和原住民等多元信仰与文化；禁止把巴西简化为桑巴符号",
+      "pilot_design": "圣保罗先做数字样本，另选一地社区合作；原版/节奏融合版对照",
+      "success_metrics": "共同演唱率、节奏偏好、文化理解、社区伙伴评价、学习/复访",
+      "source_ids": [
+        "CTY-S09",
+        "CTY-S10"
+      ],
+      "evidence_status": "hypothesis_for_pilot",
+      "display_allowed": true
+    }
+  ]
+}

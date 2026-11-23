@@ -1,0 +1,41 @@
+﻿activity_id,case_id,activity_status,activity_date,performance_location,source_ids,evidence_type,performance_confirmed,outcome_verified,note
+CASE001-A0,CASE001,unknown,2016年起学习；2020年起视频走红；2023年11月中国12城巡演,mixed,C001-S001;C001-S002;C001-S003,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE002-A0,CASE002,unknown,2026-04-30,overseas,C002-S001;C002-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE003-A0,CASE003,unknown,2026-10-03,overseas,C003-S001;C003-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE004-A0,CASE004,unknown,1990年代中期在台湾学习二胡；2004年移居上海；2018年上海市政府英文报道,mixed,C004-S001;C004-S002;C004-S003,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE005-A0,CASE005,unknown,1981年生于悉尼；2007年移居柏林；近十余年在16国演出；2024-10-06 LVSXY 演出,overseas,C005-S001;C005-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE006-A0,CASE006,unknown,13岁开始自学；2017年 MPR 报道；2018年 Anderson Center 驻留/演出；2018-08-25 双城灯节；2018-12 奥尔德道演出,overseas,C006-S001;C006-S002;C006-S003,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE007-A0,CASE007,unknown,1996年起在西安音乐学院学习三年；1998年二胡十级；1999年回英；此后在 Leeds/Edinburgh/Oxford/Bristol 等高校演出；BBC Radio 3,overseas,C007-S001;C007-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE008-A0,CASE008,unknown,2003-07-13成立；2025-07-12 22周年雅集；2025-08-25至30 伦敦国际中国音乐节,overseas,C008-S001;C008-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE009-A0,CASE009,unknown,2025-05-03,overseas,C009-S001;C009-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE010-A0,CASE010,unknown,2000年首次来华；2013年组建 Djang San + Band；2019年人民网德语视界报道,mainland_china,C010-S001;C010-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE011-A0,CASE011,unknown,partial,美国,CAND001-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE012-A0,CASE012,unknown,partial,美国,CAND002-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE013-A0,CASE013,unknown,unverified,美国,CAND003-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE014-A0,CASE014,unknown,partial,美国,CAND004-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE015-A0,CASE015,unknown,unverified,美国,CAND005-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE016-A0,CASE016,unknown,unverified,美国,CAND006-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE017-A0,CASE017,unknown,unverified,美国,CAND007-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE018-A0,CASE018,unknown,unverified,美国,CAND008-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE019-A0,CASE019,unknown,unverified,美国,CAND009-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE020-A0,CASE020,unknown,scheduled,美国,CAND010-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE021-A0,CASE021,unknown,partial,美国,CAND011-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE022-A0,CASE022,unknown,partial,加拿大,CAND012-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE023-A0,CASE023,unknown,partial,加拿大,CAND013-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE024-A0,CASE024,unknown,scheduled,加拿大,CAND014-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE025-A0,CASE025,unknown,scheduled,美国,CAND015-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE026-A0,CASE026,unknown,partial,澳大利亚,CAND016-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE027-A0,CASE027,unknown,scheduled,澳大利亚,CAND017-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE028-A0,CASE028,unknown,partial,澳大利亚,CAND018-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE029-A0,CASE029,unknown,unverified,新西兰,CAND019-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE030-A0,CASE030,unknown,partial,英国,CAND020-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE031-A0,CASE031,unknown,scheduled,德国,CAND022-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE032-A0,CASE032,unknown,performed_confirmed,英国,CAND026-S001;CAND026-S003,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE033-A0,CASE033,unknown,partial,澳大利亚,CAND028-S001;CAND028-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE034-A0,CASE034,unknown,performed_confirmed,美国,CAND031-S001,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE035-A0,CASE035,unknown,program_listed,德国,CAND033-S001;CAND033-S002;CAND033-S003;CAND033-S004,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE036-A0,CASE036,unknown,performed_confirmed,日本,CAND036-S001;CAND036-S002;CAND036-S003,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE037-A0,CASE037,unknown,2025-11-14,"阿联酋 / Abu Dhabi, Umm Al Emarat Park",P12-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE038-A0,CASE038,unknown,2026-09-25 / 2026-09-27,"墨西哥 / Palacio de Bellas Artes, Mexico City; UNAM",P12-S003,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE039-A0,CASE039,unknown,2025-11-24 / 2025-11-25,科威特 / China Cultural Center,P13-S001;P13-S002,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据
+CASE040-A0,CASE040,unknown,2025-09-22,阿根廷 / Teatro Colón,P12-S004;P13-S004,existing_source_metadata,NO,NO,未发现新增活动完成或结果证据

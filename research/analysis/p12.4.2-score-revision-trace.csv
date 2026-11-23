@@ -1,0 +1,9 @@
+﻿candidate_id,indicator,original_draft_score,review_decision,revised_recommended_score,source_id,review_reason,approval_status
+P12-C002,story_explainability,1,approve,1,P12-S002,文化语境和曲目可解释性有来源支持，但只有 1 分强度。,pending
+P12-C002,cross_cultural_adaptation,2,approve,2,P12-S002,有实际跨文化呈现/融合节目，不是单纯同台。,pending
+P12-C002,channel_fit,1,reject,,P12-S002,海外演出地点/活动存在不能单独证明渠道适配；撤回为 null。,pending
+P12-C002,era_theme_relevance,2,approve,2,P12-S002,活动主题与当代文明交流/包容议题直接相关。,pending
+P12-C003,story_explainability,2,revise,1,P12-S003,曲目与节目叙事有支持，但 2 分需要更具体的作品故事/文化解释；降为 1。,pending
+P12-C003,cross_cultural_adaptation,2,approve,2,P12-S003,有实际跨文化合作与编制融合证据。,pending
+P12-C003,channel_fit,2,reject,,P12-S003,知名场馆/观众掌声不能证明渠道适配；撤回为 null。,pending
+P12-C003,era_theme_relevance,2,revise,1,P12-S003,活动框架有当代文化交流意义，但 2 分需要更明确的议题内容；降为 1。,pending

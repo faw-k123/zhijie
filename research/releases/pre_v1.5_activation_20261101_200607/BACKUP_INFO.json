@@ -1,0 +1,14 @@
+{
+  "snapshot": "pre_v1.5_activation_20261101_200607",
+  "active_version": "v1.2",
+  "file_count": 21,
+  "total_bytes": 950505,
+  "files_hashed": 21,
+  "hash_file": "SHA256SUMS.csv",
+  "hash_file_sha256": "387aedf21850eb3b6e841e527293139104b07b25b47ea25cbd567aedca9cb000",
+  "version_registration": {
+    "v1.5": "reviewed",
+    "v1.5_path": "v1.5"
+  },
+  "status": "complete"
+}

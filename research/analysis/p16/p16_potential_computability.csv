@@ -1,0 +1,303 @@
+﻿song_id,song_name,available_factors,partial_factors,missing_factors,full_score_possible,computability_class,explicit_case_mapping
+1,【二胡】三寸天堂,0,0,8,NO,not_computable,NO
+2,【二胡】琴师,0,0,8,NO,not_computable,NO
+3,一生所爱（Cover 卢冠廷）,0,0,8,NO,not_computable,NO
+4,二泉映月,0,0,8,NO,not_computable,NO
+5,倩女幽魂 (二胡版),0,0,8,NO,not_computable,NO
+6,战马奔腾(二胡),0,0,8,NO,not_computable,NO
+7,梁祝,0,0,8,NO,not_computable,NO
+8,江南 (二胡版),0,0,8,NO,not_computable,NO
+9,牵丝戏（二胡&京胡版）,0,0,8,NO,not_computable,NO
+10,神经病之歌 (二胡),0,0,8,NO,not_computable,NO
+11,花田错（二胡版）,0,0,8,NO,not_computable,NO
+12,葬花吟（二胡版）,0,0,8,NO,not_computable,NO
+13,赛马(二胡独奏),0,0,8,NO,not_computable,NO
+14,迴梦游仙 二胡独奏版,0,0,8,NO,not_computable,NO
+15,《穿越时空的思念》纯古琴版,0,0,8,NO,not_computable,NO
+16,《飞雪玉花》纯古琴版,0,0,8,NO,not_computable,NO
+17,【古筝】万蝶振翅,0,0,8,NO,not_computable,NO
+18,不染 古琴版,0,0,8,NO,not_computable,NO
+19,关山月,0,0,8,NO,not_computable,NO
+20,初见 (古琴版）（翻自 余昭源）,0,0,8,NO,not_computable,NO
+21,半山听雨,0,0,8,NO,not_computable,NO
+22,卧龙吟（古琴版）,0,0,8,NO,not_computable,NO
+23,平沙落雁,0,4,4,NO,partial,YES
+24,广陵散 (古琴独奏),0,0,8,NO,not_computable,NO
+25,梅花三弄,0,0,8,NO,not_computable,NO
+26,流水,0,4,4,NO,partial,YES
+27,牵丝戏（纯古琴）（翻自 银临）,0,0,8,NO,not_computable,NO
+28,酒狂,0,4,4,NO,partial,YES
+29,阳关三叠,0,4,4,NO,partial,YES
+30,高山流水,0,0,8,NO,not_computable,NO
+31,(兰亭序)一段,0,0,8,NO,not_computable,NO
+32,《大鱼海棠》印象曲《大鱼》纯古琴版,0,0,8,NO,not_computable,NO
+33,十面埋伏(琵琶独奏),0,0,8,NO,not_computable,NO
+34,古琴禅修,0,0,8,NO,not_computable,NO
+35,女儿情,0,0,8,NO,not_computable,NO
+36,广陵散,0,0,8,NO,not_computable,NO
+37,广陵散 (古琴独奏),0,0,8,NO,not_computable,NO
+38,战台风,0,0,8,NO,not_computable,NO
+39,春江花月夜,0,0,8,NO,not_computable,NO
+40,梁祝 (古筝独奏),0,0,8,NO,not_computable,NO
+41,沧海一声笑,0,0,8,NO,not_computable,NO
+42,渔舟唱晚,0,0,8,NO,not_computable,NO
+43,渔舟唱晚 (古筝独奏),0,0,8,NO,not_computable,NO
+44,琵琶语（古筝版）,0,0,8,NO,not_computable,NO
+45,画心,0,0,8,NO,not_computable,NO
+46,高山流水 (古筝独奏),0,0,8,NO,not_computable,NO
+47,三拜红尘凉,0,0,8,NO,not_computable,NO
+48,九儿（唢呐版),0,0,8,NO,not_computable,NO
+49,云宫迅音（唢呐摇滚版）,0,0,8,NO,not_computable,NO
+50,囍（Chinese Wedding）,0,0,8,NO,not_computable,NO
+51,大出殡(唢呐版),0,0,8,NO,not_computable,NO
+52,大黑天,0,0,8,NO,not_computable,NO
+53,天下,0,0,8,NO,not_computable,NO
+54,安河桥（唢呐混音完整版）（翻自 宋冬野）,0,0,8,NO,not_computable,NO
+55,惊涛落日（Official Vers.）,0,0,8,NO,not_computable,NO
+56,百鳥朝鳳 (嗩吶獨奏),0,0,8,NO,not_computable,NO
+57,辞.九门回忆,0,0,8,NO,not_computable,NO
+58,通天大道宽又阔（唢呐版）（翻自 无）,0,0,8,NO,not_computable,NO
+59,鸳鸯债,0,0,8,NO,not_computable,NO
+60,哀郢(埙与乐队),0,0,8,NO,not_computable,NO
+61,大鱼《埙版》（翻自 周深）,0,0,8,NO,not_computable,NO
+62,女儿情 埙版,0,0,8,NO,not_computable,NO
+63,寒江残雪(埙),0,0,8,NO,not_computable,NO
+64,枉凝眉,0,0,8,NO,not_computable,NO
+65,楚歌 埙,0,0,8,NO,not_computable,NO
+83,采薇,0,0,8,NO,not_computable,NO
+84,韩信拜将,0,0,8,NO,not_computable,NO
+85,黄河鼓韵,0,0,8,NO,not_computable,NO
+86,鼓诗,0,0,8,NO,not_computable,NO
+87,龙魂大鼓(鼓乐),0,0,8,NO,not_computable,NO
+88,万蝶振翅（琵琶）,0,0,8,NO,not_computable,NO
+89,兰陵王入阵曲,0,0,8,NO,not_computable,NO
+90,十面埋伏,0,0,8,NO,not_computable,NO
+91,十面埋伏 (琵琶独奏),0,0,8,NO,not_computable,NO
+92,千本樱（琵琶）,0,0,8,NO,not_computable,NO
+93,听！秦王破阵乐！,0,0,8,NO,not_computable,NO
+94,山鬼（琵琶X古筝）,0,0,8,NO,not_computable,NO
+95,广陵散 (古琴独奏),0,0,8,NO,not_computable,NO
+96,忆江南（琵琶）,0,0,8,NO,not_computable,NO
+97,故梦(琵琶版),0,0,8,NO,not_computable,NO
+98,春江花月夜,0,0,8,NO,not_computable,NO
+99,晚夜微雨问海棠（琵琶版）乐落清音,0,0,8,NO,not_computable,NO
+100,渔舟唱晚 (古筝独奏),0,0,8,NO,not_computable,NO
+122,东北人都是活雷锋,0,0,8,NO,not_computable,NO
+123,大东北我的家乡,0,0,8,NO,not_computable,NO
+124,海东青,0,0,8,NO,not_computable,NO
+125,花木兰,0,0,8,NO,not_computable,NO
+126,唱大戏,0,0,8,NO,not_computable,NO
+127,大河南我的家乡,0,0,8,NO,not_computable,NO
+128,回娘家,0,0,8,NO,not_computable,NO
+129,信天游,0,0,8,NO,not_computable,NO
+130,小放牛,0,0,8,NO,not_computable,NO
+131,彩云追月,0,0,8,NO,not_computable,NO
+132,望春风,0,0,8,NO,not_computable,NO
+133,祝福,0,0,8,NO,not_computable,NO
+134,好一朵鲜花,0,0,8,NO,not_computable,NO
+135,梦江南,0,0,8,NO,not_computable,NO
+136,紫竹调,0,0,8,NO,not_computable,NO
+137,天竺少女,0,0,8,NO,not_computable,NO
+138,花儿为什么这样红,0,0,8,NO,not_computable,NO
+139,在那遥远的地方,0,0,8,NO,not_computable,NO
+140,蝴蝶泉边,0,0,8,NO,not_computable,NO
+141,雀之灵,0,0,8,NO,not_computable,NO
+142,康定情歌,0,0,8,NO,not_computable,NO
+143,东方红,0,0,8,NO,not_computable,NO
+144,黄土高坡,0,0,8,NO,not_computable,NO
+145,山丹丹开花红艳艳,0,0,8,NO,not_computable,NO
+146,秦王破阵乐,0,0,8,NO,not_computable,NO
+147,霓裳羽衣曲,0,0,8,NO,not_computable,NO
+148,春江花月夜,0,0,8,NO,not_computable,NO
+149,采薇,0,0,8,NO,not_computable,NO
+150,神舞,0,0,8,NO,not_computable,NO
+151,执羽,0,0,8,NO,not_computable,NO
+152,沧海一声笑,0,0,8,NO,not_computable,NO
+153,大鱼,0,0,8,NO,not_computable,NO
+154,何以歌,0,0,8,NO,not_computable,NO
+155,梁祝,0,0,8,NO,not_computable,NO
+156,赛马,0,0,8,NO,not_computable,NO
+157,广陵散,0,0,8,NO,not_computable,NO
+158,梅花三弄,0,4,4,NO,partial,YES
+159,高山流水,0,0,8,NO,not_computable,NO
+160,渔舟唱晚,0,0,8,NO,not_computable,NO
+161,画心,0,0,8,NO,not_computable,NO
+162,女儿情,0,0,8,NO,not_computable,NO
+163,月光下的凤尾竹,0,0,8,NO,not_computable,NO
+164,弥渡山歌,0,0,8,NO,not_computable,NO
+165,神话,0,0,8,NO,not_computable,NO
+166,乌兰巴托之夜,0,0,8,NO,not_computable,NO
+167,草原之夜,0,0,8,NO,not_computable,NO
+168,天边,0,0,8,NO,not_computable,NO
+169,琵琶语,0,0,8,NO,not_computable,NO
+170,十面埋伏,0,0,8,NO,not_computable,NO
+171,忆江南,0,0,8,NO,not_computable,NO
+172,酒狂,0,0,8,NO,not_computable,NO
+173,阮,0,0,8,NO,not_computable,NO
+174,风入松,0,0,8,NO,not_computable,NO
+175,葬花吟,0,0,8,NO,not_computable,NO
+176,青玉案·元夕,0,0,8,NO,not_computable,NO
+177,乱红,0,0,8,NO,not_computable,NO
+178,百鸟朝凤,0,0,8,NO,not_computable,NO
+179,囍,0,0,8,NO,not_computable,NO
+180,大出殡,0,0,8,NO,not_computable,NO
+181,大漠孤烟直,0,0,8,NO,not_computable,NO
+182,太极,0,0,8,NO,not_computable,NO
+183,山鬼,0,0,8,NO,not_computable,NO
+184,哀郢,0,0,8,NO,not_computable,NO
+185,枉凝眉,0,0,8,NO,not_computable,NO
+186,升明月,0,0,8,NO,not_computable,NO
+187,伊姓狐,0,0,8,NO,not_computable,NO
+188,阿里爸爸,0,0,8,NO,not_computable,NO
+189,东北人,0,0,8,NO,not_computable,NO
+190,东北姑娘,0,0,8,NO,not_computable,NO
+191,你把爱到底给了谁,0,0,8,NO,not_computable,NO
+192,武家坡,0,0,8,NO,not_computable,NO
+193,将相和,0,0,8,NO,not_computable,NO
+194,红梅阁,0,0,8,NO,not_computable,NO
+195,船工号子,0,0,8,NO,not_computable,NO
+196,采花,0,0,8,NO,not_computable,NO
+197,赏夏,0,0,8,NO,not_computable,NO
+198,讲帝号,0,0,8,NO,not_computable,NO
+199,秦琼卖马,0,0,8,NO,not_computable,NO
+200,醉酒,0,0,8,NO,not_computable,NO
+201,莺莺拜月,0,0,8,NO,not_computable,NO
+202,七夕,0,0,8,NO,not_computable,NO
+203,莺莺操琴,0,0,8,NO,not_computable,NO
+204,声声慢,0,0,8,NO,not_computable,NO
+205,天仙配-夫妻双双把家还,0,0,8,NO,not_computable,NO
+206,黄梅戏,0,0,8,NO,not_computable,NO
+207,霸王别姬,0,0,8,NO,not_computable,NO
+208,智斗,0,0,8,NO,not_computable,NO
+209,白素贞唱段,0,0,8,NO,not_computable,NO
+210,牡丹亭游园惊梦,0,0,8,NO,not_computable,NO
+211,皂罗袍,0,0,8,NO,not_computable,NO
+212,长生殿惊变,0,0,8,NO,not_computable,NO
+213,打龙袍,0,0,8,NO,not_computable,NO
+214,报花名,0,0,8,NO,not_computable,NO
+215,秦香莲,0,0,8,NO,not_computable,NO
+216,华阴老腔,0,0,8,NO,not_computable,NO
+217,铡美案,0,0,8,NO,not_computable,NO
+218,神女劈观,0,0,8,NO,not_computable,NO
+219,花木兰,0,0,8,NO,not_computable,NO
+220,穆桂英挂帅,0,0,8,NO,not_computable,NO
+221,刘大哥讲话理太偏,0,0,8,NO,not_computable,NO
+222,天下掉下个林妹妹,0,0,8,NO,not_computable,NO
+223,十八相送,0,0,8,NO,not_computable,NO
+224,西厢记,0,0,8,NO,not_computable,NO
+225,「二胡」一生所爱（Cover 卢冠廷）,0,0,8,NO,not_computable,NO
+226,长亭怨慢,0,0,8,NO,not_computable,NO
+227,美丽的神话 笛箫埙版,0,0,8,NO,not_computable,NO
+228,神话 埙版（翻自 韩红）,0,0,8,NO,not_computable,NO
+229,烟雨唱扬州 埙版,0,0,8,NO,not_computable,NO
+230,知音,0,0,8,NO,not_computable,NO
+231,大漠孤烟,0,0,8,NO,not_computable,NO
+232,敬畏,0,0,8,NO,not_computable,NO
+233,神舞 ( 孝淑 bootleg ）,0,0,8,NO,not_computable,NO
+234,诗经·击鼓,0,0,8,NO,not_computable,NO
+235,听！秦王破阵乐！,0,0,8,NO,not_computable,NO
+236,霍元甲 (琵琶版),0,0,8,NO,not_computable,NO
+237,精卫琵琶版,0,0,8,NO,not_computable,NO
+238,琵琶独奏《木兰辞》,0,0,8,NO,not_computable,NO
+239,琵琶行,0,0,8,NO,not_computable,NO
+240,雨碎江南（双琵琶）,0,0,8,NO,not_computable,NO
+241,出水莲 (客家筝曲),0,0,8,NO,not_computable,NO
+242,梦同游,0,0,8,NO,not_computable,NO
+243,牧羊曲,0,0,8,NO,not_computable,NO
+244,青玉案-元夕,0,0,8,NO,not_computable,NO
+245,枉凝眉,0,0,8,NO,not_computable,NO
+246,何以歌（竹笛版）,0,0,8,NO,not_computable,NO
+247,年轮,0,0,8,NO,not_computable,NO
+248,牵丝戏-竹笛（Cover 银临）,0,0,8,NO,not_computable,NO
+249,星月神话（笛子ver.）,0,0,8,NO,not_computable,NO
+250,雨碎江南,0,0,8,NO,not_computable,NO
+251,空山寂寂,0,0,8,NO,not_computable,NO
+252,梅花三弄(箫),0,0,8,NO,not_computable,NO
+253,秦时明月-飞雪玉花,0,0,8,NO,not_computable,NO
+254,葬花吟(洞箫),0,0,8,NO,not_computable,NO
+255,自在飞花轻似梦(箫演奏),0,0,8,NO,not_computable,NO
+256,东皇太一,0,0,8,NO,not_computable,NO
+257,江上清风游,0,0,8,NO,not_computable,NO
+258,莲有秀兮,0,0,8,NO,not_computable,NO
+259,秦王破阵乐(编钟乐队与歌队),0,0,8,NO,not_computable,NO
+260,幽兰(古琴与编钟乐团),0,0,8,NO,not_computable,NO
+261,阿佤人民唱新歌,0,0,8,NO,not_computable,NO
+262,彩云追月,0,0,8,NO,not_computable,NO
+263,蝴蝶泉边,0,0,8,NO,not_computable,NO
+264,竹林深处,0,0,8,NO,not_computable,NO
+265,竹楼情歌,0,0,8,NO,not_computable,NO
+266,春江花月夜,0,0,8,NO,not_computable,NO
+267,广陵散,0,0,8,NO,not_computable,NO
+268,名士自风流,0,0,8,NO,not_computable,NO
+269,一生所爱,0,0,8,NO,not_computable,NO
+270,葬心,0,0,8,NO,not_computable,NO
+271,边境 (马头琴),0,0,8,NO,not_computable,NO
+272,草原星辰,0,0,8,NO,not_computable,NO
+273,梦中的额吉(蒙),0,0,8,NO,not_computable,NO
+274,我爱你（马头琴纯享版）,0,0,8,NO,not_computable,NO
+275,西海情歌,0,0,8,NO,not_computable,NO
+276,大东北,0,0,8,NO,not_computable,NO
+277,大东北我的家乡 (DJ 版),0,0,8,NO,not_computable,NO
+278,东北民谣,0,0,8,NO,not_computable,NO
+279,奢香夫人,0,0,8,NO,not_computable,NO
+280,香水有毒 (DJ 版),0,0,8,NO,not_computable,NO
+281,白面孔,0,0,8,NO,not_computable,NO
+282,升明月-双档,0,0,8,NO,not_computable,NO
+283,苏州河上一座桥,0,0,8,NO,not_computable,NO
+284,伊姓狐-双档,0,0,8,NO,not_computable,NO
+285,栀子花 白兰花,0,0,8,NO,not_computable,NO
+286,《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证,0,0,8,NO,not_computable,NO
+287,丑末寅初,0,0,8,NO,not_computable,NO
+288,京韵大鼓-大西厢,0,0,8,NO,not_computable,NO
+289,俞伯牙摔琴,0,0,8,NO,not_computable,NO
+290,重整河山待后生,0,0,8,NO,not_computable,NO
+291,巴山夜雨紛紛,0,0,8,NO,not_computable,NO
+292,川剧-赏夏,0,0,8,NO,not_computable,NO
+293,荆钗记,0,0,8,NO,not_computable,NO
+294,太阳出来喜洋洋(四川民歌),0,0,8,NO,not_computable,NO
+295,幺儿嘞,0,0,8,NO,not_computable,NO
+296,定军山,0,0,8,NO,not_computable,NO
+297,红灯记,0,0,8,NO,not_computable,NO
+298,卖马,0,0,8,NO,not_computable,NO
+299,月光下的凤尾竹,0,0,8,NO,not_computable,NO
+300,祝酒歌,0,0,8,NO,not_computable,NO
+301,宝玉夜探,0,0,8,NO,not_computable,NO
+302,天涯歌女,0,0,8,NO,not_computable,NO
+303,西厢 请宴   严调   评弹,0,0,8,NO,not_computable,NO
+304,莺莺操琴  蒋调   评弹,0,0,8,NO,not_computable,NO
+305,珍珠塔·义激陈琏,0,0,8,NO,not_computable,NO
+306,京剧双投唐选段,0,0,8,NO,not_computable,NO
+307,探清水河,0,0,8,NO,not_computable,NO
+308,武家坡2021,0,0,8,NO,not_computable,NO
+309,铡美案,0,0,8,NO,not_computable,NO
+310,智斗(《沙家浜》),0,0,8,NO,not_computable,NO
+311,藏山河重制版,0,0,8,NO,not_computable,NO
+312,牡丹亭.游园---皂罗袍,0,0,8,NO,not_computable,NO
+313,牡丹亭·游园·皂罗袍,0,0,8,NO,not_computable,NO
+314,牡丹亭·皂罗袍（昆曲x古琴）,0,0,8,NO,not_computable,NO
+315,一拜天地（古琴x昆曲）,0,0,8,NO,not_computable,NO
+316,华阴老腔一声喊 (Live),0,0,8,NO,not_computable,NO
+317,秦腔,0,0,8,NO,not_computable,NO
+318,秦腔 关山月,0,0,8,NO,not_computable,NO
+319,秦腔-三击掌,0,0,8,NO,not_computable,NO
+320,秦腔-游龟山,0,0,8,NO,not_computable,NO
+321,《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证,0,0,8,NO,not_computable,NO
+322,打龙袍 (二),0,0,8,NO,not_computable,NO
+323,花为媒·窈窕淑女君子好逑,0,0,8,NO,not_computable,NO
+324,评剧-秦香莲,0,0,8,NO,not_computable,NO
+325,乾坤带·非是儿臣以小犯上,0,0,8,NO,not_computable,NO
+326,穆桂英挂帅(唱段),0,0,8,NO,not_computable,NO
+327,四千岁你莫要羞愧难当,0,0,8,NO,not_computable,NO
+328,小仓娃我离了登封小县,0,0,8,NO,not_computable,NO
+329,豫剧-穆桂英挂帅,0,0,8,NO,not_computable,NO
+330,铡美案,0,0,8,NO,not_computable,NO
+331,红楼梦.天上掉下个林妹妹,0,0,8,NO,not_computable,NO
+332,红楼梦天上掉下个林妹妹,0,0,8,NO,not_computable,NO
+333,谁料皇榜中状元,0,0,8,NO,not_computable,NO
+334,我家有个小九妹,0,0,8,NO,not_computable,NO
+335,新梁祝.十八相送,0,0,8,NO,not_computable,NO
+336,十八相送,0,0,8,NO,not_computable,NO
+337,武家坡2021,0,0,8,NO,not_computable,NO
+338,武家坡2023,0,0,8,NO,not_computable,NO
+339,戏凤 游龙戏凤,0,0,8,NO,not_computable,NO
+340,赞人间,0,0,8,NO,not_computable,NO

@@ -1,0 +1,5 @@
+﻿item_id,approval_item,candidate_scope,current_status,approver,approval_date,evidence,notes
+A,build_v1.5_draft,P12-C002;P12-C003,PENDING,,,第一部分决定栏仍为“批准 / 暂缓 / 不批准”未选择；审批人/日期为空,不能据此构建
+B1,case_number,P12-C002,CASE_NUMBER_APPROVED_NOT_ALLOCATED,,,第二部分表格：CASE037 批准,未构建前不分配
+B2,case_number,P12-C003,CASE_NUMBER_APPROVED_NOT_ALLOCATED,,,第二部分表格：CASE038 批准,未构建前不分配
+C,active_version_switch,v1.5,NEEDS_RE_REVIEW,,,第三部分勾选“需要重新审核”,未构建、未校验、未激活

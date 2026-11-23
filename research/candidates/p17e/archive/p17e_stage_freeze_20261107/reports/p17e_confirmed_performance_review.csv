@@ -1,0 +1,4 @@
+﻿song_id,song_title,source_url,source_publisher,historical_body,opened,performer,event_date,event_location,performance_evidence,evidence_grade,current_reaccess,independent_second_source,status,limitations
+3,一生所爱,https://krirkcn.com/home/single?id=74730868531278,泰国格乐大学,2022元宵晚会，学生安贝二胡独奏《一生所爱》,YES,安贝,2022年元宵节（公历未写）,泰国格乐大学,学校官方页面，演出后节目展播,A,HTTP502,NO,performance_confirmed,单来源、学校宣传页、现代曲目、无结果证据
+13,赛马,https://www.daifutv.com/c/index.php?option=com_content&view=article&id=8650:2026&catid=77:japan-news&Itemid=234,大富频道,2026-11-01东京上野旧东京音乐学校奏乐堂，张滨演奏《赛马》,YES,张滨,2026-11-01,东京上野旧东京音乐学校奏乐堂,媒体演出后报道,B,SSL中断,NO,performance_confirmed,单来源、媒体稿、无受众结果
+24,广陵散,https://lapost.us/?p=84999,The Los Angeles Post,2026-10-30 USC课堂，马玢完整演奏《广陵散》四十五段,YES,马玢,2026-10-30,USC,媒体专题报道，作者提供照片,B,SSL中断,NO,performance_confirmed,单来源、课堂场景、无长期结果

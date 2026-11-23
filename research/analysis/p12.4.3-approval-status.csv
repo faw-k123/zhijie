@@ -1,0 +1,9 @@
+﻿candidate_id,approval_item,indicator,proposed_decision,current_status,approver,approval_date,notes
+P12-C002,case_admission,,approve_as_candidate,PENDING,,,无负责人签字/明确决定
+P12-C002,indicator_score,story_explainability,approve_score_1,PENDING,,,评分审批未完成
+P12-C002,indicator_score,cross_cultural_adaptation,approve_score_2,PENDING,,,评分审批未完成
+P12-C002,indicator_score,era_theme_relevance,approve_score_2,PENDING,,,评分审批未完成
+P12-C003,case_admission,,approve_as_candidate,PENDING,,,无负责人签字/明确决定
+P12-C003,indicator_score,story_explainability,approve_score_1,PENDING,,,评分审批未完成
+P12-C003,indicator_score,cross_cultural_adaptation,approve_score_2,PENDING,,,评分审批未完成
+P12-C003,indicator_score,era_theme_relevance,approve_score_1,PENDING,,,评分审批未完成

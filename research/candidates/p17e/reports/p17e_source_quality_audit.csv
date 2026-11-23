@@ -1,0 +1,11 @@
+﻿song_id,song_title,source_url,domain,publisher,source_grade,target_evidence_grade,original_page_opened,body_reviewed,current_access,independence,review_status
+3,一生所爱,https://krirkcn.com/home/single?id=74730868531278,krirkcn.com,Krirk University,A,A,YES,YES,HTTP502 now; historical body,single,confirmed
+13,赛马,https://www.daifutv.com/c/index.php?option=com_content&view=article&id=8650:2026&catid=77:japan-news&Itemid=234,daifutv.com,大富频道,B,B,YES,YES,SSL now; historical body,single,confirmed
+24,广陵散,https://lapost.us/?p=84999,lapost.us,The Los Angeles Post,B,B,YES,YES,SSL now; historical body,single,confirmed
+8,江南,https://m.thepaper.cn/newsDetail_forward_33609468,thepaper.cn,澎湃号·政务/无锡发布,B,D,YES,YES,opened 2026-11-05; article has no target song,single,rejected
+1,三寸天堂,https://www.erhuschool.tw/5611/,erhuschool.tw,孫文軒胡琴學院,C,C,NO,NO,fetch failed,single_clue,ambiguous
+5,倩女幽魂,,,微信公众号视频,C,C,NO,NO,no URL,single_clue,ambiguous
+12,葬花吟,https://www.xiaohongshu.com/discovery/item/67a168ca000000002a00fa1a,xiaohongshu.com,小红书用户帖,D,C,NO,NO,HTTP404,single_clue,ambiguous
+17,万蝶振翅,https://www.bilibili.com/video/BV1x1t1z4EAb/,bilibili.com,B站,C,C,NO,NO,captcha,single_clue,ambiguous
+19,关山月,https://www.xiaohongshu.com/discovery/item/67fef6a8000000001e007e0b,xiaohongshu.com,小红书用户帖,D,C,NO,NO,HTTP404,single_clue,ambiguous
+22,卧龙吟,https://www.bilibili.com/video/BV1A24y1u7w3/,bilibili.com,B站,C,C,NO,NO,captcha,single_clue,ambiguous

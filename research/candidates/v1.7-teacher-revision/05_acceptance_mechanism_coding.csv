@@ -1,0 +1,11 @@
+candidate_id,performer,M1_emotional_resonance,M2_distinctive_timbre,M3_familiarity_bridge,M4_cultural_story,M5_cross_cultural_translation,M6_performer_credibility,M7_visual_performativity,M8_digital_platform_fit,M9_education_participation,evidence_ids,counterevidence_or_limit,case_confidence
+SC001,Clare Cooper,partial,strong,not_evidenced,partial,strong,strong,strong,partial,partial,"FB001|FB002|SRC001|SRC002","专业评论多于普通观众反馈；对象主要是实验音乐",medium
+SC002,Jarrelle Barton,strong,strong,partial,strong,partial,strong,partial,partial,partial,"FB003|FB004|SRC003|SRC004|SRC005","美国受众反馈只有少量现场轶事；部分网络反馈来自中国受众",medium
+SC003,Eliott Tordo,strong,strong,strong,partial,strong,strong,partial,strong,strong,"FB005|FB006|SRC006|SRC007","公开视频评论者国籍未公开；曲目多为影视改编",medium
+SC004,John Thompson,partial,partial,not_evidenced,strong,partial,strong,partial,not_evidenced,strong,"FB007|FB008|SRC008|SRC009","香港现场受众国籍未公开；美国现场只记录惊讶反应",medium
+SC005,Randy Raine-Reusch,partial,strong,strong,partial,strong,strong,partial,not_evidenced,partial,"FB009|FB010|SRC010|SRC011","存在对外国演奏者身份偏见；普通观众原话不足",low
+SC006,Djang San,partial,strong,strong,partial,strong,strong,partial,partial,partial,"FB011|FB012|SRC012|SRC013","评论针对录音/中国场景；日韩巡演普通观众反馈仍缺",medium
+SC007,KiRiKo,partial,strong,strong,partial,strong,strong,strong,strong,strong,"FB013|FB014|SRC014|SRC015","播放量只能证明触达；缺少可核验的日语评论样本",medium
+SC008,Kanae Nozawa,strong,strong,strong,partial,strong,strong,partial,partial,partial,"FB015|FB016|SRC016|SRC017","强评价由主办方/活动平台转述，原始评论未公开",medium
+SC009,André Ribeiro,partial,partial,strong,strong,strong,strong,not_evidenced,strong,strong,"FB017|FB018|SRC018|SRC019","趋势与学生反馈主要由演奏者本人记录；独立人数未知",medium
+SC010,Colin Huehns,partial,strong,partial,strong,partial,strong,partial,not_evidenced,strong,"FB019|FB020|SRC020|SRC021","单场反馈较强但具体人数和长期行为未知",medium

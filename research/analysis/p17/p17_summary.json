@@ -1,0 +1,20 @@
+{
+  "cases_reviewed": 40,
+  "new_activity_cases": 0,
+  "actual_activity_confirmed": 0,
+  "outcome_evidence_cases": 0,
+  "songs_total": 302,
+  "songs_searched_internal": 302,
+  "songs_external_searched": 0,
+  "class_A_existing": 5,
+  "class_B": 0,
+  "class_C": 0,
+  "class_D": 297,
+  "new_A": 0,
+  "strict_existing": 2,
+  "strict_new_candidates": 0,
+  "strict_qualified_new": 0,
+  "source_relations": 62,
+  "review_queue": 5,
+  "p17_status": "CONDITIONAL_PASS"
+}

@@ -1,0 +1,2418 @@
+[
+  {
+    "id": 1,
+    "title": "【二胡】三寸天堂",
+    "genre": "悲情、怀旧",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/【二胡】三寸天堂/music_440240218.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 2,
+    "title": "【二胡】琴师",
+    "genre": "悲情、古典",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/【二胡】琴师/music_440240217.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 3,
+    "title": "一生所爱（Cover 卢冠廷）",
+    "genre": "欢快、悲情",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/一生所爱（Cover 卢冠廷）/music_526015762.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 4,
+    "title": "二泉映月",
+    "genre": "二胡",
+    "category_id": 1,
+    "audio_url": null,
+    "cover_url": null
+  },
+  {
+    "id": 5,
+    "title": "倩女幽魂 (二胡版)",
+    "genre": "悲情、影视",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/倩女幽魂 (二胡版)/music_28406518.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 6,
+    "title": "战马奔腾(二胡)",
+    "genre": "悲情、古典",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/战马奔腾(二胡)/music_25896800.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 7,
+    "title": "梁祝",
+    "genre": "悲情、影视",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/梁祝/music_27836996.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 8,
+    "title": "江南 (二胡版)",
+    "genre": "悲情、江南",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/江南 (二胡版)/music_29827513.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 9,
+    "title": "牵丝戏（二胡&京胡版）",
+    "genre": "爱情、戏曲",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/牵丝戏（二胡&京胡版）/music_1848803578.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 10,
+    "title": "神经病之歌 (二胡)",
+    "genre": "悲情、动漫",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/神经病之歌 (二胡)/music_32451809.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 11,
+    "title": "花田错（二胡版）",
+    "genre": "悲情、古典",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/花田错（二胡版）/music_1867412916.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 12,
+    "title": "葬花吟（二胡版）",
+    "genre": "悲情、抒情",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/葬花吟（二胡版）/music_553785078.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 13,
+    "title": "赛马(二胡独奏)",
+    "genre": "悲情、草原",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/赛马(二胡独奏)/music_5271522.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 14,
+    "title": "迴梦游仙 二胡独奏版",
+    "genre": "动漫、悲情",
+    "category_id": 1,
+    "audio_url": "D:/大创/乐器/二胡/其他/迴梦游仙 二胡独奏版/music_203925.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 15,
+    "title": "《穿越时空的思念》纯古琴版",
+    "genre": "爱情、悲情",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/《穿越时空的思念》纯古琴版/music_423849369.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 16,
+    "title": "《飞雪玉花》纯古琴版",
+    "genre": "悲情、禅意",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/《飞雪玉花》纯古琴版/music_863745223.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 17,
+    "title": "【古筝】万蝶振翅",
+    "genre": "悲情、爱情",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/【古筝】万蝶振翅/music_1995045505.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 18,
+    "title": "不染 古琴版",
+    "genre": "悲情、禅意",
+    "category_id": 2,
+    "audio_url": null,
+    "cover_url": null
+  },
+  {
+    "id": 19,
+    "title": "关山月",
+    "genre": "悲情、欢快",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/关山月/music_341530.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 20,
+    "title": "初见 (古琴版）（翻自 余昭源）",
+    "genre": "悲情、禅意",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/初见 (古琴版）（翻自 余昭源）/music_1352219486.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 21,
+    "title": "半山听雨",
+    "genre": "禅意、悲情",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/半山听雨/music_1805036576.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 22,
+    "title": "卧龙吟（古琴版）",
+    "genre": "禅意、武侠",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/卧龙吟（古琴版）/music_1362020289.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 23,
+    "title": "平沙落雁",
+    "genre": "悲情、禅意",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/平沙落雁/music_88137.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 24,
+    "title": "广陵散 (古琴独奏)",
+    "genre": "悲情、武侠",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/广陵散 (古琴独奏)/music_520568266.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 25,
+    "title": "梅花三弄",
+    "genre": "悲情、怀旧",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/梅花三弄/music_34002575.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 26,
+    "title": "流水",
+    "genre": "悲情、禅意",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/流水/music_88122.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 27,
+    "title": "牵丝戏（纯古琴）（翻自 银临）",
+    "genre": "悲情、禅意",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/牵丝戏（纯古琴）（翻自 银临）/music_1339678632.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 28,
+    "title": "酒狂",
+    "genre": "古典、悲情",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/酒狂/music_88628.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 29,
+    "title": "阳关三叠",
+    "genre": "怀旧、悲情",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/阳关三叠/music_88153.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 30,
+    "title": "高山流水",
+    "genre": "悲情、古典",
+    "category_id": 2,
+    "audio_url": "D:/大创/乐器/古琴/其他/高山流水/music_303421.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 31,
+    "title": "(兰亭序)一段",
+    "genre": "古典、怀旧",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/(兰亭序)一段/music_2711883289.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 32,
+    "title": "《大鱼海棠》印象曲《大鱼》纯古琴版",
+    "genre": "悲情、禅意",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/《大鱼海棠》印象曲《大鱼》纯古琴版/music_423776567.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 33,
+    "title": "十面埋伏(琵琶独奏)",
+    "genre": "悲情、欢快",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/十面埋伏(琵琶独奏)/music_5267454.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 34,
+    "title": "古琴禅修",
+    "genre": "禅意、悲情",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/古琴禅修/music_304923.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 35,
+    "title": "女儿情",
+    "genre": "怀旧、悲情",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/女儿情/music_230380.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 36,
+    "title": "广陵散",
+    "genre": "悲情、古典",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/广陵散/music_396334.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 37,
+    "title": "广陵散 (古琴独奏)",
+    "genre": "悲情、武侠",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/广陵散 (古琴独奏)/music_520568266.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 38,
+    "title": "战台风",
+    "genre": "悲情、激昂",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/战台风/music_396372.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 39,
+    "title": "春江花月夜",
+    "genre": "悲情、欢快",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/春江花月夜/music_396351.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 40,
+    "title": "梁祝 (古筝独奏)",
+    "genre": "悲情、抒情",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/梁祝 (古筝独奏)/music_1969618152.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 41,
+    "title": "沧海一声笑",
+    "genre": "武侠、古典",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/沧海一声笑/music_340868.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 42,
+    "title": "渔舟唱晚",
+    "genre": "悲情、怀旧",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/渔舟唱晚/music_396322.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 43,
+    "title": "渔舟唱晚 (古筝独奏)",
+    "genre": "悲情、欢快",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/渔舟唱晚 (古筝独奏)/music_520568265.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 44,
+    "title": "琵琶语（古筝版）",
+    "genre": "抒情、禅意",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/琵琶语（古筝版）/music_1973693995.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 45,
+    "title": "画心",
+    "genre": "影视、禅意",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/画心/music_214588.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 46,
+    "title": "高山流水 (古筝独奏)",
+    "genre": "悲情、古典",
+    "category_id": 3,
+    "audio_url": "D:/大创/乐器/古筝/其他/高山流水 (古筝独奏)/music_520568264.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 47,
+    "title": "三拜红尘凉",
+    "genre": "欢快、悲情",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/三拜红尘凉/music_1969320038.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 48,
+    "title": "九儿（唢呐版)",
+    "genre": "悲情、陕北",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/九儿（唢呐版)/music_1442621275.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 49,
+    "title": "云宫迅音（唢呐摇滚版）",
+    "genre": "神话、动漫",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/云宫迅音（唢呐摇滚版）/music_1472760988.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 50,
+    "title": "囍（Chinese Wedding）",
+    "genre": "悲情、喜庆",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/囍（Chinese Wedding）/music_1303289043.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 51,
+    "title": "大出殡(唢呐版)",
+    "genre": "悲情、欢快",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/大出殡(唢呐版)/music_1884536377.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 52,
+    "title": "大黑天",
+    "genre": "动漫、悲情",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/大黑天/music_2653100123.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 53,
+    "title": "天下",
+    "genre": "爱情、欢快",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/天下/music_191254.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 54,
+    "title": "安河桥（唢呐混音完整版）（翻自 宋冬野）",
+    "genre": "悲情、欢快",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/安河桥（唢呐混音完整版）（翻自 宋冬野）/music_1412592229.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 55,
+    "title": "惊涛落日（Official Vers.）",
+    "genre": "动漫、武侠",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/惊涛落日（Official Vers.）/music_1433075058.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 56,
+    "title": "百鳥朝鳳 (嗩吶獨奏)",
+    "genre": "影视、古典",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/百鳥朝鳳 (嗩吶獨奏)/music_445238141.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 57,
+    "title": "辞.九门回忆",
+    "genre": "欢快、怀旧",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/辞.九门回忆/music_1347524822.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 58,
+    "title": "通天大道宽又阔（唢呐版）（翻自 无）",
+    "genre": "神话、悲情",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/通天大道宽又阔（唢呐版）（翻自 无）/music_1847367032.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 59,
+    "title": "鸳鸯债",
+    "genre": "悲情、动漫",
+    "category_id": 4,
+    "audio_url": "D:/大创/乐器/唢呐/其他/鸳鸯债/music_1911377814.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 60,
+    "title": "哀郢(埙与乐队)",
+    "genre": "悲情、古典",
+    "category_id": 5,
+    "audio_url": "D:/大创/乐器/埙/其他/哀郢(埙与乐队)/music_5267374.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 61,
+    "title": "大鱼《埙版》（翻自 周深）",
+    "genre": "戏曲、影视",
+    "category_id": 5,
+    "audio_url": "D:/大创/乐器/埙/其他/大鱼《埙版》（翻自 周深）/music_1829974108.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 62,
+    "title": "女儿情 埙版",
+    "genre": "禅意、悲情",
+    "category_id": 5,
+    "audio_url": "D:/大创/乐器/埙/其他/女儿情 埙版/music_1409135012.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 63,
+    "title": "寒江残雪(埙)",
+    "genre": "悲情、禅意",
+    "category_id": 5,
+    "audio_url": "D:/大创/乐器/埙/其他/寒江残雪(埙)/music_165208.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 64,
+    "title": "枉凝眉",
+    "genre": "悲情、古典",
+    "category_id": 5,
+    "audio_url": "D:/大创/乐器/埙/其他/枉凝眉/music_131524.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 65,
+    "title": "楚歌 埙",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": null,
+    "cover_url": null
+  },
+  {
+    "id": 83,
+    "title": "采薇",
+    "genre": "悲情、古典",
+    "category_id": 6,
+    "audio_url": "D:/大创/乐器/大鼓/其他/采薇/music_31789216.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 84,
+    "title": "韩信拜将",
+    "genre": "激昂、悲情",
+    "category_id": 6,
+    "audio_url": "D:/大创/乐器/大鼓/其他/韩信拜将/music_32686059.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 85,
+    "title": "黄河鼓韵",
+    "genre": "悲情、陕北",
+    "category_id": 6,
+    "audio_url": "D:/大创/乐器/大鼓/其他/黄河鼓韵/music_380164.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 86,
+    "title": "鼓诗",
+    "genre": "悲情、激昂",
+    "category_id": 6,
+    "audio_url": "D:/大创/乐器/大鼓/其他/鼓诗/music_5264300.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 87,
+    "title": "龙魂大鼓(鼓乐)",
+    "genre": "悲情、激昂",
+    "category_id": 6,
+    "audio_url": "D:/大创/乐器/大鼓/其他/龙魂大鼓(鼓乐)/music_5246297.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 88,
+    "title": "万蝶振翅（琵琶）",
+    "genre": "悲情、欢快",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/万蝶振翅（琵琶）/music_1994265755.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 89,
+    "title": "兰陵王入阵曲",
+    "genre": "激昂、战争",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/兰陵王入阵曲/music_1436727001.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 90,
+    "title": "十面埋伏",
+    "genre": "悲情、古典",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/十面埋伏/music_129658.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 91,
+    "title": "十面埋伏 (琵琶独奏)",
+    "genre": "悲情、战争",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/十面埋伏 (琵琶独奏)/music_520568315.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 92,
+    "title": "千本樱（琵琶）",
+    "genre": "悲情、欢快",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/千本樱（琵琶）/music_1434618956.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 93,
+    "title": "听！秦王破阵乐！",
+    "genre": "激昂、古典",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/听！秦王破阵乐！/music_1840551391.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 94,
+    "title": "山鬼（琵琶X古筝）",
+    "genre": "悲情、古典",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/山鬼（琵琶X古筝）/music_1307491226.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 95,
+    "title": "广陵散 (古琴独奏)",
+    "genre": "悲情、武侠",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/广陵散 (古琴独奏)/music_520568266.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 96,
+    "title": "忆江南（琵琶）",
+    "genre": "江南、悲情",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/忆江南（琵琶）/music_521286342.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 97,
+    "title": "故梦(琵琶版)",
+    "genre": "悲情、古典",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/故梦(琵琶版)/music_29401808.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 98,
+    "title": "春江花月夜",
+    "genre": "悲情、古典",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/春江花月夜/music_32337914.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 99,
+    "title": "晚夜微雨问海棠（琵琶版）乐落清音",
+    "genre": "悲情、抒情",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/晚夜微雨问海棠（琵琶版）乐落清音/music_1817367202.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 100,
+    "title": "渔舟唱晚 (古筝独奏)",
+    "genre": "悲情、自然",
+    "category_id": 7,
+    "audio_url": "D:/大创/乐器/琵琶/其他/渔舟唱晚 (古筝独奏)/music_520568265.mp3",
+    "cover_url": null
+  },
+  {
+    "id": 122,
+    "title": "东北人都是活雷锋",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/东北人都是活雷锋.mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 123,
+    "title": "大东北我的家乡",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/大东北我的家乡.mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 124,
+    "title": "海东青",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/海东青.mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 125,
+    "title": "花木兰",
+    "genre": "中原民歌",
+    "category_id": 16,
+    "audio_url": "audio/民歌/中原民歌/花木兰.mp3",
+    "cover_url": "images/poster/民歌/中原民歌.jpg"
+  },
+  {
+    "id": 126,
+    "title": "唱大戏",
+    "genre": "中原民歌",
+    "category_id": 16,
+    "audio_url": "audio/民歌/中原民歌/唱大戏.mp3",
+    "cover_url": "images/poster/民歌/中原民歌.jpg"
+  },
+  {
+    "id": 127,
+    "title": "大河南我的家乡",
+    "genre": "中原民歌",
+    "category_id": 16,
+    "audio_url": "audio/民歌/中原民歌/大河南我的家乡.mp3",
+    "cover_url": "images/poster/民歌/中原民歌.jpg"
+  },
+  {
+    "id": 128,
+    "title": "回娘家",
+    "genre": "华北民歌",
+    "category_id": 17,
+    "audio_url": "audio/民歌/华北民歌/回娘家.mp3",
+    "cover_url": "images/poster/民歌/华北民歌.jpg"
+  },
+  {
+    "id": 129,
+    "title": "信天游",
+    "genre": "华北民歌",
+    "category_id": 17,
+    "audio_url": "audio/民歌/华北民歌/信天游.mp3",
+    "cover_url": "images/poster/民歌/华北民歌.jpg"
+  },
+  {
+    "id": 130,
+    "title": "小放牛",
+    "genre": "华北民歌",
+    "category_id": 17,
+    "audio_url": "audio/民歌/华北民歌/小放牛.mp3",
+    "cover_url": "images/poster/民歌/华北民歌.jpg"
+  },
+  {
+    "id": 131,
+    "title": "彩云追月",
+    "genre": "华南民歌",
+    "category_id": 18,
+    "audio_url": "audio/民歌/华南民歌/彩云追月.mp3",
+    "cover_url": "images/poster/民歌/华南民歌.jpg"
+  },
+  {
+    "id": 132,
+    "title": "望春风",
+    "genre": "华南民歌",
+    "category_id": 18,
+    "audio_url": "audio/民歌/华南民歌/望春风.mp3",
+    "cover_url": "images/poster/民歌/华南民歌.jpg"
+  },
+  {
+    "id": 133,
+    "title": "祝福",
+    "genre": "华南民歌",
+    "category_id": 18,
+    "audio_url": "audio/民歌/华南民歌/祝福.mp3",
+    "cover_url": "images/poster/民歌/华南民歌.jpg"
+  },
+  {
+    "id": 134,
+    "title": "好一朵鲜花",
+    "genre": "江南民歌",
+    "category_id": 19,
+    "audio_url": "audio/民歌/江南民歌/好一朵鲜花.mp3",
+    "cover_url": "images/poster/民歌/江南民歌.jpg"
+  },
+  {
+    "id": 135,
+    "title": "梦江南",
+    "genre": "江南民歌",
+    "category_id": 19,
+    "audio_url": "audio/民歌/江南民歌/梦江南.mp3",
+    "cover_url": "images/poster/民歌/江南民歌.jpg"
+  },
+  {
+    "id": 136,
+    "title": "紫竹调",
+    "genre": "江南民歌",
+    "category_id": 19,
+    "audio_url": "audio/民歌/江南民歌/紫竹调.mp3",
+    "cover_url": "images/poster/民歌/江南民歌.jpg"
+  },
+  {
+    "id": 137,
+    "title": "天竺少女",
+    "genre": "西北民歌",
+    "category_id": 20,
+    "audio_url": "audio/民歌/西北民歌/天竺少女.mp3",
+    "cover_url": "images/poster/民歌/西北民歌.jpg"
+  },
+  {
+    "id": 138,
+    "title": "花儿为什么这样红",
+    "genre": "西北民歌",
+    "category_id": 20,
+    "audio_url": "audio/民歌/西北民歌/花儿为什么这样红.mp3",
+    "cover_url": "images/poster/民歌/西北民歌.jpg"
+  },
+  {
+    "id": 139,
+    "title": "在那遥远的地方",
+    "genre": "西北民歌",
+    "category_id": 20,
+    "audio_url": "audio/民歌/西北民歌/在那遥远的地方.mp3",
+    "cover_url": "images/poster/民歌/西北民歌.jpg"
+  },
+  {
+    "id": 140,
+    "title": "蝴蝶泉边",
+    "genre": "西南民歌",
+    "category_id": 21,
+    "audio_url": "audio/民歌/西南民歌/蝴蝶泉边.mp3",
+    "cover_url": "images/poster/民歌/西南民歌.jpg"
+  },
+  {
+    "id": 141,
+    "title": "雀之灵",
+    "genre": "西南民歌",
+    "category_id": 21,
+    "audio_url": "audio/民歌/西南民歌/雀之灵.mp3",
+    "cover_url": "images/poster/民歌/西南民歌.jpg"
+  },
+  {
+    "id": 142,
+    "title": "康定情歌",
+    "genre": "西南民歌",
+    "category_id": 21,
+    "audio_url": "audio/民歌/西南民歌/康定情歌.mp3",
+    "cover_url": "images/poster/民歌/西南民歌.jpg"
+  },
+  {
+    "id": 143,
+    "title": "东方红",
+    "genre": "陕北民歌",
+    "category_id": 22,
+    "audio_url": "audio/民歌/陕北民歌/东方红.mp3",
+    "cover_url": "images/poster/民歌/陕北民歌.jpg"
+  },
+  {
+    "id": 144,
+    "title": "黄土高坡",
+    "genre": "陕北民歌",
+    "category_id": 22,
+    "audio_url": "audio/民歌/陕北民歌/黄土高坡.mp3",
+    "cover_url": "images/poster/民歌/陕北民歌.jpg"
+  },
+  {
+    "id": 145,
+    "title": "山丹丹开花红艳艳",
+    "genre": "陕北民歌",
+    "category_id": 22,
+    "audio_url": "audio/民歌/陕北民歌/山丹丹开花红艳艳.mp3",
+    "cover_url": "images/poster/民歌/陕北民歌.jpg"
+  },
+  {
+    "id": 146,
+    "title": "秦王破阵乐",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/秦王破阵乐(编钟乐队与歌队).mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 147,
+    "title": "霓裳羽衣曲",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/霓裳羽衣曲.mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 148,
+    "title": "春江花月夜",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/春江花月夜《编钟与编磬》.mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 149,
+    "title": "采薇",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/采薇.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 150,
+    "title": "神舞",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/神舞 ( 孝淑 bootleg ）.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 151,
+    "title": "执羽",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/执羽（选自舞剧孔子）.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 152,
+    "title": "沧海一声笑",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/沧海一声笑.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 153,
+    "title": "大鱼",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/大鱼.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 154,
+    "title": "何以歌",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/何以歌（竹笛版）.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 155,
+    "title": "梁祝",
+    "genre": "二胡",
+    "category_id": 1,
+    "audio_url": "audio/乐器/二胡/梁祝.mp3",
+    "cover_url": "images/poster/乐器/二胡.jpg"
+  },
+  {
+    "id": 156,
+    "title": "赛马",
+    "genre": "二胡",
+    "category_id": 1,
+    "audio_url": "audio/乐器/二胡/赛马(二胡独奏).mp3",
+    "cover_url": "images/poster/乐器/二胡.jpg"
+  },
+  {
+    "id": 157,
+    "title": "广陵散",
+    "genre": "古琴",
+    "category_id": 2,
+    "audio_url": "audio/乐器/古琴/广陵散 (古琴独奏).mp3",
+    "cover_url": "images/poster/乐器/古琴.jpg"
+  },
+  {
+    "id": 158,
+    "title": "梅花三弄",
+    "genre": "古琴",
+    "category_id": 2,
+    "audio_url": "audio/乐器/古琴/梅花三弄.mp3",
+    "cover_url": "images/poster/乐器/古琴.jpg"
+  },
+  {
+    "id": 159,
+    "title": "高山流水",
+    "genre": "古琴",
+    "category_id": 2,
+    "audio_url": "audio/乐器/古琴/高山流水.mp3",
+    "cover_url": "images/poster/乐器/古琴.jpg"
+  },
+  {
+    "id": 160,
+    "title": "渔舟唱晚",
+    "genre": "古筝",
+    "category_id": 3,
+    "audio_url": "audio/乐器/古筝/渔舟唱晚 (古筝独奏).mp3",
+    "cover_url": "images/poster/乐器/古筝.jpg"
+  },
+  {
+    "id": 161,
+    "title": "画心",
+    "genre": "古筝",
+    "category_id": 3,
+    "audio_url": "audio/乐器/古筝/画心.mp3",
+    "cover_url": "images/poster/乐器/古筝.jpg"
+  },
+  {
+    "id": 162,
+    "title": "女儿情",
+    "genre": "古筝",
+    "category_id": 3,
+    "audio_url": "audio/乐器/古筝/女儿情.mp3",
+    "cover_url": "images/poster/乐器/古筝.jpg"
+  },
+  {
+    "id": 163,
+    "title": "月光下的凤尾竹",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/月光下的凤尾竹.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 164,
+    "title": "弥渡山歌",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/弥渡山歌.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 165,
+    "title": "神话",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/神话.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 166,
+    "title": "乌兰巴托之夜",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/乌兰巴托之夜.mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 167,
+    "title": "草原之夜",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/草原之夜.mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 168,
+    "title": "天边",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/天边.mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 169,
+    "title": "琵琶语",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/琵琶语.mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 170,
+    "title": "十面埋伏",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/十面埋伏.mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 171,
+    "title": "忆江南",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/忆江南（琵琶）.mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 172,
+    "title": "酒狂",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/酒狂.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 173,
+    "title": "阮",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/阮.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 174,
+    "title": "风入松",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/风入松.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 175,
+    "title": "葬花吟",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/葬花吟.mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 176,
+    "title": "青玉案·元夕",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/青玉案·元夕.mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 177,
+    "title": "乱红",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/乱红.mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 178,
+    "title": "百鸟朝凤",
+    "genre": "唢呐",
+    "category_id": 4,
+    "audio_url": "audio/乐器/唢呐/百鸟朝凤.mp3",
+    "cover_url": "images/poster/乐器/唢呐.png"
+  },
+  {
+    "id": 179,
+    "title": "囍",
+    "genre": "唢呐",
+    "category_id": 4,
+    "audio_url": "audio/乐器/唢呐/囍（Chinese Wedding）.mp3",
+    "cover_url": "images/poster/乐器/唢呐.png"
+  },
+  {
+    "id": 180,
+    "title": "大出殡",
+    "genre": "唢呐",
+    "category_id": 4,
+    "audio_url": "audio/乐器/唢呐/大出殡(唢呐版).mp3",
+    "cover_url": "images/poster/乐器/唢呐.png"
+  },
+  {
+    "id": 181,
+    "title": "大漠孤烟直",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/大漠孤烟直 洞箫.mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 182,
+    "title": "太极",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/太极.mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 183,
+    "title": "山鬼",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/【洞箫】山鬼（翻自 Winky诗）.mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 184,
+    "title": "哀郢",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": "audio/乐器/埙/哀郢(埙与乐队).mp3",
+    "cover_url": "images/poster/乐器/埙.jpg"
+  },
+  {
+    "id": 185,
+    "title": "枉凝眉",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": "audio/乐器/埙/枉凝眉.mp3",
+    "cover_url": "images/poster/乐器/埙.jpg"
+  },
+  {
+    "id": 186,
+    "title": "升明月",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/升明日.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 187,
+    "title": "伊姓狐",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/伊姓狐-双档 - 双档.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 188,
+    "title": "阿里爸爸",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/阿里爸爸 - M80、本帮PQ、喷嘭乐团.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 189,
+    "title": "东北人",
+    "genre": "东北二人转",
+    "category_id": 24,
+    "audio_url": "audio/说唱/东北二人转/东北人 - 王洪兵.mp3",
+    "cover_url": "images/poster/说唱/东北二人转.jpg"
+  },
+  {
+    "id": 190,
+    "title": "东北姑娘",
+    "genre": "东北二人转",
+    "category_id": 24,
+    "audio_url": "audio/说唱/东北二人转/东北姑娘 - 小沈阳.mp3",
+    "cover_url": "images/poster/说唱/东北二人转.jpg"
+  },
+  {
+    "id": 191,
+    "title": "你把爱到底给了谁",
+    "genre": "东北二人转",
+    "category_id": 24,
+    "audio_url": "audio/说唱/东北二人转/你把爱到底给了谁 - 孙小宝.mp3",
+    "cover_url": "images/poster/说唱/东北二人转.jpg"
+  },
+  {
+    "id": 192,
+    "title": "武家坡",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/武家坡2021 - 龍猛寺寬度.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 193,
+    "title": "将相和",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/将相和 - 王老九.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 194,
+    "title": "红梅阁",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/红梅阁 - 骆玉笙.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 195,
+    "title": "船工号子",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/船工号子 - 李双江.mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 196,
+    "title": "采花",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/采花 (四川民歌) - 彭丽媛.mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 197,
+    "title": "赏夏",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/川剧-赏夏 - 陈书舫.mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 198,
+    "title": "讲帝号",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/讲帝号 - 侯宝林、刘宝瑞.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 199,
+    "title": "秦琼卖马",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/-秦琼卖马-店主东带过了黄骠马 - 于魁智.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 200,
+    "title": "醉酒",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/醉酒 - 侯宝林、郭全宝.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 201,
+    "title": "莺莺拜月",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/莺莺拜月 - 侯莉君.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 202,
+    "title": "七夕",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/七夕 - 姜啸博.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 203,
+    "title": "莺莺操琴",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/莺莺操琴  蒋调   评弹 - 黄海华、瑞鸣音乐.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 204,
+    "title": "声声慢",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/声声慢.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.png"
+  },
+  {
+    "id": 205,
+    "title": "天仙配-夫妻双双把家还",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/天仙配-夫妻双双把家还.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.png"
+  },
+  {
+    "id": 206,
+    "title": "黄梅戏",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/黄梅戏.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.png"
+  },
+  {
+    "id": 207,
+    "title": "霸王别姬",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/霸王别姬.mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 208,
+    "title": "智斗",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/智斗.mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 209,
+    "title": "白素贞唱段",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/白素贞唱段.mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 210,
+    "title": "牡丹亭游园惊梦",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/牡丹亭游园惊梦.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 211,
+    "title": "皂罗袍",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/皂罗袍.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 212,
+    "title": "长生殿惊变",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/长生殿惊变.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 213,
+    "title": "打龙袍",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/打龙袍.mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 214,
+    "title": "报花名",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/报花名.mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 215,
+    "title": "秦香莲",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/秦香莲.mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 216,
+    "title": "华阴老腔",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/华阴老腔.mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 217,
+    "title": "铡美案",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/铡美案.mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 218,
+    "title": "神女劈观",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/神女劈观.mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 219,
+    "title": "花木兰",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/花木兰.mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 220,
+    "title": "穆桂英挂帅",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/穆桂英挂帅.mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 221,
+    "title": "刘大哥讲话理太偏",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/刘大哥讲话理太偏.mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 222,
+    "title": "天下掉下个林妹妹",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/天下掉下个林妹妹.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 223,
+    "title": "十八相送",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/十八相送.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 224,
+    "title": "西厢记",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/西厢记.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 225,
+    "title": "「二胡」一生所爱（Cover 卢冠廷）",
+    "genre": "二胡",
+    "category_id": 1,
+    "audio_url": "audio/乐器/二胡/「二胡」一生所爱（Cover 卢冠廷）.mp3",
+    "cover_url": "images/poster/乐器/二胡.jpg"
+  },
+  {
+    "id": 226,
+    "title": "长亭怨慢",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": "audio/乐器/埙/长亭怨慢.mp3",
+    "cover_url": "images/poster/乐器/埙.jpg"
+  },
+  {
+    "id": 227,
+    "title": "美丽的神话 笛箫埙版",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": "audio/乐器/埙/美丽的神话 笛箫埙版.mp3",
+    "cover_url": "images/poster/乐器/埙.jpg"
+  },
+  {
+    "id": 228,
+    "title": "神话 埙版（翻自 韩红）",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": "audio/乐器/埙/神话 埙版（翻自 韩红）.mp3",
+    "cover_url": "images/poster/乐器/埙.jpg"
+  },
+  {
+    "id": 229,
+    "title": "烟雨唱扬州 埙版",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": "audio/乐器/埙/烟雨唱扬州 埙版.mp3",
+    "cover_url": "images/poster/乐器/埙.jpg"
+  },
+  {
+    "id": 230,
+    "title": "知音",
+    "genre": "埙",
+    "category_id": 5,
+    "audio_url": "audio/乐器/埙/知音.mp3",
+    "cover_url": "images/poster/乐器/埙.jpg"
+  },
+  {
+    "id": 231,
+    "title": "大漠孤烟",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/大漠孤烟.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 232,
+    "title": "敬畏",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/敬畏.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 233,
+    "title": "神舞 ( 孝淑 bootleg ）",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/神舞 ( 孝淑 bootleg ）.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 234,
+    "title": "诗经·击鼓",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/诗经·击鼓.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 235,
+    "title": "听！秦王破阵乐！",
+    "genre": "大鼓",
+    "category_id": 6,
+    "audio_url": "audio/乐器/大鼓/听！秦王破阵乐！.mp3",
+    "cover_url": "images/poster/乐器/大鼓.jpg"
+  },
+  {
+    "id": 236,
+    "title": "霍元甲 (琵琶版)",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/霍元甲 (琵琶版).mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 237,
+    "title": "精卫琵琶版",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/精卫琵琶版.mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 238,
+    "title": "琵琶独奏《木兰辞》",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/琵琶独奏《木兰辞》.mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 239,
+    "title": "琵琶行",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/琵琶行.mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 240,
+    "title": "雨碎江南（双琵琶）",
+    "genre": "琵琶",
+    "category_id": 7,
+    "audio_url": "audio/乐器/琵琶/雨碎江南（双琵琶）.mp3",
+    "cover_url": "images/poster/乐器/琵琶.jpg"
+  },
+  {
+    "id": 241,
+    "title": "出水莲 (客家筝曲)",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/出水莲 (客家筝曲).mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 242,
+    "title": "梦同游",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/梦同游.mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 243,
+    "title": "牧羊曲",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/牧羊曲.mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 244,
+    "title": "青玉案-元夕",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/青玉案-元夕.mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 245,
+    "title": "枉凝眉",
+    "genre": "笙",
+    "category_id": 8,
+    "audio_url": "audio/乐器/笙/枉凝眉.mp3",
+    "cover_url": "images/poster/乐器/笙.png"
+  },
+  {
+    "id": 246,
+    "title": "何以歌（竹笛版）",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/何以歌（竹笛版）.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 247,
+    "title": "年轮",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/年轮.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 248,
+    "title": "牵丝戏-竹笛（Cover 银临）",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/牵丝戏-竹笛（Cover 银临）.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 249,
+    "title": "星月神话（笛子ver.）",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/星月神话（笛子ver.）.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 250,
+    "title": "雨碎江南",
+    "genre": "笛子",
+    "category_id": 9,
+    "audio_url": "audio/乐器/笛子/雨碎江南.mp3",
+    "cover_url": "images/poster/乐器/笛子.jpg"
+  },
+  {
+    "id": 251,
+    "title": "空山寂寂",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/空山寂寂.mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 252,
+    "title": "梅花三弄(箫)",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/梅花三弄(箫).mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 253,
+    "title": "秦时明月-飞雪玉花",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/秦时明月-飞雪玉花.mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 254,
+    "title": "葬花吟(洞箫)",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/葬花吟(洞箫).mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 255,
+    "title": "自在飞花轻似梦(箫演奏)",
+    "genre": "箫",
+    "category_id": 10,
+    "audio_url": "audio/乐器/箫/自在飞花轻似梦(箫演奏).mp3",
+    "cover_url": "images/poster/乐器/箫.jpg"
+  },
+  {
+    "id": 256,
+    "title": "东皇太一",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/东皇太一.mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 257,
+    "title": "江上清风游",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/江上清风游.mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 258,
+    "title": "莲有秀兮",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/莲有秀兮.mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 259,
+    "title": "秦王破阵乐(编钟乐队与歌队)",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/秦王破阵乐(编钟乐队与歌队).mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 260,
+    "title": "幽兰(古琴与编钟乐团)",
+    "genre": "编钟",
+    "category_id": 11,
+    "audio_url": "audio/乐器/编钟/幽兰(古琴与编钟乐团).mp3",
+    "cover_url": "images/poster/乐器/编钟.jpg"
+  },
+  {
+    "id": 261,
+    "title": "阿佤人民唱新歌",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/阿佤人民唱新歌.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 262,
+    "title": "彩云追月",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/彩云追月.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 263,
+    "title": "蝴蝶泉边",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/蝴蝶泉边.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 264,
+    "title": "竹林深处",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/竹林深处.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 265,
+    "title": "竹楼情歌",
+    "genre": "葫芦丝",
+    "category_id": 12,
+    "audio_url": "audio/乐器/葫芦丝/竹楼情歌.mp3",
+    "cover_url": "images/poster/乐器/葫芦丝.jpg"
+  },
+  {
+    "id": 266,
+    "title": "春江花月夜",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/春江花月夜.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 267,
+    "title": "广陵散",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/广陵散.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 268,
+    "title": "名士自风流",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/名士自风流.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 269,
+    "title": "一生所爱",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/一生所爱.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 270,
+    "title": "葬心",
+    "genre": "阮",
+    "category_id": 13,
+    "audio_url": "audio/乐器/阮/葬心.mp3",
+    "cover_url": "images/poster/乐器/阮.jpg"
+  },
+  {
+    "id": 271,
+    "title": "边境 (马头琴)",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/边境 (马头琴).mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 272,
+    "title": "草原星辰",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/草原星辰.mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 273,
+    "title": "梦中的额吉(蒙)",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/梦中的额吉(蒙).mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 274,
+    "title": "我爱你（马头琴纯享版）",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/我爱你（马头琴纯享版）.mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 275,
+    "title": "西海情歌",
+    "genre": "马头琴",
+    "category_id": 14,
+    "audio_url": "audio/乐器/马头琴/西海情歌.mp3",
+    "cover_url": "images/poster/乐器/马头琴.jpg"
+  },
+  {
+    "id": 276,
+    "title": "大东北",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/大东北.mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 277,
+    "title": "大东北我的家乡 (DJ 版)",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/大东北我的家乡 (DJ 版).mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 278,
+    "title": "东北民谣",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/东北民谣.mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 279,
+    "title": "奢香夫人",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/奢香夫人.mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 280,
+    "title": "香水有毒 (DJ 版)",
+    "genre": "东北民歌",
+    "category_id": 15,
+    "audio_url": "audio/民歌/东北民歌/香水有毒 (DJ 版).mp3",
+    "cover_url": "images/poster/民歌/东北民歌.jpg"
+  },
+  {
+    "id": 281,
+    "title": "白面孔",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/白面孔.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 282,
+    "title": "升明月-双档",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/升明月-双档.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 283,
+    "title": "苏州河上一座桥",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/苏州河上一座桥.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 284,
+    "title": "伊姓狐-双档",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/伊姓狐-双档.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 285,
+    "title": "栀子花 白兰花",
+    "genre": "上海说唱",
+    "category_id": 23,
+    "audio_url": "audio/说唱/上海说唱/栀子花 白兰花.mp3",
+    "cover_url": "images/poster/说唱/上海说唱.jpg"
+  },
+  {
+    "id": 286,
+    "title": "《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 287,
+    "title": "丑末寅初",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/丑末寅初.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 288,
+    "title": "京韵大鼓-大西厢",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/京韵大鼓-大西厢.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 289,
+    "title": "俞伯牙摔琴",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/俞伯牙摔琴.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 290,
+    "title": "重整河山待后生",
+    "genre": "京韵大鼓",
+    "category_id": 25,
+    "audio_url": "audio/说唱/京韵大鼓/重整河山待后生.mp3",
+    "cover_url": "images/poster/说唱/京韵大鼓.jpg"
+  },
+  {
+    "id": 291,
+    "title": "巴山夜雨紛紛",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/巴山夜雨紛紛.mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 292,
+    "title": "川剧-赏夏",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/川剧-赏夏.mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 293,
+    "title": "荆钗记",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/荆钗记.mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 294,
+    "title": "太阳出来喜洋洋(四川民歌)",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/太阳出来喜洋洋(四川民歌).mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 295,
+    "title": "幺儿嘞",
+    "genre": "四川清音",
+    "category_id": 26,
+    "audio_url": "audio/说唱/四川清音/幺儿嘞.mp3",
+    "cover_url": "images/poster/说唱/四川清音.jpg"
+  },
+  {
+    "id": 296,
+    "title": "定军山",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/定军山.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 297,
+    "title": "红灯记",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/红灯记.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 298,
+    "title": "卖马",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/卖马.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 299,
+    "title": "月光下的凤尾竹",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/月光下的凤尾竹.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 300,
+    "title": "祝酒歌",
+    "genre": "山东快书",
+    "category_id": 27,
+    "audio_url": "audio/说唱/山东快书/祝酒歌.mp3",
+    "cover_url": "images/poster/说唱/山东快书.jpg"
+  },
+  {
+    "id": 301,
+    "title": "宝玉夜探",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/宝玉夜探.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 302,
+    "title": "天涯歌女",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/天涯歌女.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 303,
+    "title": "西厢 请宴   严调   评弹",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/西厢 请宴   严调   评弹.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 304,
+    "title": "莺莺操琴  蒋调   评弹",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/莺莺操琴  蒋调   评弹.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 305,
+    "title": "珍珠塔·义激陈琏",
+    "genre": "苏州评弹",
+    "category_id": 28,
+    "audio_url": "audio/说唱/苏州评弹/珍珠塔·义激陈琏.mp3",
+    "cover_url": "images/poster/说唱/苏州评弹.jpg"
+  },
+  {
+    "id": 306,
+    "title": "京剧双投唐选段",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/京剧双投唐选段.mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 307,
+    "title": "探清水河",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/探清水河.mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 308,
+    "title": "武家坡2021",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/武家坡2021.mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 309,
+    "title": "铡美案",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/铡美案.mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 310,
+    "title": "智斗(《沙家浜》)",
+    "genre": "京剧",
+    "category_id": 29,
+    "audio_url": "audio/戏曲/京剧/智斗(《沙家浜》).mp3",
+    "cover_url": "images/poster/戏曲/京剧.jpg"
+  },
+  {
+    "id": 311,
+    "title": "藏山河重制版",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/藏山河重制版.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 312,
+    "title": "牡丹亭.游园---皂罗袍",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/牡丹亭.游园---皂罗袍.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 313,
+    "title": "牡丹亭·游园·皂罗袍",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/牡丹亭·游园·皂罗袍.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 314,
+    "title": "牡丹亭·皂罗袍（昆曲x古琴）",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/牡丹亭·皂罗袍（昆曲x古琴）.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 315,
+    "title": "一拜天地（古琴x昆曲）",
+    "genre": "昆曲",
+    "category_id": 30,
+    "audio_url": "audio/戏曲/昆曲/一拜天地（古琴x昆曲）.mp3",
+    "cover_url": "images/poster/戏曲/昆曲.jpg"
+  },
+  {
+    "id": 316,
+    "title": "华阴老腔一声喊 (Live)",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/华阴老腔一声喊 (Live).mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 317,
+    "title": "秦腔",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/秦腔.mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 318,
+    "title": "秦腔 关山月",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/秦腔 关山月.mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 319,
+    "title": "秦腔-三击掌",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/秦腔-三击掌.mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 320,
+    "title": "秦腔-游龟山",
+    "genre": "秦腔",
+    "category_id": 31,
+    "audio_url": "audio/戏曲/秦腔/秦腔-游龟山.mp3",
+    "cover_url": "images/poster/戏曲/秦腔.jpg"
+  },
+  {
+    "id": 321,
+    "title": "《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证.mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 322,
+    "title": "打龙袍 (二)",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/打龙袍 (二).mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 323,
+    "title": "花为媒·窈窕淑女君子好逑",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/花为媒·窈窕淑女君子好逑.mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 324,
+    "title": "评剧-秦香莲",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/评剧-秦香莲.mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 325,
+    "title": "乾坤带·非是儿臣以小犯上",
+    "genre": "评剧",
+    "category_id": 32,
+    "audio_url": "audio/戏曲/评剧/乾坤带·非是儿臣以小犯上.mp3",
+    "cover_url": "images/poster/戏曲/评剧.jpg"
+  },
+  {
+    "id": 326,
+    "title": "穆桂英挂帅(唱段)",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/穆桂英挂帅(唱段).mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 327,
+    "title": "四千岁你莫要羞愧难当",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/四千岁你莫要羞愧难当.mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 328,
+    "title": "小仓娃我离了登封小县",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/小仓娃我离了登封小县.mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 329,
+    "title": "豫剧-穆桂英挂帅",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/豫剧-穆桂英挂帅.mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 330,
+    "title": "铡美案",
+    "genre": "豫剧",
+    "category_id": 33,
+    "audio_url": "audio/戏曲/豫剧/铡美案.mp3",
+    "cover_url": "images/poster/戏曲/豫剧.jpg"
+  },
+  {
+    "id": 331,
+    "title": "红楼梦.天上掉下个林妹妹",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/红楼梦.天上掉下个林妹妹.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 332,
+    "title": "红楼梦天上掉下个林妹妹",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/红楼梦天上掉下个林妹妹.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 333,
+    "title": "谁料皇榜中状元",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/谁料皇榜中状元.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 334,
+    "title": "我家有个小九妹",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/我家有个小九妹.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 335,
+    "title": "新梁祝.十八相送",
+    "genre": "越剧",
+    "category_id": 34,
+    "audio_url": "audio/戏曲/越剧/新梁祝.十八相送.mp3",
+    "cover_url": "images/poster/戏曲/越剧.jpg"
+  },
+  {
+    "id": 336,
+    "title": "十八相送",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/十八相送.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.jpg"
+  },
+  {
+    "id": 337,
+    "title": "武家坡2021",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/武家坡2021.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.jpg"
+  },
+  {
+    "id": 338,
+    "title": "武家坡2023",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/武家坡2023.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.jpg"
+  },
+  {
+    "id": 339,
+    "title": "戏凤 游龙戏凤",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/戏凤 游龙戏凤.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.jpg"
+  },
+  {
+    "id": 340,
+    "title": "赞人间",
+    "genre": "黄梅",
+    "category_id": 35,
+    "audio_url": "audio/戏曲/黄梅/赞人间.mp3",
+    "cover_url": "images/poster/戏曲/黄梅.jpg"
+  }
+]

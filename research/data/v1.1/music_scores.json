@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.1",
+  "status": "pending",
+  "status_label": "待补充",
+  "note": "v1.1 只扩充案例；20首候选曲目仍未完成8项评分，不生成任何分数。",
+  "target_count": 20,
+  "score_scale": 100,
+  "weights": {
+    "emotional_resonance": 0.2,
+    "timbre_identity": 0.15,
+    "melody_accessibility": 0.15,
+    "cultural_story": 0.1,
+    "adaptation_space": 0.1,
+    "visual_expressiveness": 0.1,
+    "era_theme_relevance": 0.1,
+    "existing_evidence": 0.1
+  },
+  "tiers": [
+    {
+      "min": 80,
+      "max": 100,
+      "label": "优先传播"
+    },
+    {
+      "min": 65,
+      "max": 79.99,
+      "label": "适合传播，但需要适配"
+    },
+    {
+      "min": 50,
+      "max": 64.99,
+      "label": "需要较多文化解释"
+    },
+    {
+      "min": 0,
+      "max": 49.99,
+      "label": "暂不作为主要国际传播对象"
+    }
+  ],
+  "items": []
+}

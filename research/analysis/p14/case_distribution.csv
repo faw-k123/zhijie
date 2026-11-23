@@ -1,0 +1,41 @@
+﻿case_id,performer,country,region,case_type,analysis_sample,review_status,source_count,distinct_publishers,valid_scores,null_scores,instruments,work,event_date,activity_status,case_ids_note
+CASE001,Eliott Tordo（艾略特·托多）,法国,欧洲,foreign_individual_cross_cultural,pending_review,B,3,3,10,0,二胡,影视/游戏配乐改编为主（如《角斗士》主题曲 Now We Are Free）；完整演出曲目单未公开（未知）,2016年起学习；2020年起视频走红；2023年11月中国12城巡演,NOT_RECORDED,one country per case
+CASE002,美国巴德学院音乐学院 美中音乐研习院（US-China Music Institute）/ Bard Chinese Ensemble,美国,北美,overseas_institution_ensemble,extended_cross_cultural,B,2,2,7,3,古筝,“Guzheng Tianxia”音乐会曲目单未公开（未知）；乐团以中国当代民族管弦乐作品为主（官网）,2026-04-30,NOT_RECORDED,one country per case
+CASE003,2026二胡群英会：巫谢慧 与 5名日本青年二胡演奏者,日本,东亚,cross_cultural_ensemble,extended_cross_cultural,B,2,2,9,1,二胡,中国传统经典曲、日本动漫曲、摇滚《敞开双臂》、巫谢慧原创《新天地》《衡山霓虹》《月亮与我》《上海小夜曲》《Dancing7》,2026-10-03,NOT_RECORDED,one country per case
+CASE004,Jeremy Moyer（莫杰明）,加拿大,北美,foreign_individual_cross_cultural,extended_cross_cultural,B,3,3,6,4,二胡；秦琴,中国传统民间音乐、台湾民歌与戏曲/宗教音乐素材；个人专辑《A Discovery of Chinese Folk Tunes》（曲目单未公开）,1990年代中期在台湾学习二胡；2004年移居上海；2018年上海市政府英文报道,NOT_RECORDED,one country per case
+CASE005,Clare Cooper,澳大利亚,其他,foreign_individual_cross_cultural,strict_individual,B,2,1,6,4,古筝,实验与即兴音乐；古筝作为主奏或合作乐器；具体传统曲目未公开（未知）,1981年生于悉尼；2007年移居柏林；近十余年在16国演出；2024-10-06 LVSXY 演出,NOT_RECORDED,one country per case
+CASE006,Jarrelle Barton,美国,北美,foreign_individual_cross_cultural,strict_individual,B,3,3,8,2,古筝,中国传统古筝曲目与个人演奏；具体曲目单未公开（未知）,13岁开始自学；2017年 MPR 报道；2018年 Anderson Center 驻留/演出；2018-08-25 双城灯节；2018-12 奥尔德道演出,NOT_RECORDED,one country per case
+CASE007,Colin Huehns,英国,欧洲,foreign_individual_cross_cultural,pending_review,B,2,2,7,3,二胡,中国传统二胡曲目与英国作曲家新作；具体曲目单未公开（未知）,1996年起在西安音乐学院学习三年；1998年二胡十级；1999年回英；此后在 Leeds/Edinburgh/Oxford/Bristol 等高校演出；BBC Radio 3,NOT_RECORDED,one country per case
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,英国,欧洲,overseas_institution_education,extended_cross_cultural,B,2,2,7,3,古琴,《流水》《梅花三弄》《良宵引》《阳春古曲—小天鹅圆舞》《兰亭序》《越人歌》等（2025-07-12 22周年雅集）,2003-07-13成立；2025-07-12 22周年雅集；2025-08-25至30 伦敦国际中国音乐节,NOT_RECORDED,one country per case
+CASE009,巴德中西乐团（Bard East/West Ensemble）,美国,北美,cross_cultural_ensemble,extended_cross_cultural,B,2,1,7,3,古琴；二胡；琵琶；古筝；唢呐；管子,《苗寨狂欢》（世界首演）、《钟馗冒险》、古琴协奏曲《别赋》、科普兰《阿巴拉契亚之春》改编等,2025-05-03,NOT_RECORDED,one country per case
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,法国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,B,2,2,6,4,中阮；琵琶,用中阮、琵琶创作流行、摇滚与实验音乐；具体曲目单未公开（未知）,2000年首次来华；2013年组建 Djang San + Band；2019年人民网德语视界报道,NOT_RECORDED,one country per case
+CASE011,Duke Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,古筝；二胡,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE012,UCLA Chinese Music,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,古筝；二胡,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE013,Qingyun Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国乐器合奏,未标注（来源未列具体曲目）,unverified,NOT_RECORDED,one country per case
+CASE014,Indiana University East-West collaboration,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中西合奏,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE015,University of Illinois Chinese music event,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国乐器,未标注（来源未列具体曲目）,unverified,NOT_RECORDED,one country per case
+CASE016,University of Pittsburgh Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国乐器合奏,未标注（来源未列具体曲目）,unverified,NOT_RECORDED,one country per case
+CASE017,Ohio State Chinese Folk Music Orchestra,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,unverified,NOT_RECORDED,one country per case
+CASE018,Williams Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国乐器合奏,未标注（来源未列具体曲目）,unverified,NOT_RECORDED,one country per case
+CASE019,Chinese Music Ensemble of New York,美国,北美,overseas_institution_ensemble,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,unverified,NOT_RECORDED,one country per case
+CASE020,Ba Ban Chinese Music Society,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,scheduled,NOT_RECORDED,one country per case
+CASE021,Melody of China,美国,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE022,Toronto Chinese Orchestra,加拿大,北美,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE023,Vancouver Chinese Music Ensemble,加拿大,北美,overseas_institution_ensemble,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE024,Harmony Guzheng Ensemble,加拿大,北美,overseas_institution_ensemble,extended_cross_cultural,B,1,1,0,10,古筝,未标注（来源未列具体曲目）,scheduled,NOT_RECORDED,one country per case
+CASE025,Seattle Chinese Orchestra,美国,北美,overseas_institution_ensemble,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,scheduled,NOT_RECORDED,one country per case
+CASE026,Chung Wah Chinese Orchestra,澳大利亚,其他,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE027,Chao Feng Chinese Orchestra,澳大利亚,其他,overseas_institution_ensemble,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,scheduled,NOT_RECORDED,one country per case
+CASE028,Australian Chinese Music Ensemble,澳大利亚,其他,overseas_institution_ensemble,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE029,NZ Chinese Hundred Flowers Art Troupe,新西兰,其他,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,unverified,NOT_RECORDED,one country per case
+CASE030,UK Chinese Music,英国,欧洲,overseas_institution_education,extended_cross_cultural,B,1,1,0,10,古琴；古筝；琵琶,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE031,Grand Chinese New Year Concert Berlin,德国,欧洲,overseas_institution_ensemble,extended_cross_cultural,B,1,1,0,10,中国民族乐器,未标注（来源未列具体曲目）,scheduled,NOT_RECORDED,one country per case
+CASE032,Belle / Erin Lam,英国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,B,2,2,0,10,古筝,未标注（来源未列具体曲目）,performed_confirmed,NOT_RECORDED,one country per case
+CASE033,Nicholas Ng,澳大利亚,其他,foreign_individual_cross_cultural,extended_cross_cultural,B,2,2,0,10,二胡；中国音乐,未标注（来源未列具体曲目）,partial,NOT_RECORDED,one country per case
+CASE034,Wu Fei & Abigail Washburn,美国,北美,cross_cultural_ensemble,extended_cross_cultural,B,1,1,0,10,古筝 + 班卓琴,未标注（来源未列具体曲目）,performed_confirmed,NOT_RECORDED,one country per case
+CASE035,Mona Li,德国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,B,4,2,0,10,古筝,未标注（来源未列具体曲目）,program_listed,NOT_RECORDED,one country per case
+CASE036,东京古筝乐团（Tokyo Guzheng Orchestra）,日本,东亚,overseas_institution_education,extended_cross_cultural,B,3,2,0,10,古筝,未标注（来源未列具体曲目）,performed_confirmed,NOT_RECORDED,one country per case
+CASE037,泉州师范学院南音团队,阿联酋,中东及部分伊斯兰文化地区,cross_cultural_ensemble,extended_cross_cultural,B,1,1,3,7,南音琵琶；四宝,《风打梨》,2025-11-14,NOT_RECORDED,one country per case
+CASE038,Li Cangxiao 与墨西哥音乐家,墨西哥,拉丁美洲,cross_cultural_ensemble,extended_cross_cultural,B,1,1,3,7,二胡；钢琴；弦乐四重奏；打击乐,Kangding; Butterfly Lovers; Libertango; Danzón No. 2; Horse Racing,2026-09-25 / 2026-09-27,NOT_RECORDED,one country per case
+CASE039,中国音乐家（科威特中国文化中心）,科威特,中东及部分伊斯兰文化地区,cross_cultural_ensemble,extended_cross_cultural,B,2,2,9,1,二胡；古筝；笛子；琵琶,《春江花月夜》《空谷鸟鸣》《潇湘水云》；《茉莉花》合作,2025-11-24 / 2025-11-25,NOT_RECORDED,one country per case
+CASE040,中国音乐学院音乐家（阿根廷）,阿根廷,拉丁美洲,cross_cultural_ensemble,extended_cross_cultural,B,2,2,6,4,琵琶；扬琴；笛；箫,《送我一支玫瑰花》《秋野》《月下花情》,2025-09-22,NOT_RECORDED,one country per case

@@ -1,0 +1,1326 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.1",
+  "indicators": [
+    {
+      "indicator_id": "emotional_resonance",
+      "label_zh": "情感共通性",
+      "order": 1,
+      "definition": "作品是否能触发跨语言的情绪共鸣（喜悦、乡愁、悲怆、壮阔等），并有受众层面的证据。",
+      "anchors": {
+        "0": "无任何受众情感反应证据，或作品明显依赖语言/文化背景才能理解。",
+        "1": "仅演奏者或媒体转述情感，缺少受众原话。",
+        "2": "有1—4条受众情感反应原文（非媒体概括）。",
+        "3": "≥5条受众情感反应原文，且跨越不同语言/国家，或出现“流泪/共鸣/治愈”等明确表述。"
+      },
+      "evidence_rule": "受众评论原文、采访中的受众引述；媒体形容词不计。"
+    },
+    {
+      "indicator_id": "timbre_identity",
+      "label_zh": "音色辨识度",
+      "order": 2,
+      "definition": "乐器音色本身是否被受众或演奏者作为记忆点明确提出。",
+      "anchors": {
+        "0": "材料中完全没有关于音色/音质的描述。",
+        "1": "只有演奏者自述被音色吸引，无受众侧证据。",
+        "2": "演奏者自述 + 1—4条受众提到音色。",
+        "3": "演奏者自述 + ≥5条受众明确提到音色，或有专业评论分析其音色特征。"
+      },
+      "evidence_rule": "采访原话、受众评论；不得由研究者自行判断“音色好听”。"
+    },
+    {
+      "indicator_id": "story_explainability",
+      "label_zh": "故事可解释性",
+      "order": 3,
+      "definition": "该案例是否能被讲成一个可跨文化理解的故事（学习动机、文化背景、人物经历）。",
+      "anchors": {
+        "0": "只有演出记录，无可叙述的背景。",
+        "1": "有简短背景，但缺少动机或文化解释。",
+        "2": "有明确的学习/接触动机叙述，且可核验。",
+        "3": "动机 + 文化背景 + 传播过程构成完整叙事，且有原文支撑。"
+      },
+      "evidence_rule": "采访、人物报道、节目单介绍。"
+    },
+    {
+      "indicator_id": "cross_cultural_adaptation",
+      "label_zh": "跨文化改编程度",
+      "order": 4,
+      "definition": "是否对曲目、编制、演奏方式做了跨文化处理。",
+      "anchors": {
+        "0": "完全按中国传统方式演奏传统曲目，无改编。",
+        "1": "轻微调整（如加字幕、加讲解）。",
+        "2": "曲目或编制有明显跨文化选择（如用二胡演奏西方影视配乐）。",
+        "3": "系统性改编：跨文化曲目 + 编制/风格重构，且有公开作品可核验。"
+      },
+      "evidence_rule": "视频、专辑、节目单。"
+    },
+    {
+      "indicator_id": "education_support",
+      "label_zh": "教育支持程度",
+      "order": 5,
+      "definition": "是否有稳定的教学、课程、学位项目或工作坊支撑。",
+      "anchors": {
+        "0": "无教学行为。",
+        "1": "零散个别授课，无公开记录。",
+        "2": "有公开的持续教学记录（定期授课、系列工作坊）。",
+        "3": "进入学校课程/学位项目，或形成机构化教学体系。"
+      },
+      "evidence_rule": "官网课程页、招生页、校方报道、公开课表。"
+    },
+    {
+      "indicator_id": "bridge_role",
+      "label_zh": "外国演奏者的文化桥梁作用",
+      "order": 6,
+      "definition": "演奏者是否在机构或公共层面承担了连接两种文化的中介角色。",
+      "anchors": {
+        "0": "无相关证据。",
+        "1": "仅自我表述“桥梁”，无外部印证。",
+        "2": "有媒体报道或机构承认其中介作用。",
+        "3": "形成机构化/长期化的合作项目、驻场、联合演出机制。"
+      },
+      "evidence_rule": "报道表述、机构合作页面、项目记录。"
+    },
+    {
+      "indicator_id": "audience_participation",
+      "label_zh": "受众参与度",
+      "order": 7,
+      "definition": "受众是否从“观看”进入“互动/学习/再创作”。",
+      "anchors": {
+        "0": "无互动证据。",
+        "1": "仅有播放/点赞等单向数据。",
+        "2": "有评论互动，或有现场互动环节记录。",
+        "3": "出现翻奏、教学、二创等由受众发起的再生产行为。"
+      },
+      "evidence_rule": "评论区、现场记录、二创链接。"
+    },
+    {
+      "indicator_id": "channel_fit",
+      "label_zh": "传播渠道适配度",
+      "order": 8,
+      "definition": "所选渠道与该乐器/作品的呈现方式是否匹配。",
+      "anchors": {
+        "0": "渠道与内容明显不匹配（如纯音频平台展示视觉性乐器）。",
+        "1": "渠道单一且证据薄弱。",
+        "2": "渠道与内容匹配，且有稳定输出。",
+        "3": "多渠道协同（线上+线下+教育），且各渠道均有可核验记录。"
+      },
+      "evidence_rule": "账号主页、演出记录、课程页。"
+    },
+    {
+      "indicator_id": "era_theme_relevance",
+      "label_zh": "时代主题关联度",
+      "order": 9,
+      "definition": "与和平、文明交流、生态、非遗、青年交流、乡愁、数字文化等主题的关联强度。",
+      "anchors": {
+        "0": "无关联表述。",
+        "1": "可间接关联，但材料中无表述。",
+        "2": "材料中有明确主题表述（如“文化交流”“青年传承”）。",
+        "3": "主题被机构/媒体作为核心叙事，且有具体行动支撑。"
+      },
+      "evidence_rule": "报道主题、活动定位、机构项目说明。"
+    },
+    {
+      "indicator_id": "sustainability",
+      "label_zh": "传播持续性",
+      "order": 10,
+      "definition": "传播是否跨越单次事件，形成持续输出。",
+      "anchors": {
+        "0": "单次事件，无后续。",
+        "1": "有后续但间隔长、无稳定节奏。",
+        "2": "持续1—2年以上的稳定输出。",
+        "3": "持续3年以上，或形成系列化/年度化机制。"
+      },
+      "evidence_rule": "账号发布记录、演出年表、年度活动页面。"
+    }
+  ],
+  "scores": [
+    {
+      "case_id": "CASE001",
+      "indicator_id": "emotional_resonance",
+      "score": 3,
+      "evidence": "6条可核验评论中，多条明确表达感动/流泪（C001-C01）与“语言不同但音乐共通”（C001-C02、C001-C05）；满足≥5条原文。",
+      "source_ids": [
+        "C001-S001",
+        "C001-S003"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "timbre_identity",
+      "score": 2,
+      "evidence": "演奏者自述“被音色打动”（C001-S002）；受众侧仅C001-C04明确提到“中国乐器让作品更具戏剧性”，计2分。",
+      "source_ids": [
+        "C001-S002",
+        "C001-S003"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "story_explainability",
+      "score": 3,
+      "evidence": "2016年听到→自学→走红→2023中国巡演→教学，动机、过程与结果均有原文（C001-S001/S002）。",
+      "source_ids": [
+        "C001-S001",
+        "C001-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 3,
+      "evidence": "系统性地用二胡改编影视/游戏/摇滚曲目，公开视频可核（C001-S003）。",
+      "source_ids": [
+        "C001-S003"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "education_support",
+      "score": 2,
+      "evidence": "每周教授十几名学生（C001-S001）；未进入学校课程（未知）。",
+      "source_ids": [
+        "C001-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "bridge_role",
+      "score": 2,
+      "evidence": "媒体称其为“传播中国文化的桥梁”，本人自述bridge builder（C001-S001/S002）；无机构化长期项目。",
+      "source_ids": [
+        "C001-S001",
+        "C001-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "audience_participation",
+      "score": 2,
+      "evidence": "单条视频3289条评论、13万点赞（C001-S003）；未见翻奏/二创证据。",
+      "source_ids": [
+        "C001-S003"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "channel_fit",
+      "score": 3,
+      "evidence": "网络视频+巡演+教学三渠道均有可核记录。",
+      "source_ids": [
+        "C001-S001",
+        "C001-S002",
+        "C001-S003"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "era_theme_relevance",
+      "score": 3,
+      "evidence": "媒体与本人均以“中法文化交流/数字平台传播”为核心叙事，且有巡演行动。",
+      "source_ids": [
+        "C001-S001",
+        "C001-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE001",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "2016年至今持续输出，频道259个视频（C001-S003页面），2023年巡演。",
+      "source_ids": [
+        "C001-S001",
+        "C001-S002",
+        "C001-S003"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "无任何受众评论或情感反应证据（C002-S001未引述评论）。",
+      "source_ids": [
+        "C002-S001"
+      ],
+      "missing_reason": "无任何受众评论或情感反应证据（C002-S001未引述评论）。",
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "timbre_identity",
+      "score": null,
+      "evidence": "无受众侧描述；不得以研究者判断代替。",
+      "source_ids": [],
+      "missing_reason": "无受众侧描述；不得以研究者判断代替。",
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "story_explainability",
+      "score": 2,
+      "evidence": "学生Kendall Griffith的动机与学习路径有官网原文（C002-S002）；机构叙事完整，但仅1人可核。",
+      "source_ids": [
+        "C002-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 2,
+      "evidence": "Bard Chinese Ensemble以中西混合编制作改编（C002-S002）；本场音乐会具体改编未知。",
+      "source_ids": [
+        "C002-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "education_support",
+      "score": 3,
+      "evidence": "音乐学院设中国乐器双学位项目，并有年度会议机制（C002-S002/S001）。",
+      "source_ids": [
+        "C002-S001",
+        "C002-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "bridge_role",
+      "score": 3,
+      "evidence": "机构化、长期化的中美音乐教育项目。",
+      "source_ids": [
+        "C002-S001",
+        "C002-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "audience_participation",
+      "score": null,
+      "evidence": "仅知到场200余人，无互动或评论证据。",
+      "source_ids": [
+        "C002-S001"
+      ],
+      "missing_reason": "仅知到场200余人，无互动或评论证据。",
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "channel_fit",
+      "score": 2,
+      "evidence": "线下音乐会+学术会议，渠道匹配但缺线上扩散记录。",
+      "source_ids": [
+        "C002-S001",
+        "C002-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "era_theme_relevance",
+      "score": 2,
+      "evidence": "机构以“cultural exchange”为核心表述，但缺具体主题行动证据。",
+      "source_ids": [
+        "C002-S001",
+        "C002-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "indicator_id": "sustainability",
+      "score": 2,
+      "evidence": "年度会议与学位项目构成机制，但持续年限未核实。",
+      "source_ids": [
+        "C002-S001",
+        "C002-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "报道未引述任何观众评论。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": "报道未引述任何观众评论。",
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "timbre_identity",
+      "score": 1,
+      "evidence": "记者描述“优美婉转”（C003-S001），属媒体转述，非受众证据。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "story_explainability",
+      "score": 2,
+      "evidence": "报道概括“从小学起喜欢二胡、有人赴中央音乐学院留学”（C003-S001），有动机但无个体原话。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 3,
+      "evidence": "中日曲目混编，含动漫曲、摇滚《敞开双臂》与原创作品（C003-S001）。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "education_support",
+      "score": 2,
+      "evidence": "报道称5人“已成为在日本演出或授课的专业二胡演奏者”（C003-S001）；无课程/学位证据。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "bridge_role",
+      "score": 2,
+      "evidence": "中日演奏者同台，主办方与报道均强调交流；无长期机构项目。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "audience_participation",
+      "score": 2,
+      "evidence": "现场设“峰会”互动环节并有笑声记录（C003-S001，记者描述）。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "channel_fit",
+      "score": 2,
+      "evidence": "线下音乐会+媒体报道+系列演出（C003-S002）。",
+      "source_ids": [
+        "C003-S001",
+        "C003-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "era_theme_relevance",
+      "score": 3,
+      "evidence": "“让二胡在日本普及”“青年传承”为核心叙事（C003-S001）。",
+      "source_ids": [
+        "C003-S001"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "indicator_id": "sustainability",
+      "score": 2,
+      "evidence": "系列演出“二胡ヌーヴォー Vol.2”五场，且时隔17年重办（C003-S002/S001）。",
+      "source_ids": [
+        "C003-S001",
+        "C003-S002"
+      ],
+      "missing_reason": null,
+      "coder": "编码者A",
+      "coded_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集到受众情感反应原文",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "timbre_identity",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料没有受众对音色的明确表述",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "story_explainability",
+      "score": 2,
+      "evidence": "上海市政府报道明确写出1990年代中期在台湾学习二胡、2004年移居上海与民间采风经历。",
+      "source_ids": [
+        "C004-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 2,
+      "evidence": "个人专辑以中国民谣改编为主题，属于跨文化创作，但未见系统性编制重构说明。",
+      "source_ids": [
+        "C004-S003"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "education_support",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料未给出稳定教学/课程记录",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "bridge_role",
+      "score": 2,
+      "evidence": "上海市政府英文报道以“加拿大音乐人演奏中国传统乐器”为人物报道主题，具有媒体层面的桥梁叙事。",
+      "source_ids": [
+        "C004-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "audience_participation",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集评论、互动或二创数据",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "channel_fit",
+      "score": 2,
+      "evidence": "线下演奏、媒体人物报道与个人专辑形成稳定输出。",
+      "source_ids": [
+        "C004-S001",
+        "C004-S003"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "era_theme_relevance",
+      "score": 2,
+      "evidence": "报道明确把中国民间音乐采风与城市/传统记忆联系起来。",
+      "source_ids": [
+        "C004-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE004",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "1990年代中期学习、2004年移居上海，2018年仍有报道与专辑，持续超过3年。",
+      "source_ids": [
+        "C004-S001",
+        "C004-S003"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集到受众情感反应原文",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "timbre_identity",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料没有受众对音色的明确表述",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "story_explainability",
+      "score": 1,
+      "evidence": "官方简介给出出生地、移居柏林与乐器，但没有学习动机或文化背景叙述。",
+      "source_ids": [
+        "C005-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 2,
+      "evidence": "官方简介显示古筝用于实验/即兴与跨媒介合作，但不是有公开作品分析的系统性跨文化改编。",
+      "source_ids": [
+        "C005-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "education_support",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料未给出稳定教学/课程记录",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "bridge_role",
+      "score": 2,
+      "evidence": "ausland 官方艺术家页以跨文化合作者身份介绍，并在16国演出。",
+      "source_ids": [
+        "C005-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "audience_participation",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集评论、互动或二创数据",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "channel_fit",
+      "score": 2,
+      "evidence": "线下演出与媒体播出（SWR/ABC/BBC）匹配其实验音乐呈现。",
+      "source_ids": [
+        "C005-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "era_theme_relevance",
+      "score": 2,
+      "evidence": "官方简介把古筝放入当代实验与跨媒介语境，关联数字/当代文化。",
+      "source_ids": [
+        "C005-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE005",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "2007年移居柏林，近十余年持续在16国演出，超过3年。",
+      "source_ids": [
+        "C005-S001",
+        "C005-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集到受众情感反应原文",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "timbre_identity",
+      "score": 1,
+      "evidence": "Barton 自述被古筝音色吸引；未找到受众侧音色评论。",
+      "source_ids": [
+        "C006-S001",
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "story_explainability",
+      "score": 3,
+      "evidence": "报道完整叙述13岁在图书馆听到古筝、自学中文教程、随北京老师学习与赴美演出的过程。",
+      "source_ids": [
+        "C006-S001",
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 1,
+      "evidence": "报道强调传统曲目学习，未见明显改编或跨文化编制。",
+      "source_ids": [
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "education_support",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料未给出稳定教学/课程记录",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "bridge_role",
+      "score": 2,
+      "evidence": "MPR/新浪报道以美国青年演奏古筝的人物故事呈现其文化连接作用。",
+      "source_ids": [
+        "C006-S001",
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "audience_participation",
+      "score": 1,
+      "evidence": "报道称视频吸引成千上万观众，但只提供观看规模，未采集评论/二创。",
+      "source_ids": [
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "channel_fit",
+      "score": 3,
+      "evidence": "网络视频、Anderson Center 驻留、双城灯节与12月演出形成线上+线下组合。",
+      "source_ids": [
+        "C006-S001",
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "era_theme_relevance",
+      "score": 2,
+      "evidence": "报道明确以青年学习中国音乐、跨文化理解为主题。",
+      "source_ids": [
+        "C006-S001",
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE006",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "13岁开始学习，2017—2018年仍有报道、驻留与演出，持续超过3年。",
+      "source_ids": [
+        "C006-S001",
+        "C006-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集到受众情感反应原文",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "timbre_identity",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料没有受众对音色的明确表述",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "story_explainability",
+      "score": 3,
+      "evidence": "个人官网完整叙述小提琴背景、1996年赴西安学习三年、1998年十级与回英演出。",
+      "source_ids": [
+        "C007-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 2,
+      "evidence": "委约英国作曲家为二胡创作，属于跨文化委约，但未见系统性编制重构。",
+      "source_ids": [
+        "C007-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "education_support",
+      "score": 3,
+      "evidence": "1999年起在皇家音乐学院教授二胡，进入学院教学体系。",
+      "source_ids": [
+        "C007-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "bridge_role",
+      "score": 3,
+      "evidence": "在皇家音乐学院任教、在多家英国高校讲座/独奏，形成机构化合作。",
+      "source_ids": [
+        "C007-S001",
+        "C007-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "audience_participation",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集评论、互动或二创数据",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "channel_fit",
+      "score": 3,
+      "evidence": "高校讲座/独奏、BBC Radio 3 与展览图录多渠道协同。",
+      "source_ids": [
+        "C007-S001",
+        "C007-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "era_theme_relevance",
+      "score": 2,
+      "evidence": "官网明确以中英音乐交流与二胡教学为主题。",
+      "source_ids": [
+        "C007-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE007",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "1996年至今持续演奏/教学超过3年。",
+      "source_ids": [
+        "C007-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集到受众情感反应原文",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "timbre_identity",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料没有受众对音色的明确表述",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "story_explainability",
+      "score": 2,
+      "evidence": "报道叙述程玉创立琴社、22年发展与雅集/夏校体系，但缺个人动机。",
+      "source_ids": [
+        "C008-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 2,
+      "evidence": "雅集包含古琴与中西音乐元素，但具体改编曲目未公开。",
+      "source_ids": [
+        "C008-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "education_support",
+      "score": 3,
+      "evidence": "连续21年夏校、150多场雅集、培训20多国600多名学习者，形成机构化教学。",
+      "source_ids": [
+        "C008-S001",
+        "C008-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "bridge_role",
+      "score": 3,
+      "evidence": "在英中乐团、亚非学院支持下长期运营，形成机构化中英音乐交流平台。",
+      "source_ids": [
+        "C008-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "audience_participation",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集评论、互动或二创数据",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "channel_fit",
+      "score": 3,
+      "evidence": "雅集、夏校、音乐节、博物馆演出等多渠道协同。",
+      "source_ids": [
+        "C008-S001",
+        "C008-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "era_theme_relevance",
+      "score": 3,
+      "evidence": "报道把古琴作为人类非遗与中英文化交流核心叙事。",
+      "source_ids": [
+        "C008-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE008",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "2003年成立，22年持续雅集/夏校，超过3年。",
+      "source_ids": [
+        "C008-S001",
+        "C008-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集到受众情感反应原文",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "timbre_identity",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料没有受众对音色的明确表述",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "story_explainability",
+      "score": 2,
+      "evidence": "官方页面说明 USCMI 学院背景、中西混合编制与委约作品，但缺人物动机。",
+      "source_ids": [
+        "C009-S001",
+        "C009-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 3,
+      "evidence": "西方弦乐五重奏+七件中国乐器+打击乐，系统性中西混合编制并有世界首演。",
+      "source_ids": [
+        "C009-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "education_support",
+      "score": 3,
+      "evidence": "隶属巴德学院USCMI，含双学位与学院项目。",
+      "source_ids": [
+        "C009-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "bridge_role",
+      "score": 3,
+      "evidence": "以学院项目与年度音乐会形成机构化中西音乐合作。",
+      "source_ids": [
+        "C009-S001",
+        "C009-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "audience_participation",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集评论、互动或二创数据",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "channel_fit",
+      "score": 2,
+      "evidence": "线下音乐会与学院教育匹配，但媒体/线上渠道未在来源中展开。",
+      "source_ids": [
+        "C009-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "era_theme_relevance",
+      "score": 3,
+      "evidence": "官方以“East/West”与当代中国作品为核心叙事。",
+      "source_ids": [
+        "C009-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE009",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "USCMI年度项目与多届活动，形成系列化机制。",
+      "source_ids": [
+        "C009-S001",
+        "C009-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "emotional_resonance",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集到受众情感反应原文",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "timbre_identity",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料没有受众对音色的明确表述",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "story_explainability",
+      "score": 2,
+      "evidence": "报道明确写出2000年来华、受京剧启发与把中阮/琵琶融入创作，但缺完整生平。",
+      "source_ids": [
+        "C010-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "cross_cultural_adaptation",
+      "score": 3,
+      "evidence": "自制电子中阮/电子琵琶，把中国传统乐器放入摇滚、实验、爵士、电子。",
+      "source_ids": [
+        "C010-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "education_support",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "材料未给出稳定教学/课程记录",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "bridge_role",
+      "score": 2,
+      "evidence": "人民网德语视界报道称其为最早用中阮作曲/演奏流行音乐的外国人之一。",
+      "source_ids": [
+        "C010-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "audience_participation",
+      "score": null,
+      "evidence": "未知原因",
+      "source_ids": [],
+      "missing_reason": "未采集评论、互动或二创数据",
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "channel_fit",
+      "score": 2,
+      "evidence": "现场演出与媒体报道匹配其乐队/创作呈现。",
+      "source_ids": [
+        "C010-S001",
+        "C010-S002"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "era_theme_relevance",
+      "score": 2,
+      "evidence": "报道明确以传统乐器当代化/数字电声为主题。",
+      "source_ids": [
+        "C010-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    },
+    {
+      "case_id": "CASE010",
+      "indicator_id": "sustainability",
+      "score": 3,
+      "evidence": "2000年来华，2013年组建乐队，2019年仍有报道，持续超过3年。",
+      "source_ids": [
+        "C010-S001"
+      ],
+      "missing_reason": null,
+      "coder": "研究助手（初编）",
+      "coded_at": "2026-10-30"
+    }
+  ],
+  "generated_at": "2026-10-30T15:30:00+08:00",
+  "score_count": 100
+}

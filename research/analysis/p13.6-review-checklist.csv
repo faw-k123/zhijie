@@ -1,0 +1,21 @@
+﻿check_id,area,check,evidence,result,severity
+C01,数据总量,40案例/62来源/400指标/94有效/306null,40/62/400/94/306,PASS,none
+C02,指标契约,10项完整契约ID,emotional_resonance...sustainability,PASS,none
+C03,指标映射,无未映射指标,0未映射,PASS,none
+C04,重复ID,无重复case/score,0重复,PASS,none
+C05,每案10项,40×10=400,全部10项,PASS,none
+C06,新增评分,15有效/5null,15/5,PASS,none
+C07,新增审批,20条均为approved,20/20,PASS,none
+C08,零分,无未批准0分,0,PASS,none
+C09,来源关联,source_id无断链,0断链,PASS,none
+C10,同源关系,Xinhua多语种同组,2组,PASS,none
+C11,新案例分类,cross/extended/false,CASE039/040通过,PASS,none
+C12,40案例分类,严格样本标记与审批一致,CASE007不一致,CONDITIONAL,high
+C13,v1.5哈希,全部匹配,4/4,PASS,none
+C14,v1.6哈希,全部匹配,4/4,PASS,none
+C15,active_version,仍为v1.5,v1.5,PASS,none
+C16,隔离API,40案例/详情正常,40; CASE039/040正常,PASS,none
+C17,前端契约,10 ID/审批字段兼容,type-check/build已通过,PASS,none
+C18,回滚,v1.5可恢复,快照/哈希可用,PASS,none
+C19,激活,未激活v1.6,未激活,PASS,none
+C20,活动状态,activity_status字段,40/40缺失,WARNING,medium

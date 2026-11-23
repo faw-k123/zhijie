@@ -1,0 +1,26 @@
+﻿music_id,music_name,search_completed,result_status,evidence_grade,candidate_url,evidence_summary,historical_pages_opened,current_recheck,review_status
+1,【二胡】三寸天堂,YES,ambiguous_match,C,https://www.erhuschool.tw/5611/,台湾胡琴学院页面，非海外活动；未打开正文,NO,N/A,needs_human
+2,【二胡】琴师,YES,no_relevant_result_after_search,,,未找到海外活动,NO,N/A,no_result
+3,一生所爱（Cover 卢冠廷）,YES,performance_confirmed,A,http://krirkcn.com/home/single?id=74730868531278,泰国格乐大学2022元宵晚会，安贝二胡独奏,YES,NOT_ACCESSIBLE_OR_NOT_RECHECKED,sealed_evidence_pending_human
+4,二泉映月,YES,no_relevant_result_after_search,,,未找到海外活动,NO,N/A,no_result
+5,倩女幽魂 (二胡版),YES,ambiguous_match,C,,微信视频页，非明确海外活动,NO,N/A,needs_human
+6,战马奔腾(二胡),YES,no_relevant_result_after_search,,,未找到海外活动,NO,N/A,no_result
+7,梁祝,YES,no_relevant_result_after_search,,,未找到海外活动,NO,N/A,no_result
+8,江南 (二胡版),YES,ambiguous_match,C,https://m.thepaper.cn/newsDetail_forward_33609468,加拿大江南音韵报道，未确认具体曲目,NO,N/A,needs_human
+9,牵丝戏（二胡&京胡版）,NO,not_searched,,,本轮未检索,NO,N/A,not_searched
+10,神经病之歌 (二胡),NO,not_searched,,,本轮未检索,NO,N/A,not_searched
+11,花田错（二胡版）,NO,not_searched,,,本轮未检索,NO,N/A,not_searched
+12,葬花吟（二胡版）,NO,not_searched,,,本轮未检索,NO,N/A,not_searched
+13,赛马(二胡独奏),YES,performance_confirmed,B,https://www.daifutv.com/c/index.php?option=com_content&view=article&id=8650:2026&catid=77:japan-news&Itemid=234,2026-11-01东京公演，张滨演奏《赛马》,YES,NOT_ACCESSIBLE_OR_NOT_RECHECKED,sealed_evidence_pending_human
+14,迴梦游仙 二胡独奏版,YES,no_relevant_result_after_search,,,仅国内音乐会/百科页，无海外活动,NO,N/A,no_result
+15,《穿越时空的思念》纯古琴版,YES,no_relevant_result_after_search,,,无海外活动,NO,N/A,no_result
+16,《飞雪玉花》纯古琴版,YES,no_relevant_result_after_search,,,无海外活动,NO,N/A,no_result
+17,【古筝】万蝶振翅,YES,ambiguous_match,C,https://www.bilibili.com/video/BV1x1t1z4EAb/,B站西班牙/英国街头古筝视频，未核验主体,NO,N/A,needs_human
+18,不染 古琴版,YES,no_relevant_result_after_search,,,迪拜古琴雅集未点名《不染》,NO,N/A,no_result
+19,关山月,YES,ambiguous_match,C,https://www.xiaohongshu.com/discovery/item/67fef6a8000000001e007e0b,小红书北美琴社伯克利帖，未打开正文,NO,N/A,needs_human
+20,初见 (古琴版）（翻自 余昭源）,YES,no_relevant_result_after_search,,,无海外活动,NO,N/A,no_result
+21,半山听雨,YES,no_relevant_result_after_search,,,无海外活动,NO,N/A,no_result
+22,卧龙吟（古琴版）,YES,ambiguous_match,C,https://www.bilibili.com/video/BV1A24y1u7w3/,B站伦敦幽兰琴社雅集视频，未打开正文,NO,N/A,needs_human
+23,平沙落雁,YES,no_relevant_result_after_search,,,无新增海外证据；CASE008已有program_listed不重复计,NO,N/A,no_result
+24,广陵散 (古琴独奏),YES,performance_confirmed,B,https://lapost.us/?p=84999,2026-10-30南加州大学课堂，马玢完整演奏《广陵散》,YES,NOT_ACCESSIBLE_OR_NOT_RECHECKED,sealed_evidence_pending_human
+25,梅花三弄,YES,no_relevant_result_after_search,,,无新增海外证据；CASE008已有program_listed不重复计,NO,N/A,no_result

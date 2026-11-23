@@ -1,0 +1,12 @@
+{
+  "phase": "P17-E batch 3",
+  "status": "PLANNED_NOT_EXECUTED",
+  "songs_total": 302,
+  "completed_external": 0,
+  "not_searched": 302,
+  "new_evidence": 0,
+  "new_candidate_links": 0,
+  "active_version": "v1.6",
+  "formal_data_modified": "NO",
+  "note": "未执行外部检索，禁止将 not_searched 记为无结果"
+}

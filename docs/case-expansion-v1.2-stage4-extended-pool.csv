@@ -1,0 +1,27 @@
+﻿candidate_id,candidate,subject_type,country,instrument,activity_type,performance_status,source_ids,confirmed_facts,unconfirmed_facts,evidence_level,extended_admission,extended_category,strict_individual
+CAND001,Duke Chinese Music Ensemble,education,美国,古筝/二胡等（待逐项核）,education,partial,CAND001-S001,机构合奏团存在，有课程/演出入口,成员国籍、具体演出、受众反馈未核,高,approved_extended,overseas_institution_education,no
+CAND002,UCLA Chinese Music,education,美国,古筝/二胡等（待逐项核）,education,partial,CAND002-S001,UCLA 中国音乐组织与活动入口,成员身份、演出日期、曲目未核,高,approved_extended,overseas_institution_education,no
+CAND003,Qingyun Chinese Music Ensemble,education,美国,中国乐器合奏（待核）,education,unverified,CAND003-S001,2026 年度音乐会活动页,演奏者名单、国籍、曲目未核,高,approved_extended,overseas_institution_education,no
+CAND004,Indiana University East-West collaboration,education,美国,中西合奏（待核）,education,partial,CAND004-S001,学生主导的 East-West 合作报道,具体中国乐器、演奏者身份、演出时间未核,高,approved_extended,overseas_institution_education,no
+CAND005,University of Illinois Chinese music event,education,美国,中国乐器（待核）,education,unverified,CAND005-S001,校园中国音乐活动页,活动规模、演奏者、曲目未核,中,approved_extended,overseas_institution_education,no
+CAND006,University of Pittsburgh Chinese Music Ensemble,education,美国,中国乐器合奏（待核）,education,unverified,CAND006-S001,Chinese Music Ensemble 招新信息,成员身份、公开演出、受众反馈未核,高,approved_extended,overseas_institution_education,no
+CAND007,Ohio State Chinese Folk Music Orchestra,education,美国,中国民族乐器（待核）,education,unverified,CAND007-S001,学生组织登记页,组织活动记录、成员、演出未核,中,approved_extended,overseas_institution_education,no
+CAND008,Williams Chinese Music Ensemble,education,美国,中国乐器合奏（待核）,education,unverified,CAND008-S001,2016 音乐会节目单,PDF 内容、演奏者国籍、受众未核,中,approved_extended,overseas_institution_education,no
+CAND009,Chinese Music Ensemble of New York,ensemble_performance,美国,中国民族乐器（待核）,ensemble_performance,unverified,CAND009-S001,乐团介绍与演出入口,成员国籍、具体演出、曲目未核,高,approved_extended,overseas_ensemble_performance,no
+CAND010,Ba Ban Chinese Music Society,ensemble_performance,美国,中国民族乐器（待核）,ensemble_performance,scheduled,CAND010-S001,2026-02-07 图书馆演出活动,演奏者、曲目、受众反馈未核,高,approved_extended,community_music_activity,no
+CAND011,Melody of China,education,美国,中国民族乐器（待核）,education,partial,CAND011-S001,教育演出名册，含乐团介绍,成员身份、具体场次、受众反馈未核,高,approved_extended,overseas_institution_education,no
+CAND012,Toronto Chinese Orchestra,education,加拿大,中国民族乐器（待核）,education,partial,CAND012-S001,乐团介绍与活动入口,成员、演出记录、曲目未核,高,approved_extended,overseas_institution_education,no
+CAND013,Vancouver Chinese Music Ensemble,education,加拿大,中国民族乐器（待核）,education,partial,CAND013-S001,乐团介绍与年度音乐会入口,成员身份、具体演出、受众反馈未核,高,approved_extended,overseas_ensemble_performance,no
+CAND014,Harmony Guzheng Ensemble,ensemble_performance,加拿大,古筝,ensemble_performance,scheduled,CAND014-S001,古筝合奏音乐会票务页,成员国籍、曲目、上座率、评论未核,高,approved_extended,overseas_ensemble_performance,no
+CAND015,Seattle Chinese Orchestra,ensemble_performance,美国,中国民族乐器（待核）,ensemble_performance,scheduled,CAND015-S001,媒体报道 4月20日音乐会,演奏者身份、曲目、受众反馈未核,高,approved_extended,overseas_ensemble_performance,no
+CAND016,Chung Wah Chinese Orchestra,education,澳大利亚,中国民族乐器（待核）,education,partial,CAND016-S001,乐团活动页,成员、演出、曲目未核,高,approved_extended,community_music_activity,no
+CAND017,Chao Feng Chinese Orchestra,ensemble_performance,澳大利亚,中国民族乐器（待核）,ensemble_performance,scheduled,CAND017-S001,2022 年 7 月免费音乐会新闻稿,PDF 未逐页核，演奏者/曲目未核,中,approved_extended,overseas_ensemble_performance,no
+CAND018,Australian Chinese Music Ensemble,ensemble_performance,澳大利亚,中国民族乐器（待核）,ensemble_performance,partial,CAND018-S001,乐团艺术家页,演出记录、成员身份未核,中,approved_extended,overseas_ensemble_performance,no
+CAND019,NZ Chinese Hundred Flowers Art Troupe,community_activity,新西兰,中国民族乐器（待核）,community_activity,unverified,CAND019-S001,2022 年总领事看望艺术团报道,成员、演出、乐器、受众反馈未核,高,approved_extended,community_music_activity,no
+CAND020,UK Chinese Music,education,英国,古琴/古筝/琵琶等（待核）,education,partial,CAND020-S001,英国中国音乐机构与音乐节入口,具体演出、演奏者、受众反馈未核,高,approved_extended,overseas_institution_education,no
+CAND022,Grand Chinese New Year Concert Berlin,ensemble_performance,德国,中国民族乐器（待核）,ensemble_performance,scheduled,CAND022-S001,柏林中国新年音乐会活动页,演出团体、演奏者、曲目、受众未核,中,approved_extended,overseas_ensemble_performance,no
+CAND026,Belle / Erin Lam,individual_performance,英国,古筝,individual_performance,performed_confirmed,CAND026-S001;CAND026-S002;CAND026-S003,香港成长、英国古筝演奏者，2025 Primal Live 获奖,香港成长，是否属于项目“外国个人”口径未定；需身份依据,中,approved_extended,cross_cultural_collaboration,no
+CAND028,Nicholas Ng,individual_performance,澳大利亚,二胡/中国音乐,individual_performance,partial,CAND028-S001;CAND028-S002,悉尼中国音乐演奏/研究者访谈,身份与族裔口径未定；需确认外国个人身份与具体演出,中,approved_extended,cross_cultural_collaboration,no
+CAND031,Wu Fei & Abigail Washburn,cross_cultural_collaboration,美国,古筝 + 班卓琴,cross_cultural_collaboration,performed_confirmed,CAND031-S001,古筝与班卓琴合作访谈,Abigail 不演奏中国乐器，不能作为严格外国个人；可作扩展合作线索,中,approved_extended,cross_cultural_collaboration,no
+CAND033,Mona Li,individual_performance,德国,古筝,individual_performance,program_listed,CAND033-S001;CAND033-S002;CAND033-S003;CAND033-S004,德国乐团音乐会 PDF 中的古筝演奏者,身份/国籍或项目身份标准未确认；不能因姓名或族裔排除。 节目单已证明古筝演奏。,中,approved_extended,cross_cultural_collaboration,no
+CAND036,东京古筝乐团（Tokyo Guzheng Orchestra）,ensemble_performance,日本,古筝,ensemble_performance,performed_confirmed,CAND036-S001;CAND036-S002;CAND036-S003,2018 年东京古筝乐团第二场演奏会报道,乐团成员国籍与具体演奏者未核；可能以在日华人为主,中,approved_extended,overseas_institution_education,no

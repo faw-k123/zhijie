@@ -1,0 +1,11 @@
+﻿step,action,result,note
+1,backup_v1.5_snapshot,pre_v1.6_activation_20261103_094343,"9 files, 9/9 hash"
+2,copy_v1.6-draft_to_v1.6,PASS,v1.6-draft preserved
+3,data_version,v1.6,all 5 data files
+4,CASE007_remediation,pending_review/strict=false,case_type/scores/sources preserved
+5,v1.6_manifest,reviewed,40/62/400/94/306
+6,main_manifest_registration,PASS,active_version=v1.5
+7,hash_recompute,PASS,v1.6 files hashed
+8,main_manifest_file_list_fix,PASS,主manifest只列4个研究数据文件；sources.json由v1.6 manifest单独登记
+9,v1.6_validation,OK v1.6 40/400 warnings=0,临时active校验后恢复v1.5
+10,active_restore,v1.5,未激活v1.6

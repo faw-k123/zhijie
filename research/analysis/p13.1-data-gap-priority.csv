@@ -1,0 +1,9 @@
+﻿gap_area,current,target,priority,reason,action
+东南亚案例覆盖,0,至少1–2个真实案例,high,六区域中唯一 0 案例区域,优先检索新加坡/马来西亚/泰国
+案例总数,38,40,medium,距离阶段目标差2例,以质量为先，不凑数
+严格个人批准样本,2,6,high,strict_individual 标记3，其中CASE007仍needs_more_evidence,先修状态或补证据
+国家覆盖,10,8,low,已达到8+国家,维持并补区域缺口
+乐器具体覆盖,7,6,medium,具体乐器覆盖需逐项核对,补笙/唢呐/扬琴/阮等
+有效指标值,79,380,high,79/380=20.8%,按证据补，不填0
+音乐—案例映射,5,302,high,仅5条，CASE008 program_listed,先建立可核验曲目关系
+活动完成状态字段,0,38,high,v1.5 activity_status 全部缺失,在v1.6补状态字段

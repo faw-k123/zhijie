@@ -1,0 +1,26 @@
+﻿music_id,music_name,search_terms,result_status,candidate_urls,review_status,search_terms_1,search_terms_2,search_date,search_engine_or_source,search_completed,search_groups,pages_opened,evidence_summary,evidence_level
+1,【二胡】三寸天堂,"""【二胡】三寸天堂"" concert OR performance OR festival OR university OR workshop",ambiguous_match,http://www.erhuschool.tw/5611/,pending_human_review,"""【二胡】三寸天堂"" 海外 演出 二胡","""【二胡】三寸天堂"" university workshop erhu",2026-11-04,web_search,YES,2,NO,台湾孙文轩胡琴学院页面出现三寸天堂，非海外活动页面,C
+2,【二胡】琴师,"""【二胡】琴师"" concert OR performance OR festival OR university OR workshop",no_relevant_result_after_search,,no_result,"""【二胡】琴师"" 海外 演出 二胡","""【二胡】琴师"" university workshop erhu",2026-11-04,web_search,YES,2,NO,搜索结果主要是微博/视频页，未找到海外活动,
+3,一生所爱（Cover 卢冠廷）,"""一生所爱（Cover 卢冠廷）"" concert OR performance OR festival OR university OR workshop",performance_confirmed,http://krirkcn.com/home/single?id=74730868531278,pending_human_review,"""一生所爱（Cover 卢冠廷）"" 海外 演出 二胡","""一生所爱（Cover 卢冠廷）"" university workshop erhu",2026-11-04,web_search,YES,2,YES,泰国格乐大学2022元宵晚会，学生安贝二胡独奏《一生所爱》,A
+4,二泉映月,"""二泉映月"" concert OR performance OR festival OR university OR workshop",no_relevant_result_after_search,,no_result,"""二泉映月"" 海外 演出 二胡","""二泉映月"" university workshop erhu",2026-11-04,web_search,YES,2,NO,未找到海外活动；检索结果多为国内曲目介绍,
+5,倩女幽魂 (二胡版),"""倩女幽魂 (二胡版)"" concert OR performance OR festival OR university OR workshop",ambiguous_match,,pending_human_review,"""倩女幽魂 (二胡版)"" 海外 演出 二胡","""倩女幽魂 (二胡版)"" university workshop erhu",2026-11-04,web_search,YES,2,NO,搜索结果有微信公众号演奏视频，非明确海外活动,C
+6,战马奔腾(二胡),"""战马奔腾(二胡)"" concert OR performance OR festival OR university OR workshop",no_relevant_result_after_search,,no_result,"""战马奔腾(二胡)"" 海外 演出 二胡","""战马奔腾(二胡)"" university workshop erhu",2026-11-04,web_search,YES,2,NO,未找到与《战马奔腾》直接相关的海外活动,
+7,梁祝,"""梁祝"" concert OR performance OR festival OR university OR workshop",no_relevant_result_after_search,,no_result,"""梁祝"" 海外 演出 二胡","""梁祝"" university workshop erhu",2026-11-04,web_search,YES,2,NO,未找到与《梁祝》直接相关的海外二胡活动,
+8,江南 (二胡版),"""江南 (二胡版)"" concert OR performance OR festival OR university OR workshop",ambiguous_match,https://m.thepaper.cn/newsDetail_forward_33609468,pending_human_review,"""江南 (二胡版)"" 海外 演出 二胡","""江南 (二胡版)"" university workshop erhu",2026-11-04,web_search,YES,2,NO,加拿大江南音韵报道，未确认具体曲目《江南》,C
+9,牵丝戏（二胡&京胡版）,"""牵丝戏（二胡&京胡版）"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+10,神经病之歌 (二胡),"""神经病之歌 (二胡)"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+11,花田错（二胡版）,"""花田错（二胡版）"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+12,葬花吟（二胡版）,"""葬花吟（二胡版）"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+13,赛马(二胡独奏),"""赛马(二胡独奏)"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+14,迴梦游仙 二胡独奏版,"""迴梦游仙 二胡独奏版"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+15,《穿越时空的思念》纯古琴版,"""《穿越时空的思念》纯古琴版"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+16,《飞雪玉花》纯古琴版,"""《飞雪玉花》纯古琴版"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+17,【古筝】万蝶振翅,"""【古筝】万蝶振翅"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+18,不染 古琴版,"""不染 古琴版"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+19,关山月,"""关山月"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+20,初见 (古琴版）（翻自 余昭源）,"""初见 (古琴版）（翻自 余昭源）"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+21,半山听雨,"""半山听雨"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+22,卧龙吟（古琴版）,"""卧龙吟（古琴版）"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+23,平沙落雁,"""平沙落雁"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+24,广陵散 (古琴独奏),"""广陵散 (古琴独奏)"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,
+25,梅花三弄,"""梅花三弄"" concert OR performance OR festival OR university OR workshop",not_searched,,not_searched,,,,,NO,0,NO,,

@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "active_version": "v1.5",
+  "target_case_count": 40,
+  "updated_at": "2026-11-01",
+  "versions": [
+    {
+      "version": "v1.0",
+      "path": "v1.0",
+      "status": "reviewed",
+      "created_at": "2026-10-30T10:30:00+08:00",
+      "reviewed_by": "项目负责人",
+      "reviewed_at": "2026-10-30",
+      "files": {
+        "cases.json": {
+          "sha256": "07f8f38ac330122f494b9bdff37b13d64cb690d2ce58f9379078fbce1cf07940",
+          "bytes": 13315
+        },
+        "success_factors.json": {
+          "sha256": "32196e0bfa661b2f5ce43e0d753b9e31cefc3bfc40868014bbc39fb07268b675",
+          "bytes": 17968
+        },
+        "music_scores.json": {
+          "sha256": "345e101dd07995b0734e69f591aba3a5275ac01887f10861983614bbcc2a28d6",
+          "bytes": 972
+        },
+        "regional_strategies.json": {
+          "sha256": "20a6bbc84ec65df54bc7dcc43fc1f84dd870347bc2b0765227b0da6882710245",
+          "bytes": 923
+        }
+      }
+    },
+    {
+      "version": "v1.1",
+      "path": "v1.1",
+      "status": "reviewed",
+      "created_at": "2026-10-30T15:30:00+08:00",
+      "reviewed_by": "项目负责人",
+      "reviewed_at": "2026-10-30",
+      "files": {
+        "cases.json": {
+          "sha256": "0d1359104629016c3cf3b39d898d45649f4efe738fa9be732937aedfd32860b2",
+          "bytes": 49747
+        },
+        "success_factors.json": {
+          "sha256": "99393c0f6e6e7f9b8c8f23ce552339dd578f219044c9eedf268b7f722b8b60d7",
+          "bytes": 43300
+        },
+        "music_scores.json": {
+          "sha256": "2e2cdfc91265e014cc2e48f012e521d5517c3340b22e7f4f4347ad75e169fa79",
+          "bytes": 970
+        },
+        "regional_strategies.json": {
+          "sha256": "fec161ae67a6d18f7d1ec517db203fab002217908f7db92e8c7c541f04243b03",
+          "bytes": 925
+        }
+      }
+    },
+    {
+      "version": "v1.2",
+      "path": "v1.2",
+      "status": "reviewed",
+      "created_at": "2026-11-01T16:00:00+08:00",
+      "reviewed_by": "项目负责人",
+      "reviewed_at": "2026-11-01",
+      "files": {
+        "cases.json": {
+          "sha256": "73a69e20fb9f6bbf2a4ee58034a6bf98e3e0f84a1f4552bb69f2ba624ed7e935",
+          "bytes": 132982
+        },
+        "success_factors.json": {
+          "sha256": "0adc5bd67dc1cca538ba3618f445de5550163846a568622c3f69e7ea015ea50a",
+          "bytes": 132558
+        },
+        "music_scores.json": {
+          "sha256": "4f33f9a53e6ac28880c3232139f061dc8772d34da31c7b6d3278a6cc9bc0a27e",
+          "bytes": 970
+        },
+        "regional_strategies.json": {
+          "sha256": "70d92e3970706d61f2df4f5d6d9cd20356d7e1a001944184d9a47e87f9c9737f",
+          "bytes": 925
+        }
+      }
+    },
+    {
+      "version": "v1.3",
+      "path": "v1.3",
+      "status": "draft",
+      "created_at": "2026-11-01",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "files": {
+        "cases.json": {
+          "sha256": "06bcae8502987b5fcf9910288b2448a2d1958b298671bc5cc82d6a31a7383f57",
+          "bytes": 132982
+        },
+        "success_factors.json": {
+          "sha256": "6d655fa1748e6704fd4ad1955d3e658b889c64bf53306490316799beacd85e81",
+          "bytes": 133293
+        },
+        "music_scores.json": {
+          "sha256": "15c68c66b2e1f6e9897c3ead20f9987b5588dc4b969daf9d837d219fd07c1e41",
+          "bytes": 970
+        },
+        "regional_strategies.json": {
+          "sha256": "1440cacb2d1f2bed246508d6de347e941c12127e719ce7ea53171083c3a56bb7",
+          "bytes": 925
+        }
+      },
+      "note": "P8 审查候选版本；只纳入 approved 评分，未激活。"
+    },
+    {
+      "version": "v1.5",
+      "path": "v1.5",
+      "status": "reviewed",
+      "created_at": "2026-11-01",
+      "reviewed_by": "yxh",
+      "reviewed_at": "2026-11-01",
+      "files": {
+        "cases.json": {
+          "sha256": "c1e5aa64cc7c40e1ad81cf9bff5d8b356ac91e43873027ab998d181cac03a04e",
+          "bytes": 140162
+        },
+        "success_factors.json": {
+          "sha256": "b6a28fc1a9d094f4c59d8ffc61f12a6296ff86747ad0441a233f75a5f3cdac6c",
+          "bytes": 145877
+        },
+        "music_scores.json": {
+          "sha256": "48809d6fe35db27bee2c596768bf11889ba8d4f9cb738ba4d59faf4d6c0d5ef0",
+          "bytes": 970
+        },
+        "regional_strategies.json": {
+          "sha256": "5cc0851c8cddeeb3e97cf7f4edd78f918903e2760185f8acefcb2c39ae3dfb94",
+          "bytes": 925
+        }
+      },
+      "note": "P12.4.7正式登记候选；active仍为v1.2。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿song_id,song_name,first_stage_status,fifth_stage_status,final_audited_status,actual_search_sessions,searched,pages_opened,evidence_records,manual_review,conflict_note
+1,【二胡】三寸天堂,ambiguous_match,not_available,ambiguous_match,2,YES,0,0,YES,无冲突
+2,【二胡】琴师,no_relevant_result_after_search,not_available,no_relevant_result_after_search,2,YES,0,0,NO,无冲突
+3,一生所爱（Cover 卢冠廷）,performance_confirmed,not_available,performance_confirmed,2,YES,1,1,NO,无冲突
+4,二泉映月,no_relevant_result_after_search,not_available,no_relevant_result_after_search,2,YES,0,0,NO,无冲突
+5,倩女幽魂 (二胡版),ambiguous_match,not_available,ambiguous_match,2,YES,0,0,YES,无冲突
+6,战马奔腾(二胡),no_relevant_result_after_search,not_available,no_relevant_result_after_search,2,YES,0,0,NO,无冲突
+7,梁祝,no_relevant_result_after_search,not_available,no_relevant_result_after_search,2,YES,0,0,NO,无冲突
+8,江南 (二胡版),ambiguous_match,not_available,ambiguous_match,2,YES,0,0,YES,无冲突
+9,牵丝戏（二胡&京胡版）,not_searched,ambiguous_match,not_searched,0,NO,0,0,YES,报告写25/25；逐曲无实际检索，保持not_searched
+10,神经病之歌 (二胡),not_searched,no_relevant_result_after_search,not_searched,0,NO,0,0,YES,报告写25/25；逐曲无实际检索，保持not_searched
+11,花田错（二胡版）,not_searched,ambiguous_match,not_searched,0,NO,0,0,YES,报告写25/25；逐曲无实际检索，保持not_searched
+12,葬花吟（二胡版）,not_searched,no_relevant_result_after_search,not_searched,0,NO,0,0,YES,报告写25/25；逐曲无实际检索，保持not_searched
+13,赛马(二胡独奏),not_searched,performance_confirmed,performance_confirmed,2,YES,1,1,NO,第五批覆盖表写17/17；逐曲表只列到17，13此处实际有检索
+14,迴梦游仙 二胡独奏版,not_searched,ambiguous_match,no_relevant_result_after_search,2,YES,0,0,NO,第五批覆盖表写17/17；逐曲表有状态，但未进入最终合并
+15,《穿越时空的思念》纯古琴版,not_searched,no_relevant_result_after_search,no_relevant_result_after_search,2,YES,0,0,NO,第五批覆盖表写17/17；逐曲表有状态，但未进入最终合并
+16,《飞雪玉花》纯古琴版,not_searched,performance_confirmed,no_relevant_result_after_search,2,YES,0,0,NO,第五批覆盖表写17/17；逐曲表有状态，但未进入最终合并
+17,【古筝】万蝶振翅,not_searched,no_relevant_result_after_search,ambiguous_match,2,YES,0,0,YES,第五批覆盖表写17/17；逐曲表有状态，但未进入最终合并
+18,不染 古琴版,not_searched,not_searched,no_relevant_result_after_search,2,YES,0,0,NO,batch5文件未更新；实际在后续批次检索，审计补入
+19,关山月,not_searched,not_searched,ambiguous_match,2,YES,0,0,YES,batch5文件未更新；实际在后续批次检索，审计补入
+20,初见 (古琴版）（翻自 余昭源）,not_searched,not_searched,no_relevant_result_after_search,2,YES,0,0,NO,batch5文件未更新；实际在后续批次检索，审计补入
+21,半山听雨,not_searched,not_searched,no_relevant_result_after_search,2,YES,0,0,NO,batch5文件未更新；实际在后续批次检索，审计补入
+22,卧龙吟（古琴版）,not_searched,not_searched,ambiguous_match,2,YES,0,0,YES,batch5文件未更新；实际在后续批次检索，审计补入
+23,平沙落雁,not_searched,not_searched,no_relevant_result_after_search,2,YES,0,0,NO,batch5文件未更新；实际在后续批次检索，审计补入
+24,广陵散 (古琴独奏),not_searched,not_searched,performance_confirmed,2,YES,1,1,NO,原证据表把广陵散写成music_id16；审计修正为24
+25,梅花三弄,not_searched,not_searched,no_relevant_result_after_search,2,YES,0,0,NO,batch5文件未更新；实际在后续批次检索，审计补入

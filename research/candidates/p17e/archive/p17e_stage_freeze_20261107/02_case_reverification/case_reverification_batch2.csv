@@ -1,0 +1,41 @@
+﻿case_id,source_id,batch2_access,batch2_content,batch2_conclusion,retry_result,review_note
+CASE001,C001-S001,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE002,C002-S001,inaccessible,content_not_reviewed,source_unavailable,failed,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE003,C003-S001,inaccessible,content_not_reviewed,source_unavailable,failed,HTTP Error 502: Bad Gateway
+CASE004,C004-S001,inaccessible,content_not_reviewed,source_unavailable,failed,HTTP Error 502: Bad Gateway
+CASE005,C005-S001,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE006,C006-S001,inaccessible,content_not_reviewed,source_unavailable,failed,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE007,C007-S001,accessible,content_not_reviewed,needs_more_evidence,recovered,重试恢复访问；内容未核验
+CASE008,C008-S001,accessible,content_verified,verified_event_content,not_needed,人工打开原文；2首确认演出，3首未点名
+CASE009,C009-S001,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE010,C010-S001,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE011,CAND001-S001,accessible,content_not_reviewed,needs_more_evidence,recovered,重试恢复访问；内容未核验
+CASE012,CAND002-S001,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE013,CAND003-S001,inaccessible,content_not_reviewed,source_unavailable,failed,HTTP Error 403: Forbidden
+CASE014,CAND004-S001,accessible,content_not_relevant,needs_more_evidence,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE015,CAND005-S001,inaccessible,content_not_reviewed,source_unavailable,failed,HTTP Error 404: Not Found
+CASE016,CAND006-S001,accessible,content_not_reviewed,needs_more_evidence,recovered,重试恢复访问；内容未核验
+CASE017,CAND007-S001,accessible,content_not_relevant,needs_more_evidence,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE018,CAND008-S001,inaccessible,content_not_reviewed,source_unavailable,failed,HTTP Error 403: Forbidden
+CASE019,CAND009-S001,inaccessible,content_not_reviewed,source_unavailable,failed,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE020,CAND010-S001,accessible,content_not_reviewed,needs_more_evidence,recovered,重试恢复访问；内容未核验
+CASE021,CAND011-S001,inaccessible,content_not_reviewed,source_unavailable,failed,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE022,CAND012-S001,inaccessible,content_not_reviewed,source_unavailable,failed,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE023,CAND013-S001,accessible,content_not_reviewed,needs_more_evidence,recovered,重试恢复访问；内容未核验
+CASE024,CAND014-S001,inaccessible,content_not_reviewed,source_unavailable,failed,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE025,CAND015-S001,challenge_or_pending,content_not_reviewed,needs_more_evidence,challenge_202,202挑战/排队页，未获取正文
+CASE026,CAND016-S001,accessible,content_unreadable,needs_more_evidence,not_needed,抓取失败：HTTP Error 520: <none>
+CASE027,CAND017-S001,accessible,content_not_reviewed,needs_more_evidence,recovered,重试恢复访问；内容未核验
+CASE028,CAND018-S001,accessible,content_unreadable,needs_more_evidence,not_needed,抓取失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE029,CAND019-S001,inaccessible,content_not_reviewed,source_unavailable,failed,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE030,CAND020-S001,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE031,CAND022-S001,accessible,content_unreadable,needs_more_evidence,not_needed,抓取失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE032,CAND026-S001,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE033,CAND028-S001,accessible,content_unreadable,needs_more_evidence,not_needed,抓取失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE034,CAND031-S001,accessible,content_unreadable,needs_more_evidence,not_needed,抓取失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE035,CAND033-S001,accessible,content_not_relevant,needs_more_evidence,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE036,CAND036-S001,accessible,content_not_relevant,needs_more_evidence,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE037,P12-S002,accessible,content_unreadable,needs_more_evidence,not_needed,抓取失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE038,P12-S003,accessible,content_partially_verified,partially_verified,not_needed,自动正文抓取+关键词匹配，不是人工全文核验
+CASE039,P13-S001,accessible,content_unreadable,needs_more_evidence,not_needed,抓取失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CASE040,P12-S004,accessible,content_not_reviewed,needs_more_evidence,recovered,重试恢复访问；内容未核验

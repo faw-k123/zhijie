@@ -1,0 +1,2 @@
+﻿case_id,field,old_value,new_value,field_2,old_value_2,new_value_2,case_type_preserved,owner_approval_status,reason,executed_by,executed_at
+CASE007,analysis_sample,strict_individual,pending_review,strict_sample_eligible,true,false,foreign_individual_cross_cultural,needs_more_evidence,needs_more_evidence，不能作为正式strict_individual样本；保留原始证据/评分/来源,研究数据建设,2026-11-03

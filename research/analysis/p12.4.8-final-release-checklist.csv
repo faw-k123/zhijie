@@ -1,0 +1,20 @@
+﻿check_id,category,check,actual,status,blocking,evidence
+01,正式完整性,38个案例,38,PASS,NO,
+02,正式完整性,58条来源关系,58,PASS,NO,
+03,正式完整性,380条指标记录,380,PASS,NO,38×10
+04,正式完整性,79条有效评分,79,PASS,NO,
+05,正式完整性,301条null,301,PASS,NO,
+06,正式完整性,CASE037/CASE038唯一,唯一,PASS,NO,
+07,正式完整性,四个数据文件 data_version=v1.5,v1.5,PASS,NO,
+08,审批状态,6条 approved；2条 approved_revoked；12条 not_applicable,6/2/12,PASS,NO,
+09,审批枚举,approval_status/score_status 是正式支持枚举,否，数据契约/API未定义,WARNING,NO,数据层存在，API层不透传
+10,历史保护,原有360条 score 变化=0,0,PASS,NO,
+11,历史保护,原有360条 score_status 变化=0,0,PASS,NO,
+12,历史保护,原有360条 source_ids/evidence 变化=0,0,PASS,NO,
+13,版本隔离,v1.2/v1.3/v1.4/v1.5-draft 哈希匹配,18/18,PASS,NO,
+14,版本隔离,active_version=v1.2,v1.2,PASS,NO,
+15,兼容性,隔离bundle：v1.5 cases=38,38,PASS,NO,
+16,兼容性,隔离bundle：案例列表/详情可用,可用,PASS,NO,
+17,兼容性,案例详情展示 approval_status/score_status,未展示,WARNING,NO,API只返回score等字段
+18,兼容性,音乐潜力/区域方案接口可用,pending状态正常,PASS,NO,
+19,回滚,回滚方案与v1.2恢复路径,已存在,PASS,NO,

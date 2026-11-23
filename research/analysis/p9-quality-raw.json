@@ -1,0 +1,43 @@
+{
+  "comment_total": 192882,
+  "comment_song_null": 0,
+  "comment_song_distinct": 302,
+  "comment_song_matched": 192882,
+  "comment_country_null": 18601,
+  "comment_time_minmax": [
+    "2017-09-09 00:00:00",
+    "2026-09-15 23:37:09"
+  ],
+  "comment_country_distinct": 13,
+  "behave_users": 17,
+  "behave_users_unique": 17,
+  "behave_play": 12,
+  "behave_play_users": 3,
+  "behave_play_songs": 8,
+  "behave_play_user_match": 12,
+  "behave_play_song_match": 12,
+  "behave_play_time_minmax": [
+    "2026-09-20 21:31:53.213000",
+    "2026-10-25 09:47:17.767000"
+  ],
+  "song_like": 9,
+  "song_like_user_match": 8,
+  "song_like_song_match": 3,
+  "favorite_song": 5,
+  "favorite_song_song_match": 1,
+  "favorite_folder": 8,
+  "favorite_folder_user_match": 6,
+  "guofeng": 7,
+  "guofeng_user_match": 6,
+  "cultural": 10,
+  "cultural_user_match": 10,
+  "profile": 1,
+  "profile_tags_nonnull": 1,
+  "emotion_rows": 81388,
+  "emotion_songs": 302,
+  "emotion_song_match": 302,
+  "emotion_dates": [
+    "2017-09-09",
+    "2026-09-15"
+  ]
+}

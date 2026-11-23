@@ -1,0 +1,9 @@
+﻿candidate_id,indicator,source_id,source_fact,supports,limitation,evidence_grade
+P12-C002,story_explainability,P12-S002,南音源于唐宋、保留唐宋诗乐遗存；演出《风打梨》。,partial,未解释《风打梨》具体故事。,A
+P12-C002,cross_cultural_adaptation,P12-S002,南音传统曲目与南音融合多民族舞蹈的创意节目在阿联酋国家包容与共存节登台；提及南音与阿拉伯世界渊源。,yes,未说明改编细节。,A
+P12-C002,channel_fit,P12-S002,活动在阿布扎比国母公园国家包容与共存节开幕式举行。,no,只有活动地点，无渠道适配证据。,A
+P12-C002,era_theme_relevance,P12-S002,活动主题为国家包容与共存、携手同行、中阿文明交流。,yes,活动主题强于作品内容。,A
+P12-C003,story_explainability,P12-S003,节目列出 Kangding、Butterfly Lovers、Libertango、Danzón No. 2 等曲目，并称搭建中墨/中拉声音桥梁。,partial,没有逐曲故事解释。,A
+P12-C003,cross_cultural_adaptation,P12-S003,中国二胡演奏者 Li Cangxiao 与墨西哥钢琴家、Humboldt 四重奏、墨西哥打击乐手合作，二胡/钢琴/弦乐/打击乐交织。,yes,未给改编谱例。,A
+P12-C003,channel_fit,P12-S003,演出在 Bellas Artes 与 UNAM 举行，观众掌声。,no,场地/掌声不等于渠道适配。,A
+P12-C003,era_theme_relevance,P12-S003,活动属于中秋/中墨文化交流框架。,partial,没有作品内容与当代议题的直接关联。,A

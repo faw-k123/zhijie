@@ -1,0 +1,264 @@
+[
+  {
+    "case_id": "CASE011",
+    "candidate_id": "CAND001",
+    "performer": "Duke Chinese Music Ensemble",
+    "country": "美国",
+    "instrument": [
+      "古筝",
+      "二胡"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND001-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND001-S001",
+        "title": "Chinese Music Ensemble",
+        "publisher": "Duke University Department of Music",
+        "source_type": "机构官网",
+        "supports": "机构合奏团存在，有课程/演出入口",
+        "notes": "成员国籍、具体演出、受众反馈未核"
+      }
+    ],
+    "success_evidence": "机构合奏团存在，有课程/演出入口",
+    "research_notes": "成员国籍、具体演出、受众反馈未核"
+  },
+  {
+    "case_id": "CASE012",
+    "candidate_id": "CAND002",
+    "performer": "UCLA Chinese Music",
+    "country": "美国",
+    "instrument": [
+      "古筝",
+      "二胡"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND002-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND002-S001",
+        "title": "UCLA Chinese Music",
+        "publisher": "UCLA Chinese Music",
+        "source_type": "机构官网",
+        "supports": "UCLA 中国音乐组织与活动入口",
+        "notes": "成员身份、演出日期、曲目未核"
+      }
+    ],
+    "success_evidence": "UCLA 中国音乐组织与活动入口",
+    "research_notes": "成员身份、演出日期、曲目未核"
+  },
+  {
+    "case_id": "CASE013",
+    "candidate_id": "CAND003",
+    "performer": "Qingyun Chinese Music Ensemble",
+    "country": "美国",
+    "instrument": [
+      "中国乐器合奏"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND003-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND003-S001",
+        "title": "From Silk to Symphony: Qingyun Chinese Music Ensemble 2026 Annual Concert",
+        "publisher": "University of Michigan LSA",
+        "source_type": "机构官网",
+        "supports": "2026 年度音乐会活动页",
+        "notes": "演奏者名单、国籍、曲目未核"
+      }
+    ],
+    "success_evidence": "2026 年度音乐会活动页",
+    "research_notes": "演奏者名单、国籍、曲目未核"
+  },
+  {
+    "case_id": "CASE014",
+    "candidate_id": "CAND004",
+    "performer": "Indiana University East-West collaboration",
+    "country": "美国",
+    "instrument": [
+      "中西合奏"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND004-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND004-S001",
+        "title": "Global Harmonies: Jacobs student leads East-West collaboration",
+        "publisher": "Indiana University News",
+        "source_type": "机构官网",
+        "supports": "学生主导的 East-West 合作报道",
+        "notes": "具体中国乐器、演奏者身份、演出时间未核"
+      }
+    ],
+    "success_evidence": "学生主导的 East-West 合作报道",
+    "research_notes": "具体中国乐器、演奏者身份、演出时间未核"
+  },
+  {
+    "case_id": "CASE015",
+    "candidate_id": "CAND005",
+    "performer": "University of Illinois Chinese music event",
+    "country": "美国",
+    "instrument": [
+      "中国乐器"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND005-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND005-S001",
+        "title": "Chai Time w/ GLOBE and Jasmine Field Orchestra",
+        "publisher": "University of Illinois Chinese Music",
+        "source_type": "机构官网",
+        "supports": "校园中国音乐活动页",
+        "notes": "活动规模、演奏者、曲目未核"
+      }
+    ],
+    "success_evidence": "校园中国音乐活动页",
+    "research_notes": "活动规模、演奏者、曲目未核"
+  },
+  {
+    "case_id": "CASE016",
+    "candidate_id": "CAND006",
+    "performer": "University of Pittsburgh Chinese Music Ensemble",
+    "country": "美国",
+    "instrument": [
+      "中国乐器合奏"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND006-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND006-S001",
+        "title": "Ensemble Auditions 2024-25",
+        "publisher": "University of Pittsburgh Department of Music",
+        "source_type": "机构官网",
+        "supports": "Chinese Music Ensemble 招新信息",
+        "notes": "成员身份、公开演出、受众反馈未核"
+      }
+    ],
+    "success_evidence": "Chinese Music Ensemble 招新信息",
+    "research_notes": "成员身份、公开演出、受众反馈未核"
+  },
+  {
+    "case_id": "CASE017",
+    "candidate_id": "CAND007",
+    "performer": "Ohio State Chinese Folk Music Orchestra",
+    "country": "美国",
+    "instrument": [
+      "中国民族乐器"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND007-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND007-S001",
+        "title": "Chinese Folk Music Orchestra",
+        "publisher": "Ohio State University Office of Student Life",
+        "source_type": "机构官网",
+        "supports": "学生组织登记页",
+        "notes": "组织活动记录、成员、演出未核"
+      }
+    ],
+    "success_evidence": "学生组织登记页",
+    "research_notes": "组织活动记录、成员、演出未核"
+  },
+  {
+    "case_id": "CASE018",
+    "candidate_id": "CAND008",
+    "performer": "Williams Chinese Music Ensemble",
+    "country": "美国",
+    "instrument": [
+      "中国乐器合奏"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "overseas_institution_education",
+    "source_ids": [
+      "CAND008-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND008-S001",
+        "title": "Chinese Music Ensemble",
+        "publisher": "Williams College",
+        "source_type": "其他",
+        "supports": "2016 音乐会节目单",
+        "notes": "PDF 内容、演奏者国籍、受众未核"
+      }
+    ],
+    "success_evidence": "2016 音乐会节目单",
+    "research_notes": "PDF 内容、演奏者国籍、受众未核"
+  },
+  {
+    "case_id": "CASE019",
+    "candidate_id": "CAND009",
+    "performer": "Chinese Music Ensemble of New York",
+    "country": "美国",
+    "instrument": [
+      "中国民族乐器"
+    ],
+    "case_type": "overseas_institution_ensemble",
+    "extended_category": "overseas_ensemble_performance",
+    "source_ids": [
+      "CAND009-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND009-S001",
+        "title": "About the Orchestra",
+        "publisher": "Chinese Music Ensemble of New York",
+        "source_type": "机构官网",
+        "supports": "乐团介绍与演出入口",
+        "notes": "成员国籍、具体演出、曲目未核"
+      }
+    ],
+    "success_evidence": "乐团介绍与演出入口",
+    "research_notes": "成员国籍、具体演出、曲目未核"
+  },
+  {
+    "case_id": "CASE020",
+    "candidate_id": "CAND010",
+    "performer": "Ba Ban Chinese Music Society",
+    "country": "美国",
+    "instrument": [
+      "中国民族乐器"
+    ],
+    "case_type": "overseas_institution_education",
+    "extended_category": "community_music_activity",
+    "source_ids": [
+      "CAND010-S001"
+    ],
+    "sources": [
+      {
+        "source_id": "CAND010-S001",
+        "title": "Ba Ban Chinese Music Society",
+        "publisher": "Brooklyn Public Library",
+        "source_type": "其他",
+        "supports": "2026-02-07 图书馆演出活动",
+        "notes": "演奏者、曲目、受众反馈未核"
+      }
+    ],
+    "success_evidence": "2026-02-07 图书馆演出活动",
+    "research_notes": "演奏者、曲目、受众反馈未核"
+  }
+]

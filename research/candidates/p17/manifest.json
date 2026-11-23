@@ -1,0 +1,12 @@
+{
+  "candidate_library": "research/candidates/p17",
+  "generated_at": "2026-11-03",
+  "isolation": "separate from research/data/v1.6; not read by production API",
+  "new_case_candidates": 0,
+  "new_song_evidence": 0,
+  "new_strict_candidates": 0,
+  "existing_formal_song_links": 5,
+  "review_queue": 5,
+  "external_search_status": "NOT_EXECUTED",
+  "status": "candidate_audit_only"
+}

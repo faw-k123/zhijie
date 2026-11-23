@@ -1,0 +1,303 @@
+﻿batch,music_id,music_name,search_terms,search_date,search_engine_or_source,search_scope,result_status,candidate_urls,evidence_summary,evidence_level,review_status,review_notes
+batch_01,1,【二胡】三寸天堂,"""【二胡】三寸天堂"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,ambiguous_match,https://www.erhuschool.tw/5611/,台湾胡琴学院页面，非海外活动；未打开正文,C,needs_human,batch_01 audit
+batch_01,2,【二胡】琴师,"""【二胡】琴师"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,no_relevant_result_after_search,,未找到海外活动,,no_result,batch_01 audit
+batch_01,3,一生所爱（Cover 卢冠廷）,"""一生所爱（Cover 卢冠廷）"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,performance_confirmed,http://krirkcn.com/home/single?id=74730868531278,泰国格乐大学2022元宵晚会，安贝二胡独奏,A,sealed_evidence_pending_human,batch_01 audit
+batch_01,4,二泉映月,"""二泉映月"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,no_relevant_result_after_search,,未找到海外活动,,no_result,batch_01 audit
+batch_01,5,倩女幽魂 (二胡版),"""倩女幽魂 (二胡版)"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,ambiguous_match,,微信视频页，非明确海外活动,C,needs_human,batch_01 audit
+batch_01,6,战马奔腾(二胡),"""战马奔腾(二胡)"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,no_relevant_result_after_search,,未找到海外活动,,no_result,batch_01 audit
+batch_01,7,梁祝,"""梁祝"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,no_relevant_result_after_search,,未找到海外活动,,no_result,batch_01 audit
+batch_01,8,江南 (二胡版),"""江南 (二胡版)"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,rejected_match,https://m.thepaper.cn/newsDetail_forward_33609468,加拿大江南音韵报道，未确认具体曲目,D,rejected_match,batch7B采纳：加拿大报道不含歌曲《江南》
+batch_01,9,牵丝戏（二胡&京胡版）,"""牵丝戏（二胡&京胡版）"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_batch7A,no_relevant_result_after_search,,未找到与《牵丝戏》二胡&京胡版直接相关的海外活动,,no_result,batch_01补检索完成
+batch_01,10,神经病之歌 (二胡),"""神经病之歌 (二胡)"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_batch7A,no_relevant_result_after_search,,未找到与《神经病之歌》二胡版直接相关的海外活动,,no_result,batch_01补检索完成
+batch_01,11,花田错（二胡版）,"""花田错（二胡版）"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_batch7A,no_relevant_result_after_search,,未找到与《花田错》二胡版直接相关的海外活动,,no_result,batch_01补检索完成
+batch_01,12,葬花吟（二胡版）,"""葬花吟（二胡版）"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_batch7A,ambiguous_match,https://www.xiaohongshu.com/discovery/item/67a168ca000000002a00fa1a,小红书帖称‘在牛津把葬花吟和音乐人类学放上舞台’，但页面当前404，无法核验活动、主体与曲目版本,C,pending_human_review,batch_01补检索完成
+batch_01,13,赛马(二胡独奏),"""赛马(二胡独奏)"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,performance_confirmed,https://www.daifutv.com/c/index.php?option=com_content&view=article&id=8650:2026&catid=77:japan-news&Itemid=234,2026-11-01东京公演，张滨演奏《赛马》,B,sealed_evidence_pending_human,batch_01 audit
+batch_01,14,迴梦游仙 二胡独奏版,"""迴梦游仙 二胡独奏版"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,no_relevant_result_after_search,,仅国内音乐会/百科页，无海外活动,,no_result,batch_01 audit
+batch_01,15,《穿越时空的思念》纯古琴版,"""《穿越时空的思念》纯古琴版"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,no_relevant_result_after_search,,无海外活动,,no_result,batch_01 audit
+batch_01,16,《飞雪玉花》纯古琴版,"""《飞雪玉花》纯古琴版"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,no_relevant_result_after_search,,无海外活动,,no_result,batch_01 audit
+batch_01,17,【古筝】万蝶振翅,"""【古筝】万蝶振翅"" concert OR performance OR festival OR university OR workshop",2026-11-05,web_search,batch_01_audited,ambiguous_match,https://www.bilibili.com/video/BV1x1t1z4EAb/,B站西班牙/英国街头古筝视频，未核验主体,C,needs_human,batch_01 audit
+batch_01,18,不染 古琴版,"""不染 古琴版"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,no_relevant_result_after_search,,迪拜古琴雅集未点名《不染》,,no_result,batch_01 audit
+batch_01,19,关山月,"""关山月"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,ambiguous_match,https://www.xiaohongshu.com/discovery/item/67fef6a8000000001e007e0b,小红书北美琴社伯克利帖，未打开正文,C,needs_human,batch_01 audit
+batch_01,20,初见 (古琴版）（翻自 余昭源）,"""初见 (古琴版）（翻自 余昭源）"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,no_relevant_result_after_search,,无海外活动,,no_result,batch_01 audit
+batch_01,21,半山听雨,"""半山听雨"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,no_relevant_result_after_search,,无海外活动,,no_result,batch_01 audit
+batch_01,22,卧龙吟（古琴版）,"""卧龙吟（古琴版）"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,ambiguous_match,https://www.bilibili.com/video/BV1A24y1u7w3/,B站伦敦幽兰琴社雅集视频，未打开正文,C,needs_human,batch_01 audit
+batch_01,23,平沙落雁,"""平沙落雁"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,no_relevant_result_after_search,,无新增海外证据；CASE008已有program_listed不重复计,,no_result,batch_01 audit
+batch_01,24,广陵散 (古琴独奏),"""广陵散 (古琴独奏)"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,performance_confirmed,https://lapost.us/?p=84999,2026-10-30南加州大学课堂，马玢完整演奏《广陵散》,B,sealed_evidence_pending_human,batch_01 audit
+batch_01,25,梅花三弄,"""梅花三弄"" concert OR performance OR festival OR university OR workshop",2026-11-05,,batch_01_audited,no_relevant_result_after_search,,无新增海外证据；CASE008已有program_listed不重复计,,no_result,batch_01 audit
+batch_02,26,流水,"""流水"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,27,牵丝戏（纯古琴）（翻自 银临）,"""牵丝戏（纯古琴）（翻自 银临）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,28,酒狂,"""酒狂"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,29,阳关三叠,"""阳关三叠"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,30,高山流水,"""高山流水"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,31,(兰亭序)一段,"""(兰亭序)一段"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,32,《大鱼海棠》印象曲《大鱼》纯古琴版,"""《大鱼海棠》印象曲《大鱼》纯古琴版"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,33,十面埋伏(琵琶独奏),"""十面埋伏(琵琶独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,34,古琴禅修,"""古琴禅修"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,35,女儿情,"""女儿情"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,36,广陵散,"""广陵散"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,37,广陵散 (古琴独奏),"""广陵散 (古琴独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,38,战台风,"""战台风"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,39,春江花月夜,"""春江花月夜"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,40,梁祝 (古筝独奏),"""梁祝 (古筝独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,41,沧海一声笑,"""沧海一声笑"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,42,渔舟唱晚,"""渔舟唱晚"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,43,渔舟唱晚 (古筝独奏),"""渔舟唱晚 (古筝独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,44,琵琶语（古筝版）,"""琵琶语（古筝版）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,45,画心,"""画心"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,46,高山流水 (古筝独奏),"""高山流水 (古筝独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,47,三拜红尘凉,"""三拜红尘凉"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,48,九儿（唢呐版),"""九儿（唢呐版)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,49,云宫迅音（唢呐摇滚版）,"""云宫迅音（唢呐摇滚版）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_02,50,囍（Chinese Wedding）,"""囍（Chinese Wedding）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,51,大出殡(唢呐版),"""大出殡(唢呐版)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,52,大黑天,"""大黑天"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,53,天下,"""天下"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,54,安河桥（唢呐混音完整版）（翻自 宋冬野）,"""安河桥（唢呐混音完整版）（翻自 宋冬野）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,55,惊涛落日（Official Vers.）,"""惊涛落日（Official Vers.）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,56,百鳥朝鳳 (嗩吶獨奏),"""百鳥朝鳳 (嗩吶獨奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,57,辞.九门回忆,"""辞.九门回忆"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,58,通天大道宽又阔（唢呐版）（翻自 无）,"""通天大道宽又阔（唢呐版）（翻自 无）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,59,鸳鸯债,"""鸳鸯债"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,60,哀郢(埙与乐队),"""哀郢(埙与乐队)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,61,大鱼《埙版》（翻自 周深）,"""大鱼《埙版》（翻自 周深）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,62,女儿情 埙版,"""女儿情 埙版"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,63,寒江残雪(埙),"""寒江残雪(埙)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,64,枉凝眉,"""枉凝眉"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,65,楚歌 埙,"""楚歌 埙"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,83,采薇,"""采薇"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,84,韩信拜将,"""韩信拜将"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,85,黄河鼓韵,"""黄河鼓韵"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,86,鼓诗,"""鼓诗"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,87,龙魂大鼓(鼓乐),"""龙魂大鼓(鼓乐)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,88,万蝶振翅（琵琶）,"""万蝶振翅（琵琶）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,89,兰陵王入阵曲,"""兰陵王入阵曲"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,90,十面埋伏,"""十面埋伏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,91,十面埋伏 (琵琶独奏),"""十面埋伏 (琵琶独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_03,92,千本樱（琵琶）,"""千本樱（琵琶）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,93,听！秦王破阵乐！,"""听！秦王破阵乐！"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,94,山鬼（琵琶X古筝）,"""山鬼（琵琶X古筝）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,95,广陵散 (古琴独奏),"""广陵散 (古琴独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,96,忆江南（琵琶）,"""忆江南（琵琶）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,97,故梦(琵琶版),"""故梦(琵琶版)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,98,春江花月夜,"""春江花月夜"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,99,晚夜微雨问海棠（琵琶版）乐落清音,"""晚夜微雨问海棠（琵琶版）乐落清音"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,100,渔舟唱晚 (古筝独奏),"""渔舟唱晚 (古筝独奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,122,东北人都是活雷锋,"""东北人都是活雷锋"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,123,大东北我的家乡,"""大东北我的家乡"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,124,海东青,"""海东青"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,125,花木兰,"""花木兰"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,126,唱大戏,"""唱大戏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,127,大河南我的家乡,"""大河南我的家乡"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,128,回娘家,"""回娘家"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,129,信天游,"""信天游"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,130,小放牛,"""小放牛"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,131,彩云追月,"""彩云追月"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,132,望春风,"""望春风"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,133,祝福,"""祝福"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,134,好一朵鲜花,"""好一朵鲜花"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,135,梦江南,"""梦江南"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,136,紫竹调,"""紫竹调"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,137,天竺少女,"""天竺少女"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_04,138,花儿为什么这样红,"""花儿为什么这样红"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,139,在那遥远的地方,"""在那遥远的地方"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,140,蝴蝶泉边,"""蝴蝶泉边"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,141,雀之灵,"""雀之灵"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,142,康定情歌,"""康定情歌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,143,东方红,"""东方红"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,144,黄土高坡,"""黄土高坡"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,145,山丹丹开花红艳艳,"""山丹丹开花红艳艳"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,146,秦王破阵乐,"""秦王破阵乐"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,147,霓裳羽衣曲,"""霓裳羽衣曲"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,148,春江花月夜,"""春江花月夜"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,149,采薇,"""采薇"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,150,神舞,"""神舞"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,151,执羽,"""执羽"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,152,沧海一声笑,"""沧海一声笑"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,153,大鱼,"""大鱼"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,154,何以歌,"""何以歌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,155,梁祝,"""梁祝"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,156,赛马,"""赛马"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,157,广陵散,"""广陵散"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,158,梅花三弄,"""梅花三弄"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,159,高山流水,"""高山流水"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,160,渔舟唱晚,"""渔舟唱晚"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,161,画心,"""画心"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,162,女儿情,"""女儿情"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_05,163,月光下的凤尾竹,"""月光下的凤尾竹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,164,弥渡山歌,"""弥渡山歌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,165,神话,"""神话"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,166,乌兰巴托之夜,"""乌兰巴托之夜"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,167,草原之夜,"""草原之夜"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,168,天边,"""天边"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,169,琵琶语,"""琵琶语"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,170,十面埋伏,"""十面埋伏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,171,忆江南,"""忆江南"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,172,酒狂,"""酒狂"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,173,阮,"""阮"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,174,风入松,"""风入松"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,175,葬花吟,"""葬花吟"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,176,青玉案·元夕,"""青玉案·元夕"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,177,乱红,"""乱红"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,178,百鸟朝凤,"""百鸟朝凤"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,179,囍,"""囍"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,180,大出殡,"""大出殡"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,181,大漠孤烟直,"""大漠孤烟直"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,182,太极,"""太极"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,183,山鬼,"""山鬼"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,184,哀郢,"""哀郢"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,185,枉凝眉,"""枉凝眉"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,186,升明月,"""升明月"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,187,伊姓狐,"""伊姓狐"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_06,188,阿里爸爸,"""阿里爸爸"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,189,东北人,"""东北人"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,190,东北姑娘,"""东北姑娘"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,191,你把爱到底给了谁,"""你把爱到底给了谁"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,192,武家坡,"""武家坡"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,193,将相和,"""将相和"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,194,红梅阁,"""红梅阁"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,195,船工号子,"""船工号子"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,196,采花,"""采花"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,197,赏夏,"""赏夏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,198,讲帝号,"""讲帝号"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,199,秦琼卖马,"""秦琼卖马"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,200,醉酒,"""醉酒"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,201,莺莺拜月,"""莺莺拜月"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,202,七夕,"""七夕"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,203,莺莺操琴,"""莺莺操琴"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,204,声声慢,"""声声慢"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,205,天仙配-夫妻双双把家还,"""天仙配-夫妻双双把家还"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,206,黄梅戏,"""黄梅戏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,207,霸王别姬,"""霸王别姬"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,208,智斗,"""智斗"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,209,白素贞唱段,"""白素贞唱段"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,210,牡丹亭游园惊梦,"""牡丹亭游园惊梦"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,211,皂罗袍,"""皂罗袍"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,212,长生殿惊变,"""长生殿惊变"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_07,213,打龙袍,"""打龙袍"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,214,报花名,"""报花名"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,215,秦香莲,"""秦香莲"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,216,华阴老腔,"""华阴老腔"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,217,铡美案,"""铡美案"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,218,神女劈观,"""神女劈观"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,219,花木兰,"""花木兰"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,220,穆桂英挂帅,"""穆桂英挂帅"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,221,刘大哥讲话理太偏,"""刘大哥讲话理太偏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,222,天下掉下个林妹妹,"""天下掉下个林妹妹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,223,十八相送,"""十八相送"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,224,西厢记,"""西厢记"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,225,「二胡」一生所爱（Cover 卢冠廷）,"""「二胡」一生所爱（Cover 卢冠廷）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,226,长亭怨慢,"""长亭怨慢"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,227,美丽的神话 笛箫埙版,"""美丽的神话 笛箫埙版"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,228,神话 埙版（翻自 韩红）,"""神话 埙版（翻自 韩红）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,229,烟雨唱扬州 埙版,"""烟雨唱扬州 埙版"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,230,知音,"""知音"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,231,大漠孤烟,"""大漠孤烟"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,232,敬畏,"""敬畏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,233,神舞 ( 孝淑 bootleg ）,"""神舞 ( 孝淑 bootleg ）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,234,诗经·击鼓,"""诗经·击鼓"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,235,听！秦王破阵乐！,"""听！秦王破阵乐！"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,236,霍元甲 (琵琶版),"""霍元甲 (琵琶版)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,237,精卫琵琶版,"""精卫琵琶版"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_08,238,琵琶独奏《木兰辞》,"""琵琶独奏《木兰辞》"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,239,琵琶行,"""琵琶行"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,240,雨碎江南（双琵琶）,"""雨碎江南（双琵琶）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,241,出水莲 (客家筝曲),"""出水莲 (客家筝曲)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,242,梦同游,"""梦同游"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,243,牧羊曲,"""牧羊曲"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,244,青玉案-元夕,"""青玉案-元夕"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,245,枉凝眉,"""枉凝眉"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,246,何以歌（竹笛版）,"""何以歌（竹笛版）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,247,年轮,"""年轮"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,248,牵丝戏-竹笛（Cover 银临）,"""牵丝戏-竹笛（Cover 银临）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,249,星月神话（笛子ver.）,"""星月神话（笛子ver.）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,250,雨碎江南,"""雨碎江南"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,251,空山寂寂,"""空山寂寂"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,252,梅花三弄(箫),"""梅花三弄(箫)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,253,秦时明月-飞雪玉花,"""秦时明月-飞雪玉花"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,254,葬花吟(洞箫),"""葬花吟(洞箫)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,255,自在飞花轻似梦(箫演奏),"""自在飞花轻似梦(箫演奏)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,256,东皇太一,"""东皇太一"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,257,江上清风游,"""江上清风游"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,258,莲有秀兮,"""莲有秀兮"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,259,秦王破阵乐(编钟乐队与歌队),"""秦王破阵乐(编钟乐队与歌队)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,260,幽兰(古琴与编钟乐团),"""幽兰(古琴与编钟乐团)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,261,阿佤人民唱新歌,"""阿佤人民唱新歌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,262,彩云追月,"""彩云追月"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_09,263,蝴蝶泉边,"""蝴蝶泉边"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,264,竹林深处,"""竹林深处"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,265,竹楼情歌,"""竹楼情歌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,266,春江花月夜,"""春江花月夜"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,267,广陵散,"""广陵散"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,268,名士自风流,"""名士自风流"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,269,一生所爱,"""一生所爱"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,270,葬心,"""葬心"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,271,边境 (马头琴),"""边境 (马头琴)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,272,草原星辰,"""草原星辰"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,273,梦中的额吉(蒙),"""梦中的额吉(蒙)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,274,我爱你（马头琴纯享版）,"""我爱你（马头琴纯享版）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,275,西海情歌,"""西海情歌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,276,大东北,"""大东北"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,277,大东北我的家乡 (DJ 版),"""大东北我的家乡 (DJ 版)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,278,东北民谣,"""东北民谣"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,279,奢香夫人,"""奢香夫人"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,280,香水有毒 (DJ 版),"""香水有毒 (DJ 版)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,281,白面孔,"""白面孔"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,282,升明月-双档,"""升明月-双档"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,283,苏州河上一座桥,"""苏州河上一座桥"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,284,伊姓狐-双档,"""伊姓狐-双档"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,285,栀子花 白兰花,"""栀子花 白兰花"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,286,《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证,"""《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,287,丑末寅初,"""丑末寅初"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_10,288,京韵大鼓-大西厢,"""京韵大鼓-大西厢"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,289,俞伯牙摔琴,"""俞伯牙摔琴"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,290,重整河山待后生,"""重整河山待后生"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,291,巴山夜雨紛紛,"""巴山夜雨紛紛"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,292,川剧-赏夏,"""川剧-赏夏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,293,荆钗记,"""荆钗记"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,294,太阳出来喜洋洋(四川民歌),"""太阳出来喜洋洋(四川民歌)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,295,幺儿嘞,"""幺儿嘞"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,296,定军山,"""定军山"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,297,红灯记,"""红灯记"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,298,卖马,"""卖马"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,299,月光下的凤尾竹,"""月光下的凤尾竹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,300,祝酒歌,"""祝酒歌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,301,宝玉夜探,"""宝玉夜探"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,302,天涯歌女,"""天涯歌女"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,303,西厢 请宴   严调   评弹,"""西厢 请宴   严调   评弹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,304,莺莺操琴  蒋调   评弹,"""莺莺操琴  蒋调   评弹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,305,珍珠塔·义激陈琏,"""珍珠塔·义激陈琏"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,306,京剧双投唐选段,"""京剧双投唐选段"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,307,探清水河,"""探清水河"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,308,武家坡2021,"""武家坡2021"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,309,铡美案,"""铡美案"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,310,智斗(《沙家浜》),"""智斗(《沙家浜》)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,311,藏山河重制版,"""藏山河重制版"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,312,牡丹亭.游园---皂罗袍,"""牡丹亭.游园---皂罗袍"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_11,313,牡丹亭·游园·皂罗袍,"""牡丹亭·游园·皂罗袍"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,314,牡丹亭·皂罗袍（昆曲x古琴）,"""牡丹亭·皂罗袍（昆曲x古琴）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,315,一拜天地（古琴x昆曲）,"""一拜天地（古琴x昆曲）"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,316,华阴老腔一声喊 (Live),"""华阴老腔一声喊 (Live)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,317,秦腔,"""秦腔"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,318,秦腔 关山月,"""秦腔 关山月"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,319,秦腔-三击掌,"""秦腔-三击掌"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,320,秦腔-游龟山,"""秦腔-游龟山"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,321,《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证,"""《武家坡》 薛平贵 王宝钏 苏龙魏虎为媒证"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,322,打龙袍 (二),"""打龙袍 (二)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,323,花为媒·窈窕淑女君子好逑,"""花为媒·窈窕淑女君子好逑"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,324,评剧-秦香莲,"""评剧-秦香莲"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,325,乾坤带·非是儿臣以小犯上,"""乾坤带·非是儿臣以小犯上"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,326,穆桂英挂帅(唱段),"""穆桂英挂帅(唱段)"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,327,四千岁你莫要羞愧难当,"""四千岁你莫要羞愧难当"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,328,小仓娃我离了登封小县,"""小仓娃我离了登封小县"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,329,豫剧-穆桂英挂帅,"""豫剧-穆桂英挂帅"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,330,铡美案,"""铡美案"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,331,红楼梦.天上掉下个林妹妹,"""红楼梦.天上掉下个林妹妹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,332,红楼梦天上掉下个林妹妹,"""红楼梦天上掉下个林妹妹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,333,谁料皇榜中状元,"""谁料皇榜中状元"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,334,我家有个小九妹,"""我家有个小九妹"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,335,新梁祝.十八相送,"""新梁祝.十八相送"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,336,十八相送,"""十八相送"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,337,武家坡2021,"""武家坡2021"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_12,338,武家坡2023,"""武家坡2023"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_13,339,戏凤 游龙戏凤,"""戏凤 游龙戏凤"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果
+batch_13,340,赞人间,"""赞人间"" concert OR performance OR festival OR university OR workshop",,,planned_not_executed,not_searched,,,,not_searched,外部检索尚未执行；不得当作无结果

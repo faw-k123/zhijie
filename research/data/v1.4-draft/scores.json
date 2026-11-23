@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.4-draft",
+  "score_count": 20,
+  "scores": [
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "emotional_resonance",
+      "label": "情感共鸣",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无独立受众/情感证据"
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "timbre_identity",
+      "label": "音色辨识度",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无录音/音色评论"
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "story_explainability",
+      "label": "故事可解释性",
+      "score": 1,
+      "score_status": "evidence_scored_draft",
+      "evidence": "《风打梨》与南音/包容共存节背景可解释。",
+      "source_ids": [
+        "P12-S002"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "cross_cultural_adaptation",
+      "label": "跨文化适配度",
+      "score": 2,
+      "score_status": "evidence_scored_draft",
+      "evidence": "南音在阿联酋国家包容与共存节演出，属于跨文化场景。",
+      "source_ids": [
+        "P12-S002"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "education_support",
+      "label": "教育支持度",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无课程/教学证据"
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "bridge_role",
+      "label": "文化桥梁作用",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "团体/合作案例，个人桥梁不适用"
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "audience_participation",
+      "label": "受众参与度",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无受众原话/参与数据"
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "channel_fit",
+      "label": "传播渠道适配",
+      "score": 1,
+      "score_status": "evidence_scored_draft",
+      "evidence": "音乐节开幕式/现场演出渠道；无受众效果。",
+      "source_ids": [
+        "P12-S002"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "era_theme_relevance",
+      "label": "时代主题关联",
+      "score": 2,
+      "score_status": "evidence_scored_draft",
+      "evidence": "活动主题为包容与共存，与文明交流主题直接相关。",
+      "source_ids": [
+        "P12-S002"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C002",
+      "indicator_id": "sustainability",
+      "label": "传播持续性",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "单次活动，无持续记录"
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "emotional_resonance",
+      "label": "情感共鸣",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无独立受众/情感证据"
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "timbre_identity",
+      "label": "音色辨识度",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无录音/音色评论"
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "story_explainability",
+      "label": "故事可解释性",
+      "score": 2,
+      "score_status": "evidence_scored_draft",
+      "evidence": "曲目单包含中国与拉美作品，节目叙事清楚。",
+      "source_ids": [
+        "P12-S003"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "cross_cultural_adaptation",
+      "label": "跨文化适配度",
+      "score": 2,
+      "score_status": "evidence_scored_draft",
+      "evidence": "二胡与墨西哥音乐家、弦乐、打击乐合作。",
+      "source_ids": [
+        "P12-S003"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "education_support",
+      "label": "教育支持度",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无课程/教学证据"
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "bridge_role",
+      "label": "文化桥梁作用",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "团体/合作案例，个人桥梁不适用"
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "audience_participation",
+      "label": "受众参与度",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "无受众原话/参与数据"
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "channel_fit",
+      "label": "传播渠道适配",
+      "score": 2,
+      "score_status": "evidence_scored_draft",
+      "evidence": "Bellas Artes/UNAM 两个场地；无受众效果。",
+      "source_ids": [
+        "P12-S003"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "era_theme_relevance",
+      "label": "时代主题关联",
+      "score": 2,
+      "score_status": "evidence_scored_draft",
+      "evidence": "中秋/中墨文化交流框架。",
+      "source_ids": [
+        "P12-S003"
+      ],
+      "missing_reason": null
+    },
+    {
+      "candidate_id": "P12-C003",
+      "indicator_id": "sustainability",
+      "label": "传播持续性",
+      "score": null,
+      "score_status": "null",
+      "evidence": "证据不足",
+      "source_ids": [],
+      "missing_reason": "单次活动，无持续记录"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿condition_id,condition,actual,status
+P01,P12.4.10结论,READY_FOR_OWNER_RELEASE_APPROVAL,PASS
+P02,v1.5完整性,38/58/380/79/301,PASS
+P03,CASE037/038,唯一且审批正确,PASS
+P04,原有360条,0差异,PASS
+P05,API/前端,审批字段展示通过,PASS
+P06,发布前快照,21/21 SHA256,PASS
+P07,隔离切换,v1.5/38通过,PASS
+P08,回归测试,28/28 + build,PASS
+P09,正式环境,active=v1.2,PASS

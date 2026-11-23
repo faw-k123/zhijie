@@ -1,0 +1,13 @@
+﻿check_id,object,expected,status
+A01,版本状态接口,v1.5 / 38,PASS
+A02,CASE037,3条有效；channel null/approved_revoked,PASS
+A03,CASE038,3条有效；channel null/approved_revoked,PASS
+A04,有效评分,79,PASS
+A05,null指标,301,PASS
+A06,案例库,38条,PASS
+A07,研究洞察,statistics/success-factors 构建成功,PASS
+A08,音乐海外传播,music-potential pending 正常,PASS
+A09,区域推广方案,regional-matrix pending 正常,PASS
+A10,旧案例保护,CASE001 仍10条有效,PASS
+A11,回滚能力,快照21/21，v1.2可恢复,PASS
+A12,回归,28/28 + type-check/build,PASS

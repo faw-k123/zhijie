@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-11-01T16:00:00+08:00",
+  "active_version": "v1.1",
+  "library": "traditional_song",
+  "library_song_count": 302,
+  "mapping_count": 26,
+  "mapped_count": 0,
+  "mappings": [
+    {
+      "candidate_id": "CAND001",
+      "case_id": "CASE011",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND002",
+      "case_id": "CASE012",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND003",
+      "case_id": "CASE013",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND004",
+      "case_id": "CASE014",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND005",
+      "case_id": "CASE015",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND006",
+      "case_id": "CASE016",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND007",
+      "case_id": "CASE017",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND008",
+      "case_id": "CASE018",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND009",
+      "case_id": "CASE019",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND010",
+      "case_id": "CASE020",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND011",
+      "case_id": "CASE021",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND012",
+      "case_id": "CASE022",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND013",
+      "case_id": "CASE023",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND014",
+      "case_id": "CASE024",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND015",
+      "case_id": "CASE025",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND016",
+      "case_id": "CASE026",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND017",
+      "case_id": "CASE027",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND018",
+      "case_id": "CASE028",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND019",
+      "case_id": "CASE029",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND020",
+      "case_id": "CASE030",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND022",
+      "case_id": "CASE031",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND026",
+      "case_id": "CASE032",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND028",
+      "case_id": "CASE033",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND031",
+      "case_id": "CASE034",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND033",
+      "case_id": "CASE035",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    },
+    {
+      "candidate_id": "CAND036",
+      "case_id": "CASE036",
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "候选来源未给出可与传统歌曲表精确匹配的曲目名；不按乐器/国家推断映射。"
+    }
+  ]
+}

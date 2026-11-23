@@ -1,0 +1,39 @@
+﻿case_id,performer,country,region,case_type,analysis_sample,strict_sample_eligible,review_status,owner_approval_status,source_count,source_ids,source_types,activity_status,mapping_count,evidence_limitations
+CASE001,Eliott Tordo（艾略特·托多）,法国,欧洲,foreign_individual_cross_cultural,pending_review,False,B,not_required,3,C001-S001;C001-S002;C001-S003,主流媒体:2;视频平台:1,NOT_RECORDED,0,海外演出地点未逐场核验;YouTube/中国巡演与海外现场混在一起
+CASE002,美国巴德学院音乐学院 美中音乐研习院（US-China Music Institute）/ Bard Chinese Ensemble,美国,北美,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,2,C002-S001;C002-S002,主流媒体:1;机构官网:1,NOT_RECORDED,0,演奏者国籍仅部分可核;缺少曲目单与上座率
+CASE003,2026二胡群英会：巫谢慧 与 5名日本青年二胡演奏者,日本,东亚,cross_cultural_ensemble,extended_cross_cultural,False,B,not_required,2,C003-S001;C003-S002,主流媒体:1;演奏者本人:1,NOT_RECORDED,0,团体成员个人身份未逐人建档;缺少票务与受众原始反馈
+CASE004,Jeremy Moyer（莫杰明）,加拿大,北美,foreign_individual_cross_cultural,extended_cross_cultural,False,B,not_required,3,C004-S001;C004-S002;C004-S003,机构官网:1;主流媒体:1;演奏者本人:1,NOT_RECORDED,0,海外演出地点未逐场核验;缺少受众反馈
+CASE005,Clare Cooper,澳大利亚,其他,foreign_individual_cross_cultural,strict_individual,True,B,approved,2,C005-S001;C005-S002,机构官网:1;演出主办方:1,NOT_RECORDED,0,传统曲目单未公开;受众评论未采集
+CASE006,Jarrelle Barton,美国,北美,foreign_individual_cross_cultural,strict_individual,True,B,approved,3,C006-S001;C006-S002;C006-S003,主流媒体:3,NOT_RECORDED,0,评论原文未采集;曲目单与上座率缺失
+CASE007,Colin Huehns,英国,欧洲,foreign_individual_cross_cultural,strict_individual,True,B,needs_more_evidence,2,C007-S001;C007-S002,演奏者本人:1;机构官网:1,NOT_RECORDED,0,主要依据个人官网;独立媒体与受众反馈不足
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,英国,欧洲,overseas_institution_education,extended_cross_cultural,False,B,not_required,2,C008-S001;C008-S002,主流媒体:1;机构官网:1,NOT_RECORDED,5,个人演奏者名单与国籍未逐人核实;机构规模数据来自单一媒体
+CASE009,巴德中西乐团（Bard East/West Ensemble）,美国,北美,cross_cultural_ensemble,extended_cross_cultural,False,B,not_required,2,C009-S001;C009-S002,机构官网:2,NOT_RECORDED,0,成员国籍未逐人核实;缺少上座率与受众反馈
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,法国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,False,B,not_required,2,C010-S001;C010-S002,主流媒体:1;演奏者本人:1,NOT_RECORDED,0,海外演出记录缺失;现场以中国境内为主
+CASE011,Duke Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND001-S001,机构官网:1,NOT_RECORDED,0,成员国籍、具体演出、受众反馈未核
+CASE012,UCLA Chinese Music,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND002-S001,机构官网:1,NOT_RECORDED,0,成员身份、演出日期、曲目未核
+CASE013,Qingyun Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND003-S001,机构官网:1,NOT_RECORDED,0,演奏者名单、国籍、曲目未核
+CASE014,Indiana University East-West collaboration,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND004-S001,机构官网:1,NOT_RECORDED,0,具体中国乐器、演奏者身份、演出时间未核
+CASE015,University of Illinois Chinese music event,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND005-S001,机构官网:1,NOT_RECORDED,0,活动规模、演奏者、曲目未核
+CASE016,University of Pittsburgh Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND006-S001,机构官网:1,NOT_RECORDED,0,成员身份、公开演出、受众反馈未核
+CASE017,Ohio State Chinese Folk Music Orchestra,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND007-S001,机构官网:1,NOT_RECORDED,0,组织活动记录、成员、演出未核
+CASE018,Williams Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND008-S001,其他:1,NOT_RECORDED,0,PDF 内容、演奏者国籍、受众未核
+CASE019,Chinese Music Ensemble of New York,美国,北美,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,1,CAND009-S001,机构官网:1,NOT_RECORDED,0,成员国籍、具体演出、曲目未核
+CASE020,Ba Ban Chinese Music Society,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND010-S001,其他:1,NOT_RECORDED,0,演奏者、曲目、受众反馈未核
+CASE021,Melody of China,美国,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND011-S001,机构官网:1,NOT_RECORDED,0,成员身份、具体场次、受众反馈未核
+CASE022,Toronto Chinese Orchestra,加拿大,北美,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND012-S001,机构官网:1,NOT_RECORDED,0,成员、演出记录、曲目未核
+CASE023,Vancouver Chinese Music Ensemble,加拿大,北美,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,1,CAND013-S001,机构官网:1,NOT_RECORDED,0,成员身份、具体演出、受众反馈未核
+CASE024,Harmony Guzheng Ensemble,加拿大,北美,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,1,CAND014-S001,其他:1,NOT_RECORDED,0,成员国籍、曲目、上座率、评论未核
+CASE025,Seattle Chinese Orchestra,美国,北美,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,1,CAND015-S001,主流媒体:1,NOT_RECORDED,0,演奏者身份、曲目、受众反馈未核
+CASE026,Chung Wah Chinese Orchestra,澳大利亚,其他,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND016-S001,机构官网:1,NOT_RECORDED,0,成员、演出、曲目未核
+CASE027,Chao Feng Chinese Orchestra,澳大利亚,其他,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,1,CAND017-S001,其他:1,NOT_RECORDED,0,PDF 未逐页核，演奏者/曲目未核
+CASE028,Australian Chinese Music Ensemble,澳大利亚,其他,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,1,CAND018-S001,机构官网:1,NOT_RECORDED,0,演出记录、成员身份未核
+CASE029,NZ Chinese Hundred Flowers Art Troupe,新西兰,其他,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND019-S001,机构官网:1,NOT_RECORDED,0,成员、演出、乐器、受众反馈未核
+CASE030,UK Chinese Music,英国,欧洲,overseas_institution_education,extended_cross_cultural,False,B,not_required,1,CAND020-S001,机构官网:1,NOT_RECORDED,0,具体演出、演奏者、受众反馈未核
+CASE031,Grand Chinese New Year Concert Berlin,德国,欧洲,overseas_institution_ensemble,extended_cross_cultural,False,B,not_required,1,CAND022-S001,机构官网:1,NOT_RECORDED,0,演出团体、演奏者、曲目、受众未核
+CASE032,Belle / Erin Lam,英国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,False,B,not_required,2,CAND026-S001;CAND026-S003,主流媒体:2,NOT_RECORDED,0,香港成长，是否属于项目“外国个人”口径未定；需身份依据
+CASE033,Nicholas Ng,澳大利亚,其他,foreign_individual_cross_cultural,extended_cross_cultural,False,B,not_required,2,CAND028-S001;CAND028-S002,主流媒体:1;机构官网:1,NOT_RECORDED,0,身份与族裔口径未定；需确认外国个人身份与具体演出
+CASE034,Wu Fei & Abigail Washburn,美国,北美,cross_cultural_ensemble,extended_cross_cultural,False,B,not_required,1,CAND031-S001,其他:1,NOT_RECORDED,0,Abigail 不演奏中国乐器，不能作为严格外国个人；可作扩展合作线索
+CASE035,Mona Li,德国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,False,B,not_required,4,CAND033-S001;CAND033-S002;CAND033-S003;CAND033-S004,其他:2;机构官网:1;演出主办方:1,NOT_RECORDED,0,身份/国籍或项目身份标准未确认；不能因姓名或族裔排除。 节目单已证明古筝演奏。
+CASE036,东京古筝乐团（Tokyo Guzheng Orchestra）,日本,东亚,overseas_institution_education,extended_cross_cultural,False,B,not_required,3,CAND036-S001;CAND036-S002;CAND036-S003,主流媒体:3,NOT_RECORDED,0,乐团成员国籍与具体演奏者未核；可能以在日华人为主
+CASE037,泉州师范学院南音团队,阿联酋,中东及部分伊斯兰文化地区,cross_cultural_ensemble,extended_cross_cultural,False,B,approved,1,P12-S002,主流媒体:1,NOT_RECORDED,0,中国团队；观众引语为记者转述；无独立受众调查。
+CASE038,Li Cangxiao 与墨西哥音乐家,墨西哥,拉丁美洲,cross_cultural_ensemble,extended_cross_cultural,False,B,approved,1,P12-S003,机构官网:1,NOT_RECORDED,0,含中国二胡演奏者；掌声为记者描述；无独立受众调查。

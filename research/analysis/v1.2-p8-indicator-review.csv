@@ -1,0 +1,39 @@
+﻿case_id,indicator_id,proposed_score,source_id,review_status,original_reason,review_reason,suggested_score,unresolved_issue
+CASE011,education_support,2,CAND001-S001,approved,官网提供合奏团/课程入口,来源明确支持合奏团、课程、招新或校园教育活动。,2,
+CASE011,bridge_role,1,CAND001-S001,rejected,大学合奏团以中国音乐开展社区活动,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE011,channel_fit,1,CAND001-S001,pending,校内合奏/演出渠道,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE012,education_support,2,CAND002-S001,approved,面向初学者与有经验者开放,来源明确支持合奏团、课程、招新或校园教育活动。,2,
+CASE012,bridge_role,1,CAND002-S001,rejected,大学中国音乐组织,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE012,channel_fit,1,CAND002-S001,pending,校内活动入口,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE013,story_explainability,1,CAND003-S001,approved,年度音乐会主题 From Silk to Symphony,来源提供节目/活动主题或曲目单，可支持故事解释性 1 分。,1,
+CASE013,education_support,1,CAND003-S001,approved,大学乐团年度音乐会,来源明确支持合奏团、课程、招新或校园教育活动。,1,
+CASE013,bridge_role,1,CAND003-S001,rejected,中西音乐主题,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE013,channel_fit,1,CAND003-S001,pending,线下音乐会,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE013,sustainability,1,CAND003-S001,approved,年度音乐会,年度音乐会页面支持持续活动 1 分。,1,
+CASE014,story_explainability,1,CAND004-S001,approved,学生主导的 East-West 合作报道,来源提供节目/活动主题或曲目单，可支持故事解释性 1 分。,1,
+CASE014,cross_cultural_adaptation,2,CAND004-S001,approved,报道明确为 East-West 合作,来源明确写 East-West collaboration，支持跨文化合作 2 分。,2,
+CASE014,education_support,2,CAND004-S001,approved,学生主导合作项目,来源明确支持合奏团、课程、招新或校园教育活动。,2,
+CASE014,bridge_role,1,CAND004-S001,rejected,中美学生合作,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE014,channel_fit,1,CAND004-S001,pending,校园合作项目,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE015,education_support,1,CAND005-S001,approved,校园中国音乐活动,来源明确支持合奏团、课程、招新或校园教育活动。,1,
+CASE015,bridge_role,1,CAND005-S001,rejected,校园文化活动,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE015,channel_fit,1,CAND005-S001,pending,校园活动,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE016,education_support,2,CAND006-S001,approved,乐团招新/合奏教育,来源明确支持合奏团、课程、招新或校园教育活动。,2,
+CASE016,bridge_role,1,CAND006-S001,rejected,大学中国音乐合奏团,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE016,channel_fit,1,CAND006-S001,pending,校内合奏,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE017,education_support,1,CAND007-S001,approved,学生组织,来源明确支持合奏团、课程、招新或校园教育活动。,1,
+CASE017,bridge_role,1,CAND007-S001,rejected,学生中国民乐组织,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE017,channel_fit,1,CAND007-S001,pending,学生组织活动,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE018,story_explainability,1,CAND008-S001,approved,2016 音乐会节目单,来源提供节目/活动主题或曲目单，可支持故事解释性 1 分。,1,
+CASE018,education_support,1,CAND008-S001,approved,学院合奏团,来源明确支持合奏团、课程、招新或校园教育活动。,1,
+CASE018,bridge_role,1,CAND008-S001,rejected,学院中国音乐合奏,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE018,channel_fit,1,CAND008-S001,pending,音乐会,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE019,education_support,1,CAND009-S001,rejected,乐团介绍/演出入口,来源是乐团介绍/社区演出，不是课程、教学、招新或工作坊。,,乐团/社区活动，不是教育活动
+CASE019,bridge_role,1,CAND009-S001,rejected,纽约中国民族乐团,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE019,channel_fit,1,CAND009-S001,pending,乐团演出,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE019,sustainability,1,CAND009-S001,pending,乐团持续活动入口,单次活动或机构入口不足以证明持续传播。,1,缺多年/持续活动记录
+CASE020,story_explainability,1,CAND010-S001,approved,图书馆演出活动,来源提供节目/活动主题或曲目单，可支持故事解释性 1 分。,1,
+CASE020,education_support,1,CAND010-S001,rejected,社区/图书馆活动,来源是乐团介绍/社区演出，不是课程、教学、招新或工作坊。,,乐团/社区活动，不是教育活动
+CASE020,bridge_role,1,CAND010-S001,rejected,社区中国音乐活动,证据只支持机构/合奏团存在，不支持“外国演奏者个人”的桥梁作用。,,指标定义是外国演奏者的文化桥梁作用；机构/团体不能替代个人
+CASE020,channel_fit,1,CAND010-S001,pending,社区活动,来源证明活动/渠道入口，但未证明该渠道对目标受众适配或有效。,1,缺渠道效果/受众匹配证据
+CASE020,sustainability,1,CAND010-S001,pending,持续社区活动入口,单次活动或机构入口不足以证明持续传播。,1,缺多年/持续活动记录

@@ -1,0 +1,71 @@
+﻿case_id,performer,indicator_id,indicator_label,score,evidence,source_ids,missing_reason,coder,coded_at
+CASE004,Jeremy Moyer（莫杰明）,emotional_resonance,情感共通性,,未知原因,,未采集到受众情感反应原文,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,timbre_identity,音色辨识度,,未知原因,,材料没有受众对音色的明确表述,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,story_explainability,故事可解释性,2,上海市政府报道明确写出1990年代中期在台湾学习二胡、2004年移居上海与民间采风经历。,C004-S001,,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,cross_cultural_adaptation,跨文化改编程度,2,个人专辑以中国民谣改编为主题，属于跨文化创作，但未见系统性编制重构说明。,C004-S003,,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,education_support,教育支持程度,,未知原因,,材料未给出稳定教学/课程记录,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,bridge_role,外国演奏者的文化桥梁作用,2,上海市政府英文报道以“加拿大音乐人演奏中国传统乐器”为人物报道主题，具有媒体层面的桥梁叙事。,C004-S001,,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,audience_participation,受众参与度,,未知原因,,未采集评论、互动或二创数据,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,channel_fit,传播渠道适配度,2,线下演奏、媒体人物报道与个人专辑形成稳定输出。,C004-S001;C004-S003,,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,era_theme_relevance,时代主题关联度,2,报道明确把中国民间音乐采风与城市/传统记忆联系起来。,C004-S001,,研究助手（初编）,2026-10-30
+CASE004,Jeremy Moyer（莫杰明）,sustainability,传播持续性,3,1990年代中期学习、2004年移居上海，2018年仍有报道与专辑，持续超过3年。,C004-S001;C004-S003,,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,emotional_resonance,情感共通性,,未知原因,,未采集到受众情感反应原文,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,timbre_identity,音色辨识度,,未知原因,,材料没有受众对音色的明确表述,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,story_explainability,故事可解释性,1,官方简介给出出生地、移居柏林与乐器，但没有学习动机或文化背景叙述。,C005-S001,,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,cross_cultural_adaptation,跨文化改编程度,2,官方简介显示古筝用于实验/即兴与跨媒介合作，但不是有公开作品分析的系统性跨文化改编。,C005-S001,,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,education_support,教育支持程度,,未知原因,,材料未给出稳定教学/课程记录,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,bridge_role,外国演奏者的文化桥梁作用,2,ausland 官方艺术家页以跨文化合作者身份介绍，并在16国演出。,C005-S001,,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,audience_participation,受众参与度,,未知原因,,未采集评论、互动或二创数据,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,channel_fit,传播渠道适配度,2,线下演出与媒体播出（SWR/ABC/BBC）匹配其实验音乐呈现。,C005-S001,,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,era_theme_relevance,时代主题关联度,2,官方简介把古筝放入当代实验与跨媒介语境，关联数字/当代文化。,C005-S001,,研究助手（初编）,2026-10-30
+CASE005,Clare Cooper,sustainability,传播持续性,3,2007年移居柏林，近十余年持续在16国演出，超过3年。,C005-S001;C005-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,emotional_resonance,情感共通性,,未知原因,,未采集到受众情感反应原文,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,timbre_identity,音色辨识度,1,Barton 自述被古筝音色吸引；未找到受众侧音色评论。,C006-S001;C006-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,story_explainability,故事可解释性,3,报道完整叙述13岁在图书馆听到古筝、自学中文教程、随北京老师学习与赴美演出的过程。,C006-S001;C006-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,cross_cultural_adaptation,跨文化改编程度,1,报道强调传统曲目学习，未见明显改编或跨文化编制。,C006-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,education_support,教育支持程度,,未知原因,,材料未给出稳定教学/课程记录,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,bridge_role,外国演奏者的文化桥梁作用,2,MPR/新浪报道以美国青年演奏古筝的人物故事呈现其文化连接作用。,C006-S001;C006-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,audience_participation,受众参与度,1,报道称视频吸引成千上万观众，但只提供观看规模，未采集评论/二创。,C006-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,channel_fit,传播渠道适配度,3,网络视频、Anderson Center 驻留、双城灯节与12月演出形成线上+线下组合。,C006-S001;C006-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,era_theme_relevance,时代主题关联度,2,报道明确以青年学习中国音乐、跨文化理解为主题。,C006-S001;C006-S002,,研究助手（初编）,2026-10-30
+CASE006,Jarrelle Barton,sustainability,传播持续性,3,13岁开始学习，2017—2018年仍有报道、驻留与演出，持续超过3年。,C006-S001;C006-S002,,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,emotional_resonance,情感共通性,,未知原因,,未采集到受众情感反应原文,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,timbre_identity,音色辨识度,,未知原因,,材料没有受众对音色的明确表述,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,story_explainability,故事可解释性,3,个人官网完整叙述小提琴背景、1996年赴西安学习三年、1998年十级与回英演出。,C007-S001,,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,cross_cultural_adaptation,跨文化改编程度,2,委约英国作曲家为二胡创作，属于跨文化委约，但未见系统性编制重构。,C007-S001,,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,education_support,教育支持程度,3,1999年起在皇家音乐学院教授二胡，进入学院教学体系。,C007-S001,,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,bridge_role,外国演奏者的文化桥梁作用,3,在皇家音乐学院任教、在多家英国高校讲座/独奏，形成机构化合作。,C007-S001;C007-S002,,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,audience_participation,受众参与度,,未知原因,,未采集评论、互动或二创数据,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,channel_fit,传播渠道适配度,3,高校讲座/独奏、BBC Radio 3 与展览图录多渠道协同。,C007-S001;C007-S002,,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,era_theme_relevance,时代主题关联度,2,官网明确以中英音乐交流与二胡教学为主题。,C007-S001,,研究助手（初编）,2026-10-30
+CASE007,Colin Huehns,sustainability,传播持续性,3,1996年至今持续演奏/教学超过3年。,C007-S001,,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,emotional_resonance,情感共通性,,未知原因,,未采集到受众情感反应原文,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,timbre_identity,音色辨识度,,未知原因,,材料没有受众对音色的明确表述,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,story_explainability,故事可解释性,2,报道叙述程玉创立琴社、22年发展与雅集/夏校体系，但缺个人动机。,C008-S001,,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,cross_cultural_adaptation,跨文化改编程度,2,雅集包含古琴与中西音乐元素，但具体改编曲目未公开。,C008-S001,,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,education_support,教育支持程度,3,连续21年夏校、150多场雅集、培训20多国600多名学习者，形成机构化教学。,C008-S001;C008-S002,,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,bridge_role,外国演奏者的文化桥梁作用,3,在英中乐团、亚非学院支持下长期运营，形成机构化中英音乐交流平台。,C008-S001,,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,audience_participation,受众参与度,,未知原因,,未采集评论、互动或二创数据,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,channel_fit,传播渠道适配度,3,雅集、夏校、音乐节、博物馆演出等多渠道协同。,C008-S001;C008-S002,,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,era_theme_relevance,时代主题关联度,3,报道把古琴作为人类非遗与中英文化交流核心叙事。,C008-S001,,研究助手（初编）,2026-10-30
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,sustainability,传播持续性,3,2003年成立，22年持续雅集/夏校，超过3年。,C008-S001;C008-S002,,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,emotional_resonance,情感共通性,,未知原因,,未采集到受众情感反应原文,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,timbre_identity,音色辨识度,,未知原因,,材料没有受众对音色的明确表述,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,story_explainability,故事可解释性,2,官方页面说明 USCMI 学院背景、中西混合编制与委约作品，但缺人物动机。,C009-S001;C009-S002,,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,cross_cultural_adaptation,跨文化改编程度,3,西方弦乐五重奏+七件中国乐器+打击乐，系统性中西混合编制并有世界首演。,C009-S001,,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,education_support,教育支持程度,3,隶属巴德学院USCMI，含双学位与学院项目。,C009-S002,,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,bridge_role,外国演奏者的文化桥梁作用,3,以学院项目与年度音乐会形成机构化中西音乐合作。,C009-S001;C009-S002,,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,audience_participation,受众参与度,,未知原因,,未采集评论、互动或二创数据,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,channel_fit,传播渠道适配度,2,线下音乐会与学院教育匹配，但媒体/线上渠道未在来源中展开。,C009-S001,,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,era_theme_relevance,时代主题关联度,3,官方以“East/West”与当代中国作品为核心叙事。,C009-S001,,研究助手（初编）,2026-10-30
+CASE009,巴德中西乐团（Bard East/West Ensemble）,sustainability,传播持续性,3,USCMI年度项目与多届活动，形成系列化机制。,C009-S001;C009-S002,,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,emotional_resonance,情感共通性,,未知原因,,未采集到受众情感反应原文,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,timbre_identity,音色辨识度,,未知原因,,材料没有受众对音色的明确表述,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,story_explainability,故事可解释性,2,报道明确写出2000年来华、受京剧启发与把中阮/琵琶融入创作，但缺完整生平。,C010-S001,,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,cross_cultural_adaptation,跨文化改编程度,3,自制电子中阮/电子琵琶，把中国传统乐器放入摇滚、实验、爵士、电子。,C010-S001,,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,education_support,教育支持程度,,未知原因,,材料未给出稳定教学/课程记录,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,bridge_role,外国演奏者的文化桥梁作用,2,人民网德语视界报道称其为最早用中阮作曲/演奏流行音乐的外国人之一。,C010-S001,,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,audience_participation,受众参与度,,未知原因,,未采集评论、互动或二创数据,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,channel_fit,传播渠道适配度,2,现场演出与媒体报道匹配其乐队/创作呈现。,C010-S001;C010-S002,,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,era_theme_relevance,时代主题关联度,2,报道明确以传统乐器当代化/数字电声为主题。,C010-S001,,研究助手（初编）,2026-10-30
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,sustainability,传播持续性,3,2000年来华，2013年组建乐队，2019年仍有报道，持续超过3年。,C010-S001,,研究助手（初编）,2026-10-30

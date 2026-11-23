@@ -1,0 +1,26 @@
+﻿batch_id,song_id,song_title,search_executed,search_query,search_date,source_url,original_page_opened,body_reviewed,evidence_status,evidence_grade,review_status,review_reason
+batch4_initial8,1,【二胡】三寸天堂,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://www.erhuschool.tw/5611/,NO,NO,ambiguous_match,C,needs_human,台湾胡琴学院页面，非海外活动；未打开正文
+batch4_initial8,2,【二胡】琴师,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,未找到海外活动
+batch4_initial8,3,一生所爱（Cover 卢冠廷）,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,http://krirkcn.com/home/single?id=74730868531278,YES,YES,performance_confirmed,A,sealed_evidence_pending_human,泰国格乐大学2022元宵晚会，安贝二胡独奏
+batch4_initial8,4,二泉映月,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,未找到海外活动
+batch4_initial8,5,倩女幽魂 (二胡版),YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,ambiguous_match,C,needs_human,微信视频页，非明确海外活动
+batch4_initial8,6,战马奔腾(二胡),YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,未找到海外活动
+batch4_initial8,7,梁祝,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,未找到海外活动
+batch4_initial8,8,江南 (二胡版),YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://m.thepaper.cn/newsDetail_forward_33609468,YES,YES,rejected_match,D,rejected_match,已拒绝：加拿大报道为无锡民族乐团曲目，不含歌曲《江南》
+batch7A,9,牵丝戏（二胡&京胡版）,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,未找到与《牵丝戏》二胡&京胡版直接相关的海外活动
+batch7A,10,神经病之歌 (二胡),YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,未找到与《神经病之歌》二胡版直接相关的海外活动
+batch7A,11,花田错（二胡版）,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,未找到与《花田错》二胡版直接相关的海外活动
+batch7A,12,葬花吟（二胡版）,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://www.xiaohongshu.com/discovery/item/67a168ca000000002a00fa1a,NO,NO,ambiguous_match,C,pending_human_review,小红书帖称‘在牛津把葬花吟和音乐人类学放上舞台’，但页面当前404，无法核验活动、主体与曲目版本
+batch5,13,赛马(二胡独奏),YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://www.daifutv.com/c/index.php?option=com_content&view=article&id=8650:2026&catid=77:japan-news&Itemid=234,YES,YES,performance_confirmed,B,sealed_evidence_pending_human,2026-11-01东京公演，张滨演奏《赛马》
+batch5,14,迴梦游仙 二胡独奏版,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,仅国内音乐会/百科页，无海外活动
+batch5,15,《穿越时空的思念》纯古琴版,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,无海外活动
+batch5,16,《飞雪玉花》纯古琴版,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,无海外活动
+batch5,17,【古筝】万蝶振翅,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://www.bilibili.com/video/BV1x1t1z4EAb/,NO,NO,ambiguous_match,C,needs_human,B站西班牙/英国街头古筝视频，未核验主体
+batch5,18,不染 古琴版,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,迪拜古琴雅集未点名《不染》
+batch5,19,关山月,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://www.xiaohongshu.com/discovery/item/67fef6a8000000001e007e0b,NO,NO,ambiguous_match,C,needs_human,小红书北美琴社伯克利帖，未打开正文
+batch5,20,初见 (古琴版）（翻自 余昭源）,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,无海外活动
+batch5,21,半山听雨,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,无海外活动
+batch5,22,卧龙吟（古琴版）,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://www.bilibili.com/video/BV1A24y1u7w3/,NO,NO,ambiguous_match,C,needs_human,B站伦敦幽兰琴社雅集视频，未打开正文
+batch5,23,平沙落雁,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,无新增海外证据；CASE008已有program_listed不重复计
+batch5,24,广陵散 (古琴独奏),YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,https://lapost.us/?p=84999,YES,YES,performance_confirmed,B,sealed_evidence_pending_human,2026-10-30南加州大学课堂，马玢完整演奏《广陵散》
+batch5,25,梅花三弄,YES,曲名 + 海外演出；曲名 + university/workshop/festival,2026-11-04/05,,NO,NO,no_relevant_result_after_search,,no_result,无新增海外证据；CASE008已有program_listed不重复计

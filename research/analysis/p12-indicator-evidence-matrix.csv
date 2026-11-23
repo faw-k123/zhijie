@@ -1,0 +1,51 @@
+﻿candidate_id,indicator_id,status,source_ids,reason
+P12-C001,emotional_resonance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C001,timbre_identity,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C001,story_explainability,potentially_supported,P12-S001,有活动/节目/合作来源，但尚未正式评分。
+P12-C001,cross_cultural_adaptation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C001,education_support,potentially_supported,P12-S001,有活动/节目/合作来源，但尚未正式评分。
+P12-C001,bridge_role,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C001,audience_participation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C001,channel_fit,potentially_supported,P12-S001,有活动/节目/合作来源，但尚未正式评分。
+P12-C001,era_theme_relevance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C001,sustainability,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C002,emotional_resonance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C002,timbre_identity,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C002,story_explainability,potentially_supported,P12-S002,有活动/节目/合作来源，但尚未正式评分。
+P12-C002,cross_cultural_adaptation,potentially_supported,P12-S002,有活动/节目/合作来源，但尚未正式评分。
+P12-C002,education_support,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C002,bridge_role,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C002,audience_participation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C002,channel_fit,potentially_supported,P12-S002,有活动/节目/合作来源，但尚未正式评分。
+P12-C002,era_theme_relevance,potentially_supported,P12-S002,有活动/节目/合作来源，但尚未正式评分。
+P12-C002,sustainability,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C003,emotional_resonance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C003,timbre_identity,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C003,story_explainability,potentially_supported,P12-S003,有活动/节目/合作来源，但尚未正式评分。
+P12-C003,cross_cultural_adaptation,potentially_supported,P12-S003,有活动/节目/合作来源，但尚未正式评分。
+P12-C003,education_support,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C003,bridge_role,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C003,audience_participation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C003,channel_fit,potentially_supported,P12-S003,有活动/节目/合作来源，但尚未正式评分。
+P12-C003,era_theme_relevance,potentially_supported,P12-S003,有活动/节目/合作来源，但尚未正式评分。
+P12-C003,sustainability,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,emotional_resonance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,timbre_identity,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,story_explainability,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,cross_cultural_adaptation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,education_support,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,bridge_role,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,audience_participation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,channel_fit,potentially_supported,P12-S004,有活动/节目/合作来源，但尚未正式评分。
+P12-C004,era_theme_relevance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C004,sustainability,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,emotional_resonance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,timbre_identity,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,story_explainability,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,cross_cultural_adaptation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,education_support,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,bridge_role,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,audience_participation,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,channel_fit,potentially_supported,P12-S005,有活动/节目/合作来源，但尚未正式评分。
+P12-C005,era_theme_relevance,unscoreable,,现有来源不能直接支持该指标；保留 null。
+P12-C005,sustainability,unscoreable,,现有来源不能直接支持该指标；保留 null。

@@ -1,0 +1,41 @@
+﻿case_id,case_type,analysis_sample,review_status,source_count,distinct_publisher_labels,normalized_publisher_count,same_agency_risk,publishers,source_ids,valid_scores,null_scores,evidence_limitations
+CASE001,foreign_individual_cross_cultural,pending_review,B,3,3,3,NO,CGTN（Li Jianhua）；Eliott Tordo Erhu Player 二胡（YouTube频道）；人民网-国际频道（盛霜）,C001-S001;C001-S002;C001-S003,10,0,海外演出地点未逐场核验；YouTube/中国巡演与海外现场混在一起
+CASE002,overseas_institution_ensemble,extended_cross_cultural,B,2,2,2,NO,"CGTN；US-China Music Institute, Bard College Conservatory of Music",C002-S001;C002-S002,7,3,演奏者国籍仅部分可核；缺少曲目单与上座率
+CASE003,cross_cultural_ensemble,extended_cross_cultural,B,2,2,2,NO,巫谢慧（WeiWei Wuu）官方网站；日本中文导报,C003-S001;C003-S002,9,1,团体成员个人身份未逐人建档；缺少票务与受众原始反馈
+CASE004,foreign_individual_cross_cultural,extended_cross_cultural,B,3,3,3,NO,Jeremy Moyer (Bandcamp)；Shanghai Municipal Government；South China Morning Post,C004-S001;C004-S002;C004-S003,6,4,海外演出地点未逐场核验；缺少受众反馈
+CASE005,foreign_individual_cross_cultural,strict_individual,B,2,1,1,YES,ausland Berlin,C005-S001;C005-S002,6,4,传统曲目单未公开；受众评论未采集
+CASE006,foreign_individual_cross_cultural,strict_individual,B,3,3,3,NO,Minnesota Public Radio (MPR News)；Star Tribune；环球网 / 新浪转载,C006-S001;C006-S002;C006-S003,8,2,评论原文未采集；曲目单与上座率缺失
+CASE007,foreign_individual_cross_cultural,pending_review,B,2,2,2,NO,Colin Huehns；Royal Academy of Music Library,C007-S001;C007-S002,7,3,主要依据个人官网；独立媒体与受众反馈不足
+CASE008,overseas_institution_education,extended_cross_cultural,B,2,2,2,NO,UK Chinese Music；欧洲时报英国版,C008-S001;C008-S002,7,3,个人演奏者名单与国籍未逐人核实；机构规模数据来自单一媒体
+CASE009,cross_cultural_ensemble,extended_cross_cultural,B,2,1,1,YES,"US-China Music Institute, Bard College",C009-S001;C009-S002,7,3,成员国籍未逐人核实；缺少上座率与受众反馈
+CASE010,foreign_individual_cross_cultural,extended_cross_cultural,B,2,2,2,NO,Djang San；人民网德语视界（搜狐号）,C010-S001;C010-S002,6,4,海外演出记录缺失；现场以中国境内为主
+CASE011,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,Duke University Department of Music,CAND001-S001,0,10,成员国籍、具体演出、受众反馈未核
+CASE012,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,UCLA Chinese Music,CAND002-S001,0,10,成员身份、演出日期、曲目未核
+CASE013,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,University of Michigan LSA,CAND003-S001,0,10,演奏者名单、国籍、曲目未核
+CASE014,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,Indiana University News,CAND004-S001,0,10,具体中国乐器、演奏者身份、演出时间未核
+CASE015,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,University of Illinois Chinese Music,CAND005-S001,0,10,活动规模、演奏者、曲目未核
+CASE016,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,University of Pittsburgh Department of Music,CAND006-S001,0,10,成员身份、公开演出、受众反馈未核
+CASE017,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,Ohio State University Office of Student Life,CAND007-S001,0,10,组织活动记录、成员、演出未核
+CASE018,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,Williams College,CAND008-S001,0,10,PDF 内容、演奏者国籍、受众未核
+CASE019,overseas_institution_ensemble,extended_cross_cultural,B,1,1,1,NO,Chinese Music Ensemble of New York,CAND009-S001,0,10,成员国籍、具体演出、曲目未核
+CASE020,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,Brooklyn Public Library,CAND010-S001,0,10,演奏者、曲目、受众反馈未核
+CASE021,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,The Music Center,CAND011-S001,0,10,成员身份、具体场次、受众反馈未核
+CASE022,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,Toronto Chinese Orchestra,CAND012-S001,0,10,成员、演出记录、曲目未核
+CASE023,overseas_institution_ensemble,extended_cross_cultural,B,1,1,1,NO,Vancouver Chinese Music Ensemble,CAND013-S001,0,10,成员身份、具体演出、受众反馈未核
+CASE024,overseas_institution_ensemble,extended_cross_cultural,B,1,1,1,NO,Mount Royal University Theatres,CAND014-S001,0,10,成员国籍、曲目、上座率、评论未核
+CASE025,overseas_institution_ensemble,extended_cross_cultural,B,1,1,1,NO,The Seattle Times,CAND015-S001,0,10,演奏者身份、曲目、受众反馈未核
+CASE026,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,Chung Wah Association,CAND016-S001,0,10,成员、演出、曲目未核
+CASE027,overseas_institution_ensemble,extended_cross_cultural,B,1,1,1,NO,Chao Feng Chinese Orchestra,CAND017-S001,0,10,PDF 未逐页核，演奏者/曲目未核
+CASE028,overseas_institution_ensemble,extended_cross_cultural,B,1,1,1,NO,Move Records,CAND018-S001,0,10,演出记录、成员身份未核
+CASE029,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,China Culture / 中国文化网,CAND019-S001,0,10,成员、演出、乐器、受众反馈未核
+CASE030,overseas_institution_education,extended_cross_cultural,B,1,1,1,NO,UK Chinese Music,CAND020-S001,0,10,具体演出、演奏者、受众反馈未核
+CASE031,overseas_institution_ensemble,extended_cross_cultural,B,1,1,1,NO,VisitBerlin,CAND022-S001,0,10,演出团体、演奏者、曲目、受众未核
+CASE032,foreign_individual_cross_cultural,extended_cross_cultural,B,2,2,2,NO,La Vida Liverpool；San Marino RTV,CAND026-S001;CAND026-S003,0,10,香港成长，是否属于项目“外国个人”口径未定；需身份依据
+CASE033,foreign_individual_cross_cultural,extended_cross_cultural,B,2,2,2,NO,ABC Listen；University of Sydney,CAND028-S001;CAND028-S002,0,10,身份与族裔口径未定；需确认外国个人身份与具体演出
+CASE034,cross_cultural_ensemble,extended_cross_cultural,B,1,1,1,NO,KALX Berkeley,CAND031-S001,0,10,Abigail 不演奏中国乐器，不能作为严格外国个人；可作扩展合作线索
+CASE035,foreign_individual_cross_cultural,extended_cross_cultural,B,4,2,2,YES,Duisburger Philharmoniker；Valeska Gleser（演出日历）,CAND033-S001;CAND033-S002;CAND033-S003;CAND033-S004,0,10,身份/国籍或项目身份标准未确认；不能因姓名或族裔排除。 节目单已证明古筝演奏。
+CASE036,overseas_institution_education,extended_cross_cultural,B,3,2,2,YES,人民网-国际频道；新華社 / 新華網日本語,CAND036-S001;CAND036-S002;CAND036-S003,0,10,乐团成员国籍与具体演奏者未核；可能以在日华人为主
+CASE037,cross_cultural_ensemble,extended_cross_cultural,B,1,1,1,NO,福建日报（人民日报客户端转载）,P12-S002,3,7,中国团队；观众引语为记者转述；无独立受众调查。
+CASE038,cross_cultural_ensemble,extended_cross_cultural,B,1,1,1,NO,Centro Cultural de China en México,P12-S003,3,7,含中国二胡演奏者；掌声为记者描述；无独立受众调查。
+CASE039,cross_cultural_ensemble,extended_cross_cultural,B,2,2,1,YES,Xinhua；Xinhua Arabic,P13-S001;P13-S002,9,1,Xinhua 同源多语种，不是独立多来源；无量化受众数据；无个人演奏者名单
+CASE040,cross_cultural_ensemble,extended_cross_cultural,B,2,2,1,YES,Xinhua / People's Daily Online；Xinhua Spanish,P12-S004;P13-S004,6,4,Xinhua 同源多语种，不是独立多来源；无量化受众数据；无逐位演奏者名单

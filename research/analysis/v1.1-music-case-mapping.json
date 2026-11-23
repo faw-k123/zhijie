@@ -1,0 +1,78 @@
+{
+  "data_version": "v1.1",
+  "library": "traditional_song",
+  "mapping_count": 10,
+  "mapped_count": 0,
+  "mappings": [
+    {
+      "case_id": "CASE001",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE002",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE003",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE004",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE005",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE006",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE007",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE008",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE009",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    },
+    {
+      "case_id": "CASE010",
+      "candidate_id": null,
+      "music_id": null,
+      "mapping_status": "no_exact_work_match",
+      "mapping_reason": "案例 work 字段没有可与 traditional_song 曲名精确匹配的曲目；未按乐器/国家模糊匹配。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿candidate_id,indicator,previous_score_status,new_score_status,previous_approval_status,new_approval_status,final_score,approver,approval_date,source_id,audit_note
+P12-C002,story_explainability,revised_draft_pending_approval,approved,pending,approved,1,yxh,2026-11-01,P12-S002,按 P12.4.4 审批记录同步；未修改历史版本。
+P12-C002,cross_cultural_adaptation,revised_draft_pending_approval,approved,pending,approved,2,yxh,2026-11-01,P12-S002,按 P12.4.4 审批记录同步；未修改历史版本。
+P12-C002,channel_fit,revoked_pending_approval,revoked_approved,pending,approved_revoked,,yxh,2026-11-01,,按 P12.4.4 审批记录同步；未修改历史版本。
+P12-C002,era_theme_relevance,revised_draft_pending_approval,approved,pending,approved,2,yxh,2026-11-01,P12-S002,按 P12.4.4 审批记录同步；未修改历史版本。
+P12-C003,story_explainability,revised_draft_pending_approval,approved,pending,approved,1,yxh,2026-11-01,P12-S003,按 P12.4.4 审批记录同步；未修改历史版本。
+P12-C003,cross_cultural_adaptation,revised_draft_pending_approval,approved,pending,approved,2,yxh,2026-11-01,P12-S003,按 P12.4.4 审批记录同步；未修改历史版本。
+P12-C003,channel_fit,revoked_pending_approval,revoked_approved,pending,approved_revoked,,yxh,2026-11-01,,按 P12.4.4 审批记录同步；未修改历史版本。
+P12-C003,era_theme_relevance,revised_draft_pending_approval,approved,pending,approved,1,yxh,2026-11-01,P12-S003,按 P12.4.4 审批记录同步；未修改历史版本。

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.8",
+  "version": "v1.8",
+  "status": "reviewed",
+  "base_version": "v1.7",
+  "active_version": "v1.8",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20",
+  "case_count": 80,
+  "approved_case_count": 80,
+  "strict_approved_case_count": 10,
+  "extended_approved_case_count": 70,
+  "source_count": 148,
+  "score_count": 800,
+  "valid_score_count": 474,
+  "null_score_count": 326,
+  "music_candidate_count": 20,
+  "regional_strategy_count": 6,
+  "files": {
+    "cases.json": {
+      "sha256": "f75bc870509a16912f1289a9a27194ceb39b94cc472e73e7403bdc13140bdf85",
+      "bytes": 362849
+    },
+    "success_factors.json": {
+      "sha256": "a7f2541bc0b5be4dfc9bc070030b507412b020dd71a9061ea0819f2bea6a91ee",
+      "bytes": 415877
+    },
+    "music_scores.json": {
+      "sha256": "8f5d4fee44888dae6bdfe2ef79f85b922cd4cb33a99028096f0323ec8698b1d3",
+      "bytes": 25370
+    },
+    "regional_strategies.json": {
+      "sha256": "d18d6f4f4b7effa11502df8a74ec701a7f3b60c8580a17353929ec22812896ca",
+      "bytes": 13415
+    },
+    "sources.json": {
+      "sha256": "b1ae5237c3766d3c0da1b9af47cc3dc218b4d2403dca8f95272651eddbb8d513",
+      "bytes": 98964
+    }
+  },
+  "note": "80个案例全部参与案例库、国家覆盖、因素统计和歌曲对应分析；新增20例优先补充原低样本国家。"
+}

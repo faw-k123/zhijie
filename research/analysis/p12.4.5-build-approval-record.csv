@@ -1,0 +1,5 @@
+﻿item,decision,approver,approval_date,notes
+build_v1.5_draft,APPROVED,yxh,2026-11-01,同意构建独立候选版本
+CASE037_P12-C002,APPROVED,yxh,2026-11-01,编号唯一性未发现冲突
+CASE038_P12-C003,APPROVED,yxh,2026-11-01,编号唯一性未发现冲突
+active_version_switch,NEEDS_RE_REVIEW,yxh,2026-11-01,构建校验后再单独决定

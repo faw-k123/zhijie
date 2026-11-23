@@ -1,0 +1,22 @@
+﻿check_id,category,check,actual,status
+F01,数据完整性,案例数=38,38,PASS
+F02,数据完整性,来源关系=58,58,PASS
+F03,数据完整性,指标记录=380,380,PASS
+F04,数据完整性,有效评分=79,79,PASS
+F05,数据完整性,null=301,301,PASS
+F06,编号,CASE037/038唯一且对应正确,CASE037=P12-C002; CASE038=P12-C003,PASS
+F07,审批,6条 approved,6,PASS
+F08,审批,2条 approved_revoked 且 score=null,2,PASS
+F09,审批,12条 not_applicable 且 score=null,12,PASS
+F10,历史保护,原有360条与v1.2逐条一致,0差异,PASS
+F11,版本,四个数据文件 data_version=v1.5,v1.5,PASS
+F12,版本,manifest/文件哈希匹配,22/22,PASS
+F13,API,v1.2 CASE001 审批字段缺失时正常,200，字段为null,PASS
+F14,API,v1.5 CASE037 审批字段,approved/revoked正确,PASS
+F15,API,v1.5 CASE038 审批字段,approved/revoked正确,PASS
+F16,API,v1.5 列表/筛选/分页,38/34/2；分页正常,PASS
+F17,前端,审批标签与评分标签展示,已实现,PASS
+F18,前端,撤回评分显示未知,null,PASS
+F19,备份,21文件/950505字节/21哈希,"21/950,505/21",PASS
+F20,隔离激活,v1.5 status=38案例,v1.5/38,PASS
+F21,正式环境,active_version=v1.2,v1.2,PASS

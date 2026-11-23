@@ -1,0 +1,18 @@
+﻿dataset_id,source_name,storage,schema,table,rows,primary_key,foreign_keys,join_keys,fields,contains_pii,research_allowed,key_missing_rate,notes
+DS01,传统音乐曲库,SQL Server,dbo,traditional_song,302,id,category_id -> category.id（未验证）,music_id = id,"id,title,category_id,genre,audio_url,cover_url",no,yes,genre/audio/cover 部分为空,音乐库主表；只读
+DS02,用户表（行为库）,SQL Server,behave,Users,17,user_id,无,user_id,"user_id,username,country,register_date,password",yes（username/password）,aggregate_only,country 2/17=11.8%,不导出用户名/密码；与 auth_user 无稳定映射
+DS03,播放记录,SQL Server,behave,PlayRecords,12,record_id,user_id -> behave.Users.user_id；song_id -> traditional_song.id（字符串转换）,"user_id, song_id","record_id,user_id,song_id,play_duration,play_time",yes（user_id）,aggregate_only,0%,仅3个用户、8首歌曲；不能支撑聚类
+DS04,浏览记录,SQL Server,behave,ViewRecords,0,view_id,target_id 可为视频/内容，未验证,"user_id,target_id","view_id,user_id,target_type,target_id,view_time",yes（user_id）,aggregate_only,无数据,空表；无法验证视频-音乐映射
+DS05,人格测试（行为库）,SQL Server,behave,PersonalityTests,10,test_id,user_id -> behave.Users.user_id,user_id,"test_id,user_id,personality_type,result_detail,test_date","yes（user_id,result_detail）",aggregate_only,待核,小样本
+DS06,国风人格测试,SQL Server,dbo,guofeng_persona_test,7,id,user_id -> behave.Users.user_id（6/7匹配）,user_id,"id,user_id,d1-d6,tag_scores,matched_personas,answers,test_date","yes（user_id,answers）",aggregate_only,tag_scores 0%,tag_scores 是测试结果，不是 tag_rating 表
+DS07,文化圈测试,SQL Server,dbo,cultural_circle_test,10,id,user_id -> behave.Users.user_id（10/10匹配）,user_id,"id,user_id,f1-f7,matched_circles,answers,test_date","yes（user_id,answers）",aggregate_only,待核,小样本
+DS08,用户资料,SQL Server,dbo,profile,1,id,无稳定 user_id；username 不能可靠关联,username（不可靠）,"id,username,openness,conscientiousness,extraversion,agreeableness,neuroticism,tags,description,update_time",yes（username/description）,no_pii_export,tags 0%,无稳定用户键；1行，不能作为用户特征主表
+DS09,评论,SQL Server,dbo,comment,192882,id,song_id -> traditional_song.id（192882/192882匹配）,song_id；无 user_id,"id,song_id,content,likes,sentiment_score,polarity,keywords,source,country,comment_time",content 可能含个人信息,aggregate_only,country 18601/192882=9.64%；song_id 0%,可做音乐级情感/国家聚合；不能做用户级偏好
+DS10,情感时序,SQL Server,dbo,emotion_time_series,81388,id,song_id -> traditional_song.id（302/302歌曲匹配）,song_id,"id,song_id,date,positive_count,negative_count,neutral_count,total_count,positive_rate,negative_rate,emotion_index",no,yes,待核,音乐级聚合；可做情感趋势
+DS11,点赞,SQL Server,dbo,song_like,9,id,user_id -> behave.Users.user_id（8/9）；song_id -> traditional_song.id（3/9）,"user_id,song_id","id,user_id,song_id,reaction_type,created_at",yes（user_id）,aggregate_only,0%,歌曲ID多为外部ID，不能强行关联
+DS12,收藏歌曲,SQL Server,dbo,favorite_song,5,id,folder_id -> favorite_folder.id；song_id -> traditional_song.id（1/5）,"song_id,folder_id","id,song_id,title,intro,mv_url,added_at,folder_id,audio_url,cover_url",indirect,aggregate_only,0%,仅1/5歌曲匹配；不能作为用户-音乐主表
+DS13,收藏夹,SQL Server,dbo,favorite_folder,8,id,user_id -> behave.Users.user_id（6/8）,user_id,"id,user_id,name,icon_url,created_at",yes（user_id）,aggregate_only,0%,用户匹配不完整
+DS14,Django 用户表,SQL Server,dbo,auth_user,0,id,无,id（无数据）,"id,password,username,email,is_staff,date_joined",yes,no_pii_export,100%空表,空表；不能作为用户主表
+DS15,新用户行为库,SQL Server,user_behave,user_info/play_record/view_record/personality_test,0,user_id/record_id,未验证,"user_id,song_id",与 behave 类似,yes,no_data,100%空表,四张表均为空
+DS16,tag_rating / tag_ratings,SQL Server,—,—,0,—,—,—,—,—,no,100%,数据库中不存在该表；用户所称 tag_rating 数据无法盘点
+DS17,Neo4j 知识图谱,Neo4j,—,—,0,—,—,—,—,待核,no,unavailable,本机 7687 未监听；未读取/未修改

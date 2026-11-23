@@ -1,0 +1,21 @@
+{
+  "audited_at": "2026-11-03T16:18:00+08:00",
+  "active_version": "v1.6",
+  "case_count": 40,
+  "source_relations": 62,
+  "indicator_records": 400,
+  "valid_scores": 94,
+  "null_scores": 306,
+  "song_count": 302,
+  "mapping_count": 5,
+  "region_rows": 1812,
+  "manifest_sha256": "ad789f89352c7e73f7d1d3f5f2ff4d9cf014f1fe04a7d8cfe1d1f95a7dd5741a",
+  "v16_files": {
+    "cases.json": "40371fe01d45a572b24df8ce55856e1449aae1cfbacd09a220c9f193163d4f38",
+    "success_factors.json": "4d10bf861abf1c88a1ba73ae58325b9f2ff222341625ee8985e9ae33ea450a6a",
+    "sources.json": "4fa5d89ff62d591af6a1ca7b23c4ecdbf48176eb00d9bf197ce21804bdcbf1a1",
+    "music_scores.json": "041b86c0e0d215f47a19608b47f6018bc4f78443139067bb49f6b8da776974e2",
+    "regional_strategies.json": "6e98a17e7fd75d6043ba15a146173006f48ef371c7a1d1e79c3b2586f1a72377"
+  },
+  "notes": "P17 baseline; no writes"
+}

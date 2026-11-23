@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.0",
+  "generated_at": "2026-10-30T10:30:00+08:00",
+  "case_count": 3,
+  "cases": [
+    {
+      "case_id": "CASE001",
+      "performer": "Eliott Tordo（艾略特·托多）",
+      "performer_type": "外国个人演奏者",
+      "country": "法国",
+      "region": "欧洲",
+      "subregion": "西欧",
+      "instrument": [
+        "二胡"
+      ],
+      "work": "影视/游戏配乐改编为主（如《角斗士》主题曲 Now We Are Free）；完整演出曲目单未公开（未知）",
+      "music_type": "民族器乐（跨文化改编）",
+      "event_date_text": "2016年起学习；2020年起视频走红；2023年11月中国12城巡演",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "个人 YouTube/哔哩哔哩 发布；2023中国巡演；每周授课",
+      "venue": "法国格勒诺布尔（学习地）；中国12座城市（巡演）",
+      "channel": [
+        "网络视频",
+        "线下音乐会",
+        "教学"
+      ],
+      "target_audience": [
+        "西方普通听众",
+        "影视配乐听众",
+        "二胡学习者"
+      ],
+      "learning_motivation": "2016年在电影主题曲中首次听到二胡，被音色吸引；起初并不知道它来自中国",
+      "adaptation": "用二胡演奏西方影视/游戏/摇滚曲目，自述风格“更史诗、更宏大”（epic and grand）",
+      "era_theme": [
+        "数字技术与传统音乐",
+        "青年文化交流",
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及其与宗教群体的关联）",
+      "feedback": "已获6条可核验评论原文（人民网2条、CGTN1条、YouTube3条），见05表；负面反馈未采集（未知）",
+      "success_evidence": "单条视频400万+（截至2021-09-26，人民网）；单条视频915万次观看、13万点赞、3289条评论（截至2026-10-25，YouTube页面）；2023年11月中国12城巡演；每周授课十几名学生，学生来自法/美/加/英/巴西；人民网、CGTN报道",
+      "research_notes": "评论完整度高但仅覆盖1条视频；受众国籍线索缺失；无获奖记录、未见进入学校课程（未知）",
+      "summary": "法国二胡演奏者，2016年因影视配乐中的二胡音色开始学习，通过YouTube/哔哩哔哩发布改编视频走红，2023年在中国12城巡演，并每周授课。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "二胡音色",
+        "影视/游戏配乐",
+        "史诗感"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 3,
+      "source_ids": [
+        "C001-S001",
+        "C001-S002",
+        "C001-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "C001-S001",
+          "title": "法国二胡音乐人演绎中国风",
+          "publisher": "人民网-国际频道（盛霜）",
+          "url": "http://world.people.com.cn/n1/2021/0926/c1002-32237068.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2021-09-26",
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "学习动机（影视游戏配乐中听到二胡）、自学方式、单条视频400万+、累计浏览量超千万、每周教授十几名学生、2条受众评论原文",
+          "notes": null
+        },
+        {
+          "source_id": "C001-S002",
+          "title": "A French erhu player reaching out to China",
+          "publisher": "CGTN（Li Jianhua）",
+          "url": "https://newseu.cgtn.com/news/2024-04-30/A-French-erhu-player-reaching-out-to-China-1tcJJTRX0sw/p.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2024-04-30",
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2016年首次听到二胡、语言障碍与自学、YouTube成为influencer、2023年11月中国12城巡演、学生来源国、bridge builder 自述",
+          "notes": null
+        },
+        {
+          "source_id": "C001-S003",
+          "title": "GLADIATOR - Now We Are Free - Erhu & Vocal Epic Cover",
+          "publisher": "Eliott Tordo Erhu Player 二胡（YouTube频道）",
+          "url": "https://www.youtube.com/watch?v=2SXjOj1u1ZE",
+          "citation": null,
+          "source_type": "视频平台",
+          "published_at": null,
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "截至采集日：915万次观看、13万点赞、3289条评论；3条受众评论原文；频道简介自述为法国音乐人",
+          "notes": "页面显示“约6年前发布”，无法精确到日。"
+        }
+      ],
+      "updated_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE002",
+      "performer": "美国巴德学院音乐学院 美中音乐研习院（US-China Music Institute）/ Bard Chinese Ensemble",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "纽约",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "“Guzheng Tianxia”音乐会曲目单未公开（未知）；乐团以中国当代民族管弦乐作品为主（官网）",
+      "music_type": "民族器乐（当代作品与跨编制改编）",
+      "event_date_text": "2026-04-30",
+      "event_start_date": "2026-04-30",
+      "event_end_date": "2026-04-30",
+      "event_name": "“Guzheng Tianxia”古筝音乐会（研习院年度中国音乐会议期间）",
+      "venue": "美国纽约 China Institute of America",
+      "channel": [
+        "线下音乐会",
+        "学校教育",
+        "媒体"
+      ],
+      "target_audience": [
+        "纽约观众",
+        "学者",
+        "文化爱好者"
+      ],
+      "learning_motivation": "学生 Kendall Griffith 来自波士顿，主修琵琶，已学习琵琶数年并学习中文，师从中央音乐学院张红艳",
+      "adaptation": "Bard Chinese Ensemble 以中西混合编制重新改编中国当代民族管弦乐作品，呈现“美国首演”",
+      "era_theme": [
+        "丝绸之路与文明交流",
+        "非遗保护",
+        "青年文化交流"
+      ],
+      "religion_culture": "无（材料未涉及宗教背景）",
+      "feedback": "报道未引述观众评论；仅记录到场200余人（未知具体反馈）",
+      "success_evidence": "200余人到场（CGTN，2026-05-08）；CGTN报道；年度会议机制；学院设中国乐器双学位项目（官网）；北美青年古筝演奏者参与合奏（CGTN图注）",
+      "research_notes": "演出曲目单、上座率、观众反馈均缺失；演奏者国籍仅部分可核（学生简介可核1人）；原表补充：学院乐团另有琵琶、二胡、笛子、笙、中阮、箜篌",
+      "summary": "美国巴德学院音乐学院美中音乐研习院举办“Guzheng Tianxia”古筝音乐会，以中西混合编制改编中国当代民族管弦乐作品，并依托中国乐器双学位项目与年度会议形成机构化传播。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "古筝音色",
+        "中西混合编制",
+        "学院教育"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C002-S001",
+        "C002-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C002-S001",
+          "title": "Guzheng concert bridges cultures in New York",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-05-08/Guzheng-concert-bridges-cultures-in-New-York-1MYAIfctEUo/p.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2026-05-08",
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2026-04-30 纽约 China Institute of America；到场200余人；参演者袁莎、许菱子、夏菁；图注明确“young North American guzheng performers”参与合奏",
+          "notes": null
+        },
+        {
+          "source_id": "C002-S002",
+          "title": "Bard Chinese Ensemble 巴德民乐室内乐",
+          "publisher": "US-China Music Institute, Bard College Conservatory of Music",
+          "url": "https://www.barduschinamusic.org/bard-chinese-ensemble",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "乐团定位（中西混合编制、中国当代民族管弦乐）；学生名单与简介（Kendall Griffith：波士顿出身、琵琶专业、学中文、师从张红艳）；双学位项目信息",
+          "notes": "官网未标注发布日期。"
+        }
+      ],
+      "updated_at": "2026-10-25"
+    },
+    {
+      "case_id": "CASE003",
+      "performer": "2026二胡群英会：巫谢慧 与 5名日本青年二胡演奏者",
+      "performer_type": "中外合作演出",
+      "country": "日本",
+      "region": "东亚",
+      "subregion": "东京",
+      "instrument": [
+        "二胡"
+      ],
+      "work": "中国传统经典曲、日本动漫曲、摇滚《敞开双臂》、巫谢慧原创《新天地》《衡山霓虹》《月亮与我》《上海小夜曲》《Dancing7》",
+      "music_type": "民族器乐（中日混编曲目）",
+      "event_date_text": "2026-10-03",
+      "event_start_date": "2026-10-03",
+      "event_end_date": "2026-10-03",
+      "event_name": "2026二胡群英会（二胡サミット），主办：株式会社To Hearts、Capital Village",
+      "venue": "日本东京涩谷",
+      "channel": [
+        "线下音乐会",
+        "媒体"
+      ],
+      "target_audience": [
+        "日本观众"
+      ],
+      "learning_motivation": "五名演奏者均为日本人，基本从小学时起喜欢二胡，有人赴中央音乐学院二胡专业留学，现为日本的专业二胡演奏者/教师",
+      "adaptation": "中日曲目混编，含动漫曲与摇滚曲改编；设置“峰会”互动环节",
+      "era_theme": [
+        "青年文化交流",
+        "丝绸之路与文明交流",
+        "数字技术与传统音乐"
+      ],
+      "religion_culture": "无（材料未涉及宗教背景）",
+      "feedback": "报道未引述观众评论；现场互动有笑声记录（属记者描述，非受众原话）（未知）",
+      "success_evidence": "5名日本专业演奏者同台；时隔17年再度举办；形成系列演出机制；中文导报页面显示阅读量10.3万（截至2026-10-25）",
+      "research_notes": "无受众评论原文；上座率、票房未知；第二来源为演奏者本人渠道（可靠性中）",
+      "summary": "2026年10月3日在东京涩谷举行的二胡群英会，巫谢慧与5名日本青年二胡演奏者同台，曲目混合中国传统曲、日本动漫曲与摇滚改编，并形成系列演出机制。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "二胡音色",
+        "动漫/摇滚改编",
+        "青年同台"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C003-S001",
+        "C003-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C003-S001",
+          "title": "巫谢慧携年轻二胡乐手奏响2026二胡群英会",
+          "publisher": "日本中文导报",
+          "url": "http://m.chinanews.com/wap/detail/chs/zw/hm6acc981b1446f500519e1684.shtml",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2026-10-12",
+          "accessed_at": "2026-10-25",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "2026-10-03 东京涩谷；5名日本演奏者姓名；曲目构成；学习动机；时隔17年再办；页面阅读量10.3万",
+          "notes": null
+        },
+        {
+          "source_id": "C003-S002",
+          "title": "ウェイウェイ・ウー メールマガジン（2026年3月11日号）",
+          "publisher": "巫谢慧（WeiWei Wuu）官方网站",
+          "url": "https://weiwei-wuu.com/archives/3729",
+          "citation": null,
+          "source_type": "演奏者本人",
+          "published_at": "2026-03-11",
+          "accessed_at": "2026-10-25",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "预告10/3（周六）二胡サミット；列出系列演出“二胡ヌーヴォー Vol.2”五场及5名青年演奏者（本多ゆとり、高山賢人、桜礼、峠岡慎太郎、桐子）",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-10-25"
+    }
+  ]
+}

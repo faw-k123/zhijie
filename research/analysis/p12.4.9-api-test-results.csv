@@ -1,0 +1,7 @@
+﻿test_id,target,test,result,detail
+API-01,v1.2 CASE001,旧版本详情仍返回10指标和原字段,PASS,approval_status/score_status/approver/approval_date 存在且为 null
+API-02,v1.5 CASE037,审批字段返回,PASS,story approved/1; channel approved_revoked/null; approver=yxh
+API-03,v1.5,案例列表与详情,PASS,eligible=38; list total=38; CASE037 valid_count=3
+API-04,v1.5,样本筛选/统计构建,PASS,38案例统计构建成功
+API-05,v1.5,音乐潜力与区域方案接口,PASS,均返回 pending，不崩溃
+API-06,v1.2,现有active API兼容,PASS,active v1.2 / 36案例

@@ -1,0 +1,11 @@
+﻿case_id,performer,country,region,instrument,case_type,analysis_sample,review_status,source_count,emotional_resonance,timbre_identity,story_explainability,cross_cultural_adaptation,education_support,bridge_role,audience_participation,channel_fit,era_theme_relevance,sustainability
+CASE001,Eliott Tordo（艾略特·托多）,法国,欧洲,二胡,foreign_individual_cross_cultural,pending_review,B,3,3,2,3,3,2,2,2,3,3,3
+CASE002,美国巴德学院音乐学院 美中音乐研习院（US-China Music Institute）/ Bard Chinese Ensemble,美国,北美,古筝,overseas_institution_ensemble,extended_cross_cultural,B,2,,,2,2,3,3,,2,2,2
+CASE003,2026二胡群英会：巫谢慧 与 5名日本青年二胡演奏者,日本,东亚,二胡,cross_cultural_ensemble,extended_cross_cultural,B,2,,1,2,3,2,2,2,2,3,2
+CASE004,Jeremy Moyer（莫杰明）,加拿大,北美,二胡/秦琴,foreign_individual_cross_cultural,extended_cross_cultural,B,3,,,2,2,,2,,2,2,3
+CASE005,Clare Cooper,澳大利亚,其他,古筝,foreign_individual_cross_cultural,strict_individual,B,2,,,1,2,,2,,2,2,3
+CASE006,Jarrelle Barton,美国,北美,古筝,foreign_individual_cross_cultural,strict_individual,B,3,,1,3,1,,2,1,3,2,3
+CASE007,Colin Huehns,英国,欧洲,二胡,foreign_individual_cross_cultural,strict_individual,B,2,,,3,2,3,3,,3,2,3
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,英国,欧洲,古琴,overseas_institution_education,extended_cross_cultural,B,2,,,2,2,3,3,,3,3,3
+CASE009,巴德中西乐团（Bard East/West Ensemble）,美国,北美,古琴/二胡/琵琶/古筝/唢呐/管子,cross_cultural_ensemble,extended_cross_cultural,B,2,,,2,3,3,3,,2,3,3
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,法国,欧洲,中阮/琵琶,foreign_individual_cross_cultural,extended_cross_cultural,B,2,,,2,3,,2,,2,2,3

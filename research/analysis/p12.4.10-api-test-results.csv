@@ -1,0 +1,10 @@
+﻿test_id,target,test,actual,status
+API-01,v1.2 CASE001,旧版详情字段,200；审批字段存在且 null,PASS
+API-02,v1.5 CASE037,已批准评分,story=1 approved；cross=2 approved；era=2 approved,PASS
+API-03,v1.5 CASE037,撤回指标,channel=null；approved_revoked；valid_count=3,PASS
+API-04,v1.5 CASE038,审批状态,story=1；cross=2；era=1；channel=null,PASS
+API-05,v1.5,列表/分页,total=38；page_size=10,PASS
+API-06,v1.5,样本筛选,extended=34；strict=2,PASS
+API-07,v1.5,研究构建器,status/statistics/success-factors 成功,PASS
+API-08,v1.5,音乐/区域,均 pending，不崩溃,PASS
+API-09,v1.2,正式环境,active=v1.2 / 36,PASS

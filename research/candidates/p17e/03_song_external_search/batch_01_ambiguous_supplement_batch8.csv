@@ -1,0 +1,7 @@
+﻿song_id,song_title,search_terms_1,search_terms_2,search_date,search_engine,search_status,source_url,page_status,review_conclusion,reason,new_evidence,review_status
+1,三寸天堂,"""三寸天堂"" 海外 演出 官方","""三寸天堂"" 音乐会 节目单 主办方",2026-11-05,web_search,completed,https://www.erhuschool.tw/5611/,unavailable_or_blocked,remain_ambiguous,页面抓取失败；未确认海外活动,NO,pending_human_review
+5,倩女幽魂,"""倩女幽魂"" 海外 演出 官方","""倩女幽魂"" 音乐会 节目单 主办方",2026-11-05,web_search,completed,,unavailable_or_blocked,remain_ambiguous,无原始活动页；视频标题不能替代正文,NO,pending_human_review
+12,葬花吟,"""葬花吟"" 海外 演出 官方","""葬花吟"" 音乐会 节目单 主办方",2026-11-05,web_search,completed,https://www.xiaohongshu.com/discovery/item/67a168ca000000002a00fa1a,unavailable_or_blocked,remain_ambiguous,小红书404；无法核对曲目版本与演出主体,NO,pending_human_review
+17,万蝶振翅,"""万蝶振翅"" 海外 演出 官方","""万蝶振翅"" 音乐会 节目单 主办方",2026-11-05,web_search,completed,https://www.guzheng.cn/jiemu/172389.html,unavailable_or_blocked,remain_ambiguous,页面安全验证；B站验证码；无官方活动记录,NO,pending_human_review
+19,关山月,"""关山月"" 海外 演出 官方","""关山月"" 音乐会 节目单 主办方",2026-11-05,web_search,completed,http://mp.weixin.qq.com/s?__biz=MzA4MzEwODQxMw==&mid=2649958360&idx=1&sn=e6c14a304e46db9bdc796cafc86e95ab,unavailable_or_blocked,remain_ambiguous,微信环境异常验证；无法打开正文；无独立活动页,NO,pending_human_review
+22,卧龙吟,"""卧龙吟"" 海外 演出 官方","""卧龙吟"" 音乐会 节目单 主办方",2026-11-05,web_search,completed,https://www.bilibili.com/video/BV1A24y1u7w3/,unavailable_or_blocked,remain_ambiguous,B站验证码；无法核对演奏者/日期,NO,pending_human_review

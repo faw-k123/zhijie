@@ -1,0 +1,21 @@
+﻿candidate_id,indicator_id,label,score,score_status,evidence,source_ids,missing_reason
+P12-C002,emotional_resonance,情感共鸣,,null,证据不足,[],无独立受众/情感证据
+P12-C002,timbre_identity,音色辨识度,,null,证据不足,[],无录音/音色评论
+P12-C002,story_explainability,故事可解释性,1,evidence_scored_draft,《风打梨》与南音/包容共存节背景可解释。,['P12-S002'],
+P12-C002,cross_cultural_adaptation,跨文化适配度,2,evidence_scored_draft,南音在阿联酋国家包容与共存节演出，属于跨文化场景。,['P12-S002'],
+P12-C002,education_support,教育支持度,,null,证据不足,[],无课程/教学证据
+P12-C002,bridge_role,文化桥梁作用,,null,证据不足,[],团体/合作案例，个人桥梁不适用
+P12-C002,audience_participation,受众参与度,,null,证据不足,[],无受众原话/参与数据
+P12-C002,channel_fit,传播渠道适配,1,evidence_scored_draft,音乐节开幕式/现场演出渠道；无受众效果。,['P12-S002'],
+P12-C002,era_theme_relevance,时代主题关联,2,evidence_scored_draft,活动主题为包容与共存，与文明交流主题直接相关。,['P12-S002'],
+P12-C002,sustainability,传播持续性,,null,证据不足,[],单次活动，无持续记录
+P12-C003,emotional_resonance,情感共鸣,,null,证据不足,[],无独立受众/情感证据
+P12-C003,timbre_identity,音色辨识度,,null,证据不足,[],无录音/音色评论
+P12-C003,story_explainability,故事可解释性,2,evidence_scored_draft,曲目单包含中国与拉美作品，节目叙事清楚。,['P12-S003'],
+P12-C003,cross_cultural_adaptation,跨文化适配度,2,evidence_scored_draft,二胡与墨西哥音乐家、弦乐、打击乐合作。,['P12-S003'],
+P12-C003,education_support,教育支持度,,null,证据不足,[],无课程/教学证据
+P12-C003,bridge_role,文化桥梁作用,,null,证据不足,[],团体/合作案例，个人桥梁不适用
+P12-C003,audience_participation,受众参与度,,null,证据不足,[],无受众原话/参与数据
+P12-C003,channel_fit,传播渠道适配,2,evidence_scored_draft,Bellas Artes/UNAM 两个场地；无受众效果。,['P12-S003'],
+P12-C003,era_theme_relevance,时代主题关联,2,evidence_scored_draft,中秋/中墨文化交流框架。,['P12-S003'],
+P12-C003,sustainability,传播持续性,,null,证据不足,[],单次活动，无持续记录

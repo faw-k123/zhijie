@@ -1,0 +1,3 @@
+﻿case_id,candidate_id,source_id,source_url,activity_status,approved_scores,null_scores
+CASE037,P12-C002,P12-S002,https://sdxw.iqilu.com/share/YS0yMS0xNjg4NzUyMw==.html,performed_confirmed,story_explainability=1;cross_cultural_adaptation=2;era_theme_relevance=2,channel_fit;emotional_resonance;timbre_identity;audience_participation;education_support;bridge_role;sustainability
+CASE038,P12-C003,P12-S003,http://wap.ccchinamexico.org/es/Events/Detail/1790615770,performed_confirmed,story_explainability=1;cross_cultural_adaptation=2;era_theme_relevance=1,channel_fit;emotional_resonance;timbre_identity;audience_participation;education_support;bridge_role;sustainability

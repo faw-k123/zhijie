@@ -1,0 +1,8 @@
+﻿song_id,song_title,evidence_url,page_title,publisher,event_date,event_location,performer,evidence_grade,supports_target,review_status,limitations
+1,【二胡】三寸天堂,https://www.erhuschool.tw/5611/,,孫文軒胡琴學院,,,,C,UNKNOWN,remain_ambiguous,页面当前抓取失败；无活动地点/日期
+5,倩女幽魂 (二胡版),,,微信公众号视频,,,,C,UNKNOWN,remain_ambiguous,无原始URL/正文；视频标题不能替代活动证据
+8,江南 (二胡版),https://m.thepaper.cn/newsDetail_forward_33609468,远渡重洋，江南音韵惊艳加拿大！,澎湃号·政务/无锡发布,2026-07（报道）,加拿大渥太华、多伦多,无锡民族乐团,B,NO,rejected_match,报道标题‘江南音韵’指江南丝竹风格，不是歌曲《江南》
+12,葬花吟（二胡版）,https://www.xiaohongshu.com/discovery/item/67a168ca000000002a00fa1a,小红书 404,小红书用户帖,,牛津（声称）,,D,UNKNOWN,remain_ambiguous,页面404；无活动主体/日期/演出者
+17,【古筝】万蝶振翅,https://www.bilibili.com/video/BV1x1t1z4EAb/,验证码_哔哩哔哩,B站,,西班牙/英国（标题声称）,,C,UNKNOWN,remain_ambiguous,验证码拦截；无活动主体/日期
+19,关山月,https://www.xiaohongshu.com/discovery/item/67fef6a8000000001e007e0b,小红书 404,小红书用户帖,,伯克利（声称）,,D,UNKNOWN,remain_ambiguous,页面404；社交帖非独立来源
+22,卧龙吟（古琴版）,https://www.bilibili.com/video/BV1A24y1u7w3/,验证码_哔哩哔哩,B站,,伦敦（标题声称）,,C,UNKNOWN,remain_ambiguous,验证码拦截；无活动主体/日期

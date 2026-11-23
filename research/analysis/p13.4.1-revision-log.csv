@@ -1,0 +1,4 @@
+﻿candidate_id,indicator_id,original_score,revised_score,revision_reason,source_ids,reviewer
+P13-C001,channel_fit,2,1,文化中心室内乐+讲解+互动支持形式匹配，但无渠道效果；2分过高，降为1。,P13-S002,独立复核（待负责人审批）
+P12-C004,audience_participation,1,,“起立/感动”是情绪反应，不是参与行为；撤回为 null。,P13-S004,独立复核（待负责人审批）
+P12-C004,channel_fit,2,1,科隆剧院正式音乐会支持形式匹配，但无渠道效果；降为1。,P13-S004,独立复核（待负责人审批）

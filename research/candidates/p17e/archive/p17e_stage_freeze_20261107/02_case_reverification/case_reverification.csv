@@ -1,0 +1,41 @@
+﻿case_id,source_id,source_accessible,content_verified,case_review_conclusion,reason,reviewer_note
+CASE001,C001-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE002,C002-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE003,C003-S001,NO,NO,source_unavailable,URL请求失败：HTTP Error 502: Bad Gateway,P17-E batch 1
+CASE004,C004-S001,NO,NO,source_unavailable,URL请求失败：HTTP Error 502: Bad Gateway,P17-E batch 1
+CASE005,C005-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE006,C006-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE007,C007-S001,NO,NO,source_unavailable,URL请求失败：HTTP Error 502: Bad Gateway,P17-E batch 1
+CASE008,C008-S001,YES,YES,verified_event_content,原文确认活动发生，并明确提到流水/梅花三弄,P17-E batch 1
+CASE009,C009-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE010,C010-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE011,CAND001-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE012,CAND002-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE013,CAND003-S001,NO,NO,source_unavailable,URL请求失败：HTTP Error 403: Forbidden,P17-E batch 1
+CASE014,CAND004-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE015,CAND005-S001,NO,NO,source_unavailable,URL请求失败：HTTP Error 502: Bad Gateway,P17-E batch 1
+CASE016,CAND006-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE017,CAND007-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE018,CAND008-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE019,CAND009-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE020,CAND010-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE021,CAND011-S001,NO,NO,source_unavailable,URL请求失败：HTTP Error 403: Forbidden,P17-E batch 1
+CASE022,CAND012-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE023,CAND013-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE024,CAND014-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE025,CAND015-S001,NO,NO,needs_more_evidence,HTTP202，内容未核验,P17-E batch 1
+CASE026,CAND016-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE027,CAND017-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE028,CAND018-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE029,CAND019-S001,NO,NO,source_unavailable,URL请求失败：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of ,P17-E batch 1
+CASE030,CAND020-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE031,CAND022-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE032,CAND026-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE033,CAND028-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE034,CAND031-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE035,CAND033-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE036,CAND036-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE037,P12-S002,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE038,P12-S003,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE039,P13-S001,YES,NO,needs_more_evidence,URL可访问，但内容未逐页核验,P17-E batch 1
+CASE040,P12-S004,NO,NO,source_unavailable,URL请求失败：HTTP Error 502: Bad Gateway,P17-E batch 1

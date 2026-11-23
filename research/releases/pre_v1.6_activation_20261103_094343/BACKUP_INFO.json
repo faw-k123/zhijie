@@ -1,0 +1,10 @@
+{
+  "snapshot": "pre_v1.6_activation_20261103_094343",
+  "active_version": "v1.5",
+  "file_count": 9,
+  "total_bytes": 327896,
+  "files_hashed": 9,
+  "hash_file": "SHA256SUMS.csv",
+  "hash_file_sha256": "1e9e8c79025b754bc32e148d6a4a1ae9e93516562f1a4b5e7ac7474b28837349",
+  "status": "complete"
+}

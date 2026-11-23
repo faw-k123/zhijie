@@ -1,0 +1,11 @@
+﻿indicator_id,label,case_total,valid,null,coverage_rate,mean,strict_valid,extended_valid,revoked_records
+emotional_resonance,情感共通性,38,1,37,0.0263,3.0,0,0,0
+timbre_identity,音色辨识度,38,3,35,0.0789,1.33,1,1,0
+story_explainability,故事可解释性,38,12,26,0.3158,2.0,3,8,0
+cross_cultural_adaptation,跨文化改编程度,38,12,26,0.3158,2.25,3,8,0
+education_support,教育支持程度,38,6,32,0.1579,2.67,1,4,0
+bridge_role,外国演奏者的文化桥梁作用,38,10,28,0.2632,2.4,3,6,0
+audience_participation,受众参与度,38,3,35,0.0789,1.67,1,1,0
+channel_fit,传播渠道适配度,38,10,28,0.2632,2.4,3,6,2
+era_theme_relevance,时代主题关联度,38,12,26,0.3158,2.25,3,8,0
+sustainability,传播持续性,38,10,28,0.2632,2.8,3,6,0

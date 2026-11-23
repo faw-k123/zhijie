@@ -1,0 +1,7 @@
+﻿song_id,song_title,current_status,candidate_url,opened,body_reviewed,failure_reason,organizer_evidence,specific_piece_evidence,performer,date,location,needed_to_resolve,review_status
+1,三寸天堂,ambiguous_match,https://www.erhuschool.tw/5611/,NO,NO,抓取失败,NO,UNKNOWN,,,,胡琴学院原始活动页+海外演出证据,remain_ambiguous
+5,倩女幽魂,ambiguous_match,,NO,NO,无原始URL,NO,UNKNOWN,,,,微信视频原始发布者/活动页,remain_ambiguous
+12,葬花吟,ambiguous_match,https://www.xiaohongshu.com/discovery/item/67a168ca000000002a00fa1a,NO,NO,HTTP404,NO,UNKNOWN,,,牛津（声称）,牛津活动主办方页/节目单/演出者,remain_ambiguous
+17,万蝶振翅,ambiguous_match,https://www.bilibili.com/video/BV1x1t1z4EAb/,NO,NO,B站验证码/古筝网安全验证,NO,UNKNOWN,,,西班牙/英国（标题声称）,原始视频+活动组织者,remain_ambiguous
+19,关山月,ambiguous_match,https://www.xiaohongshu.com/discovery/item/67fef6a8000000001e007e0b,NO,NO,HTTP404/微信验证,NO,UNKNOWN,,,伯克利（声称）,北美琴社活动原始页/节目单,remain_ambiguous
+22,卧龙吟,ambiguous_match,https://www.bilibili.com/video/BV1A24y1u7w3/,NO,NO,B站验证码,NO,UNKNOWN,,,伦敦（标题声称）,幽兰琴社活动原始记录,remain_ambiguous

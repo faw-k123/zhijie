@@ -1,0 +1,9 @@
+﻿item,before,after,result
+snapshot_hashes,21/21,21/21,PASS
+active_version,v1.2,v1.5,PASS
+v1.5_status,reviewed,reviewed,PASS
+cases,36,38,PASS
+scores,360,380,PASS
+valid_scores,73,79,PASS
+null_scores,287,301,PASS
+validate_research_data,OK v1.2,OK v1.5,PASS

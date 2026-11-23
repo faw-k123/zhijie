@@ -1,0 +1,6 @@
+﻿case_id,music_id,matched_title,source_id,mapping_status,performance_status,version_check,review_reason,unresolved_issue
+CASE008,23,平沙落雁,C008-S001,verified,program_listed,pass：古琴版本；未映射箫/阮版本,CASE008 work 字段与 2025 雅集来源列出同名曲目；库中 music_id 对应古琴版本。,未找到演出后记录，不能确认现场完成。
+CASE008,158,梅花三弄,C008-S001,verified,program_listed,pass：古琴版本；未映射箫/阮版本,CASE008 work 字段与 2025 雅集来源列出同名曲目；库中 music_id 对应古琴版本。,未找到演出后记录，不能确认现场完成。
+CASE008,26,流水,C008-S001,verified,program_listed,pass：古琴版本；未映射箫/阮版本,CASE008 work 字段与 2025 雅集来源列出同名曲目；库中 music_id 对应古琴版本。,未找到演出后记录，不能确认现场完成。
+CASE008,28,酒狂,C008-S001,verified,program_listed,pass：古琴版本；未映射箫/阮版本,CASE008 work 字段与 2025 雅集来源列出同名曲目；库中 music_id 对应古琴版本。,未找到演出后记录，不能确认现场完成。
+CASE008,29,阳关三叠,C008-S001,verified,program_listed,pass：古琴版本；未映射箫/阮版本,CASE008 work 字段与 2025 雅集来源列出同名曲目；库中 music_id 对应古琴版本。,未找到演出后记录，不能确认现场完成。

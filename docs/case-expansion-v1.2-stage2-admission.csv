@@ -1,0 +1,6 @@
+candidate_id,candidate,prior_status,new_sources,identity_status,instrument_status,performance_status,location_status,date_status,outcome_status,admission_conclusion,strict_review,notes
+CAND024,Randy Raine-Reusch,pending_evidence,CAND024-S002;CAND024-S003,verified,verified,program_listed,verified,verified,unverified,可以进入严格个人样本复核,yes,身份/乐器/地点/日期有直接来源；实际演出完成仍需演出后记录
+CAND026,Belle / Erin Lam,pending_evidence,CAND026-S002,partial,verified,scheduled,verified,verified,unverified,继续待补证；可保留扩展样本,no,古筝与英国活动成立；国籍/项目身份标准未确认
+CAND028,Nicholas Ng,pending_evidence,CAND028-S002,partial,verified,partial,verified,unverified,unverified,继续待补证；可保留扩展样本,no,二胡与巡演简介成立；国籍与具体场次未核
+CAND033,Mona Li,pending_evidence,CAND033-S002;CAND033-S003;CAND033-S004,unverified,verified,program_listed,verified,verified,unverified,继续待补证；可保留扩展样本,no,节目单/地点/日期强；国籍/身份标准与现场完成记录未确认
+CAND036,东京古筝乐团,pending_evidence,CAND036-S002;CAND036-S003,partial,verified,performed_confirmed,verified,verified,partial,只能进入扩展样本,no,演出后报道确认团体演出；不是单个外国个人，具名儿童身份未核

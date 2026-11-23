@@ -1,0 +1,98 @@
+{
+  "protocol_version": "IRP-SIX-COUNTRY-2026-V1",
+  "protocol_sha256": "450d0352fdd9bce909a4671b6f5dc420d9620e8a5615f844c0553ebc22aff4ca",
+  "country": "日本",
+  "language": "ja",
+  "source_language": "zh-CN",
+  "localization_version": "LOC-IRP-SIX-COUNTRY-2026-V1-ja-V1",
+  "status": "source_ready",
+  "source_zh": {
+    "title": "中国传统音乐受众研究（日本测试）",
+    "intro": "本研究比较中国传统音乐原版与适配版的理解、情绪和传播接受情况。参与完全自愿，回答只用于研究分析。",
+    "background_100": "本轮以青年文化交流、自然审美、女性故事为导赏框架。A/B/C仅表示试验安排，不代表任何国家或个人的固定偏好。",
+    "consent": "我已年满18岁，理解研究目的、数据用途和退出权利；我同意以去标识化方式记录试听与问卷数据，并可在提交后申请撤回。",
+    "questionnaire": [
+      {
+        "id": "emotional_resonance",
+        "prompt": "这段音乐在多大程度上触动了你的情绪？",
+        "anchor_1": "完全没有情绪反应",
+        "anchor_5": "强烈触动，愿意继续听或分享"
+      },
+      {
+        "id": "timbre_identity",
+        "prompt": "你能多清楚地辨认出这种乐器/声音的独特音色？",
+        "anchor_1": "听不出独特音色",
+        "anchor_5": "音色非常独特且能描述"
+      },
+      {
+        "id": "melody_accessibility",
+        "prompt": "旋律对你来说有多容易跟随和记住？",
+        "anchor_1": "难以跟随或记住",
+        "anchor_5": "很容易跟随，能哼出片段"
+      },
+      {
+        "id": "cultural_story",
+        "prompt": "音乐和导赏让你理解了多少背后的文化故事？",
+        "anchor_1": "完全没有理解",
+        "anchor_5": "能清楚复述故事和背景"
+      },
+      {
+        "id": "adaptation_space",
+        "prompt": "你觉得这种音乐与当地音乐元素结合的空间有多大？",
+        "anchor_1": "完全不适合结合",
+        "anchor_5": "结合自然，愿意听更多"
+      },
+      {
+        "id": "visual_expressiveness",
+        "prompt": "提供的视觉呈现与音乐有多匹配、多有表现力？",
+        "anchor_1": "视觉与音乐不匹配或没有视觉材料",
+        "anchor_5": "视觉显著增强音乐表现"
+      },
+      {
+        "id": "era_theme_relevance",
+        "prompt": "音乐与导赏提出的当代主题有多相关？",
+        "anchor_1": "看不出关联",
+        "anchor_5": "关联清晰且与我的当代经验相连"
+      }
+    ],
+    "open_questions": [
+      "你最喜欢或最不理解的部分是什么？为什么？",
+      "这段音乐让你联想到哪些文化、场景或当代主题？",
+      "是否有任何宗教、文化或呈现方式令你感到不适或容易误解？"
+    ],
+    "risk_notice": "不把东亚文化相近等同于理解一致；避免把中国元素包装成泛东亚符号",
+    "recruitment": "招募年满18岁、能够使用测试语言完成试听和问卷的参与者。既往是否接触中国音乐均可，但必须如实记录。",
+    "operator_manual": [
+      "确认参与者阅读并同意知情同意文本后再创建分配。",
+      "不得替参与者选择曲目或版本，不得透露研究假设。",
+      "记录开始、播放、完成和提交事件；技术故障单独标记。",
+      "参与者退出后立即执行撤回，不得继续纳入分析。",
+      "正式数据、试运行数据和演示数据必须分别标记。"
+    ]
+  },
+  "translations": {
+    "title": null,
+    "intro": null,
+    "background_100": null,
+    "consent": null,
+    "questionnaire": [],
+    "open_questions": [],
+    "risk_notice": null,
+    "recruitment": null,
+    "operator_manual": []
+  },
+  "translator": null,
+  "submitted_at": null,
+  "reviewer": null,
+  "reviewed_at": null,
+  "created_by": "research_operator",
+  "created_at": "2026-11-08T08:46:54.649192+00:00",
+  "history": [
+    {
+      "at": "2026-11-08T08:46:54.649192+00:00",
+      "action": "source_created",
+      "by": "research_operator"
+    }
+  ],
+  "sha256": "9d65b0e4d34e4d93b0bcb1aa30096a61111eff8903bc41950e28741aaaea3412"
+}

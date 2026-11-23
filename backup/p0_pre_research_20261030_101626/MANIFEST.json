@@ -1,0 +1,122 @@
+﻿{
+    "stage":  "P0",
+    "created_at":  "2026-10-30 10:16:27 +08:00",
+    "root":  "D:\\zhijieguoyin_backend - 副本 - 副本",
+    "backup_dir":  "backup\\p0_pre_research_20261030_101626",
+    "file_count":  16,
+    "total_bytes":  225819,
+    "files":  [
+                  {
+                      "path":  "frontend\\src\\views\\GlobalEffectView.vue",
+                      "bytes":  6961,
+                      "sha256":  "1D6DC9FA285D29E6289B60AAD6EB5FDF29E49E6BD7C7098CA1CAB7CC060208AD",
+                      "last_write":  "2026-09-17 20:56:20",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\src\\views\\MusicDetailView.vue",
+                      "bytes":  68841,
+                      "sha256":  "72D4F00C3021F5DC3F16A84D4609936D21C52FA44455BAB7F000B1E67E678A8E",
+                      "last_write":  "2026-09-21 13:41:28",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\src\\views\\PromoReportView.vue",
+                      "bytes":  4331,
+                      "sha256":  "D7AFFD0104CE4D4674038C483762582463CE68881E7D5A3B166787A4433CE7D4",
+                      "last_write":  "2026-09-17 20:56:09",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\src\\components\\AppNav.vue",
+                      "bytes":  9625,
+                      "sha256":  "53CF0D8AAB0DE409125CE4B3E08357734C7E41424B97B0217273A05752DBD0F3",
+                      "last_write":  "2026-09-20 22:09:08",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\src\\router\\index.ts",
+                      "bytes":  3244,
+                      "sha256":  "D88FFCC1539FD97924315E04DBBC340B1B38A689930CB929CE76C2EDCA0A45D9",
+                      "last_write":  "2026-09-17 19:49:50",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\src\\assets\\premium.css",
+                      "bytes":  36412,
+                      "sha256":  "FECC05F2CFCD1EBFA631B7B0A6CF2F22E64A1C4CF50B32E81910738D93BE14D0",
+                      "last_write":  "2026-09-21 17:43:26",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\src\\api\\propagation.ts",
+                      "bytes":  966,
+                      "sha256":  "20F42335FEBFAE2CED59A7BF22815B5249847BCEB8893E45F2FDF1FD3865981A",
+                      "last_write":  "2026-09-20 19:09:38",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\src\\api\\dataDisplay.ts",
+                      "bytes":  2823,
+                      "sha256":  "96DCDB8E39303A7DA8692A753FE155BB32E3CCBCAE66585605BAA1799E98A3B8",
+                      "last_write":  "2026-09-20 18:56:24",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\package.json",
+                      "bytes":  1339,
+                      "sha256":  "3B4A3C1B0C8A90E70619A56A6887958676A2CE0CE990AACE174512EB62A85271",
+                      "last_write":  "2026-09-20 14:27:31",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "frontend\\vite.config.ts",
+                      "bytes":  877,
+                      "sha256":  "9CC3FB02FA8DF27726FD4B645112116F1330CCE36D43A944C5C35E6FD841160B",
+                      "last_write":  "2026-09-22 19:08:55",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "backend\\api\\urls.py",
+                      "bytes":  5164,
+                      "sha256":  "EEDD0AD724940B26008977542C2E1AF1DEACAB9345994B8BC1F33B954C6DB41C",
+                      "last_write":  "2026-09-20 18:54:12",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "backend\\api\\views.py",
+                      "bytes":  33247,
+                      "sha256":  "000BA13342AFAA3F7EFA207C10E8723C4840EA53880DC7B193D08E81E877932E",
+                      "last_write":  "2026-09-20 21:15:54",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "backend\\propagation\\services.py",
+                      "bytes":  10690,
+                      "sha256":  "08B4F1D54238BA54090F9259C782435D9CC4F26BB05DB79CFC3781ABBA3829D6",
+                      "last_write":  "2026-09-21 13:23:32",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "backend\\myproject\\urls.py",
+                      "bytes":  978,
+                      "sha256":  "3317ABF9CB016109E4BD1026ACE8F61E9DF05805454C48BA7B56E955195F58EC",
+                      "last_write":  "2026-07-14 08:37:51",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "backend\\myproject\\settings.py",
+                      "bytes":  4219,
+                      "sha256":  "CF2D1C540031C92B943266A0EF2830D035EAAEC435B77FB7C5840ABC5A6C1DFA",
+                      "last_write":  "2026-09-20 14:36:44",
+                      "backup_ok":  true
+                  },
+                  {
+                      "path":  "docs\\research-module-plan-v1.md",
+                      "bytes":  36102,
+                      "sha256":  "C48ADB12A6D51D3EAF84F75BBDFFE59B4C7F59532D888A0728DA3196C0AB25CB",
+                      "last_write":  "2026-10-30 10:13:07",
+                      "backup_ok":  true
+                  }
+              ]
+}

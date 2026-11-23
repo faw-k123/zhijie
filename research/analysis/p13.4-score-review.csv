@@ -1,0 +1,21 @@
+﻿candidate_id,indicator_id,proposed_score,review_status,suggested_score,source_ids,review_note
+P13-C001,emotional_universality,1,draft_pending,1,P13-S002,等待独立复核/负责人审批
+P13-C001,timbral_distinctiveness,,draft_pending,,,保持 null
+P13-C001,story_explainability,2,draft_pending,2,P13-S002,等待独立复核/负责人审批
+P13-C001,cross_cultural_adaptation,2,draft_pending,2,P13-S002,等待独立复核/负责人审批
+P13-C001,educational_support,1,draft_pending,1,P13-S002,等待独立复核/负责人审批
+P13-C001,performer_bridge_role,1,draft_pending,1,P13-S002,等待独立复核/负责人审批
+P13-C001,audience_participation,2,draft_pending,2,P13-S002,等待独立复核/负责人审批
+P13-C001,channel_fit,2,draft_pending,2,P13-S002,等待独立复核/负责人审批
+P13-C001,era_theme_relevance,2,draft_pending,2,P13-S002,等待独立复核/负责人审批
+P13-C001,dissemination_continuity,1,draft_pending,1,P13-S002,等待独立复核/负责人审批
+P12-C004,emotional_universality,1,draft_pending,1,P13-S004,等待独立复核/负责人审批
+P12-C004,timbral_distinctiveness,,draft_pending,,,保持 null
+P12-C004,story_explainability,2,draft_pending,2,P13-S004,等待独立复核/负责人审批
+P12-C004,cross_cultural_adaptation,2,draft_pending,2,P13-S004,等待独立复核/负责人审批
+P12-C004,educational_support,,draft_pending,,,保持 null
+P12-C004,performer_bridge_role,1,draft_pending,1,P13-S004,等待独立复核/负责人审批
+P12-C004,audience_participation,1,draft_pending,1,P13-S004,等待独立复核/负责人审批
+P12-C004,channel_fit,2,draft_pending,2,P13-S004,等待独立复核/负责人审批
+P12-C004,era_theme_relevance,2,draft_pending,2,P13-S004,等待独立复核/负责人审批
+P12-C004,dissemination_continuity,,draft_pending,,,保持 null

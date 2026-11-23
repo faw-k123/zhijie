@@ -1,0 +1,37 @@
+﻿case_id,candidate_id,performer,case_type,analysis_sample,country,region,instrument,activity_type,performance_status,evidence_grade,emotional_resonance,timbre_identity,story_explainability,cross_cultural_adaptation,education_support,bridge_role,audience_participation,channel_fit,era_theme_relevance,sustainability
+CASE001,,Eliott Tordo（艾略特·托多）,foreign_individual_cross_cultural,pending_review,法国,欧洲,二胡,foreign_individual_cross_cultural,2016年起学习；2020年起视频走红；2023年11月中国12城巡演,B,3,2,3,3,2,2,2,3,3,3
+CASE002,,美国巴德学院音乐学院 美中音乐研习院（US-China Music Institute）/ Bard Chinese Ensemble,overseas_institution_ensemble,extended_cross_cultural,美国,北美,古筝,overseas_institution_ensemble,2026-04-30,B,,,2,2,3,3,,2,2,2
+CASE003,,2026二胡群英会：巫谢慧 与 5名日本青年二胡演奏者,cross_cultural_ensemble,extended_cross_cultural,日本,东亚,二胡,cross_cultural_ensemble,2026-10-03,B,,1,2,3,2,2,2,2,3,2
+CASE004,,Jeremy Moyer（莫杰明）,foreign_individual_cross_cultural,extended_cross_cultural,加拿大,北美,二胡/秦琴,foreign_individual_cross_cultural,1990年代中期在台湾学习二胡；2004年移居上海；2018年上海市政府英文报道,B,,,2,2,,2,,2,2,3
+CASE005,,Clare Cooper,foreign_individual_cross_cultural,strict_individual,澳大利亚,其他,古筝,foreign_individual_cross_cultural,1981年生于悉尼；2007年移居柏林；近十余年在16国演出；2024-10-06 LVSXY 演出,B,,,1,2,,2,,2,2,3
+CASE006,,Jarrelle Barton,foreign_individual_cross_cultural,strict_individual,美国,北美,古筝,foreign_individual_cross_cultural,13岁开始自学；2017年 MPR 报道；2018年 Anderson Center 驻留/演出；2018-08-25 双城灯节；2018-12 奥尔德道演出,B,,1,3,1,,2,1,3,2,3
+CASE007,,Colin Huehns,foreign_individual_cross_cultural,strict_individual,英国,欧洲,二胡,foreign_individual_cross_cultural,1996年起在西安音乐学院学习三年；1998年二胡十级；1999年回英；此后在 Leeds/Edinburgh/Oxford/Bristol 等高校演出；BBC Radio 3,B,,,3,2,3,3,,3,2,3
+CASE008,,伦敦幽兰琴社（London Youlan Qin Society）,overseas_institution_education,extended_cross_cultural,英国,欧洲,古琴,overseas_institution_education,2003-07-13成立；2025-07-12 22周年雅集；2025-08-25至30 伦敦国际中国音乐节,B,,,2,2,3,3,,3,3,3
+CASE009,,巴德中西乐团（Bard East/West Ensemble）,cross_cultural_ensemble,extended_cross_cultural,美国,北美,古琴/二胡/琵琶/古筝/唢呐/管子,cross_cultural_ensemble,2025-05-03,B,,,2,3,3,3,,2,3,3
+CASE010,,Djang San（张思安 / Jean-Sébastien Héry）,foreign_individual_cross_cultural,extended_cross_cultural,法国,欧洲,中阮/琵琶,foreign_individual_cross_cultural,2000年首次来华；2013年组建 Djang San + Band；2019年人民网德语视界报道,B,,,2,3,,2,,2,2,3
+CASE011,CAND001,Duke Chinese Music Ensemble,overseas_institution_education,extended_cross_cultural,美国,北美,古筝/二胡,overseas_institution_education,partial,B,,,,,,,,,,
+CASE012,CAND002,UCLA Chinese Music,overseas_institution_education,extended_cross_cultural,美国,北美,古筝/二胡,overseas_institution_education,partial,B,,,,,,,,,,
+CASE013,CAND003,Qingyun Chinese Music Ensemble,overseas_institution_education,extended_cross_cultural,美国,北美,中国乐器合奏,overseas_institution_education,unverified,B,,,,,,,,,,
+CASE014,CAND004,Indiana University East-West collaboration,overseas_institution_education,extended_cross_cultural,美国,北美,中西合奏,overseas_institution_education,partial,B,,,,,,,,,,
+CASE015,CAND005,University of Illinois Chinese music event,overseas_institution_education,extended_cross_cultural,美国,北美,中国乐器,overseas_institution_education,unverified,B,,,,,,,,,,
+CASE016,CAND006,University of Pittsburgh Chinese Music Ensemble,overseas_institution_education,extended_cross_cultural,美国,北美,中国乐器合奏,overseas_institution_education,unverified,B,,,,,,,,,,
+CASE017,CAND007,Ohio State Chinese Folk Music Orchestra,overseas_institution_education,extended_cross_cultural,美国,北美,中国民族乐器,overseas_institution_education,unverified,B,,,,,,,,,,
+CASE018,CAND008,Williams Chinese Music Ensemble,overseas_institution_education,extended_cross_cultural,美国,北美,中国乐器合奏,overseas_institution_education,unverified,B,,,,,,,,,,
+CASE019,CAND009,Chinese Music Ensemble of New York,overseas_institution_ensemble,extended_cross_cultural,美国,北美,中国民族乐器,overseas_institution_ensemble,unverified,B,,,,,,,,,,
+CASE020,CAND010,Ba Ban Chinese Music Society,overseas_institution_education,extended_cross_cultural,美国,北美,中国民族乐器,overseas_institution_education,scheduled,B,,,,,,,,,,
+CASE021,CAND011,Melody of China,overseas_institution_education,extended_cross_cultural,美国,北美,中国民族乐器,overseas_institution_education,partial,B,,,,,,,,,,
+CASE022,CAND012,Toronto Chinese Orchestra,overseas_institution_education,extended_cross_cultural,加拿大,北美,中国民族乐器,overseas_institution_education,partial,B,,,,,,,,,,
+CASE023,CAND013,Vancouver Chinese Music Ensemble,overseas_institution_ensemble,extended_cross_cultural,加拿大,北美,中国民族乐器,overseas_institution_ensemble,partial,B,,,,,,,,,,
+CASE024,CAND014,Harmony Guzheng Ensemble,overseas_institution_ensemble,extended_cross_cultural,加拿大,北美,古筝,overseas_institution_ensemble,scheduled,B,,,,,,,,,,
+CASE025,CAND015,Seattle Chinese Orchestra,overseas_institution_ensemble,extended_cross_cultural,美国,北美,中国民族乐器,overseas_institution_ensemble,scheduled,B,,,,,,,,,,
+CASE026,CAND016,Chung Wah Chinese Orchestra,overseas_institution_education,extended_cross_cultural,澳大利亚,其他,中国民族乐器,overseas_institution_education,partial,B,,,,,,,,,,
+CASE027,CAND017,Chao Feng Chinese Orchestra,overseas_institution_ensemble,extended_cross_cultural,澳大利亚,其他,中国民族乐器,overseas_institution_ensemble,scheduled,B,,,,,,,,,,
+CASE028,CAND018,Australian Chinese Music Ensemble,overseas_institution_ensemble,extended_cross_cultural,澳大利亚,其他,中国民族乐器,overseas_institution_ensemble,partial,B,,,,,,,,,,
+CASE029,CAND019,NZ Chinese Hundred Flowers Art Troupe,overseas_institution_education,extended_cross_cultural,新西兰,其他,中国民族乐器,overseas_institution_education,unverified,B,,,,,,,,,,
+CASE030,CAND020,UK Chinese Music,overseas_institution_education,extended_cross_cultural,英国,欧洲,古琴/古筝/琵琶,overseas_institution_education,partial,B,,,,,,,,,,
+CASE031,CAND022,Grand Chinese New Year Concert Berlin,overseas_institution_ensemble,extended_cross_cultural,德国,欧洲,中国民族乐器,overseas_institution_ensemble,scheduled,B,,,,,,,,,,
+CASE032,CAND026,Belle / Erin Lam,foreign_individual_cross_cultural,extended_cross_cultural,英国,欧洲,古筝,foreign_individual_cross_cultural,performed_confirmed,B,,,,,,,,,,
+CASE033,CAND028,Nicholas Ng,foreign_individual_cross_cultural,extended_cross_cultural,澳大利亚,其他,二胡/中国音乐,foreign_individual_cross_cultural,partial,B,,,,,,,,,,
+CASE034,CAND031,Wu Fei & Abigail Washburn,cross_cultural_ensemble,extended_cross_cultural,美国,北美,古筝 + 班卓琴,cross_cultural_ensemble,performed_confirmed,B,,,,,,,,,,
+CASE035,CAND033,Mona Li,foreign_individual_cross_cultural,extended_cross_cultural,德国,欧洲,古筝,foreign_individual_cross_cultural,program_listed,B,,,,,,,,,,
+CASE036,CAND036,东京古筝乐团（Tokyo Guzheng Orchestra）,overseas_institution_education,extended_cross_cultural,日本,东亚,古筝,overseas_institution_education,performed_confirmed,B,,,,,,,,,,

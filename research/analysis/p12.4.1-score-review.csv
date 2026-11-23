@@ -1,0 +1,9 @@
+﻿candidate_id,indicator,original_score,direct_evidence,source_directly_supports,overreach,review_conclusion,suggested_score,review_reason
+P12-C002,story_explainability,1,来源说明南音源于唐宋、保留唐宋诗乐遗存，并明确演出《风打梨》；但未解释《风打梨》的具体故事。,partial,no,approve,1,文化语境和曲目可解释性有来源支持，但只有 1 分强度。
+P12-C002,cross_cultural_adaptation,2,来源明确写到南音传统曲目与“南音融合多民族舞蹈的创意节目”在阿联酋国家包容与共存节登台，并提到南音与阿拉伯世界的历史渊源。,yes,no,approve,2,有实际跨文化呈现/融合节目，不是单纯同台。
+P12-C002,channel_fit,1,来源只说明活动在阿布扎比国母公园的国家包容与共存节开幕式发生，没有说明渠道形式与作品传播特征的匹配。,no,yes,reject,,海外演出地点/活动存在不能单独证明渠道适配；撤回为 null。
+P12-C002,era_theme_relevance,2,活动主题为“国家包容与共存节”“携手同行”，来源明确将其与中阿文明交流、相互尊重联系起来。,yes,no,approve,2,活动主题与当代文明交流/包容议题直接相关。
+P12-C003,story_explainability,2,来源列出 Kangding、Butterfly Lovers、Libertango、Danzón No. 2 等曲目，并称节目搭建中墨/中拉声音桥梁；但没有逐曲解释故事。,partial,yes,revise,1,曲目与节目叙事有支持，但 2 分需要更具体的作品故事/文化解释；降为 1。
+P12-C003,cross_cultural_adaptation,2,来源明确：中国二胡演奏者 Li Cangxiao 与墨西哥钢琴家、Humboldt 四重奏、墨西哥打击乐手合作，二胡/钢琴/弦乐/打击乐交织。,yes,no,approve,2,有实际跨文化合作与编制融合证据。
+P12-C003,channel_fit,2,来源只说明 Bellas Artes 与 UNAM 两个场地、观众掌声；没有渠道形式与作品特征的匹配证据。,no,yes,reject,,知名场馆/观众掌声不能证明渠道适配；撤回为 null。
+P12-C003,era_theme_relevance,2,来源将活动放在中秋/中墨文化交流框架中，但没有说明作品内容与当代议题的直接关联。,partial,yes,revise,1,活动框架有当代文化交流意义，但 2 分需要更明确的议题内容；降为 1。

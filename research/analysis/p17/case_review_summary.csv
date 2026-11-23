@@ -1,0 +1,41 @@
+﻿case_id,performer,country,region,case_type,analysis_sample,source_ids,source_count,source_ids_valid,activity_status,new_activity_evidence,actual_activity_confirmed,outcome_evidence,duplicate_activity_risk,review_status,limitations
+CASE001,Eliott Tordo（艾略特·托多）,法国,欧洲,foreign_individual_cross_cultural,pending_review,C001-S001;C001-S002;C001-S003,3,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE002,美国巴德学院音乐学院 美中音乐研习院（US-China Music Institute）/ Bard Chinese Ensemble,美国,北美,overseas_institution_ensemble,extended_cross_cultural,C002-S001;C002-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE003,2026二胡群英会：巫谢慧 与 5名日本青年二胡演奏者,日本,东亚,cross_cultural_ensemble,extended_cross_cultural,C003-S001;C003-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE004,Jeremy Moyer（莫杰明）,加拿大,北美,foreign_individual_cross_cultural,extended_cross_cultural,C004-S001;C004-S002;C004-S003,3,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE005,Clare Cooper,澳大利亚,其他,foreign_individual_cross_cultural,strict_individual,C005-S001;C005-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE006,Jarrelle Barton,美国,北美,foreign_individual_cross_cultural,strict_individual,C006-S001;C006-S002;C006-S003,3,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE007,Colin Huehns,英国,欧洲,foreign_individual_cross_cultural,pending_review,C007-S001;C007-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE008,伦敦幽兰琴社（London Youlan Qin Society）,英国,欧洲,overseas_institution_education,extended_cross_cultural,C008-S001;C008-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE009,巴德中西乐团（Bard East/West Ensemble）,美国,北美,cross_cultural_ensemble,extended_cross_cultural,C009-S001;C009-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE010,Djang San（张思安 / Jean-Sébastien Héry）,法国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,C010-S001;C010-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE011,Duke Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,CAND001-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE012,UCLA Chinese Music,美国,北美,overseas_institution_education,extended_cross_cultural,CAND002-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE013,Qingyun Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,CAND003-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE014,Indiana University East-West collaboration,美国,北美,overseas_institution_education,extended_cross_cultural,CAND004-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE015,University of Illinois Chinese music event,美国,北美,overseas_institution_education,extended_cross_cultural,CAND005-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE016,University of Pittsburgh Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,CAND006-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE017,Ohio State Chinese Folk Music Orchestra,美国,北美,overseas_institution_education,extended_cross_cultural,CAND007-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE018,Williams Chinese Music Ensemble,美国,北美,overseas_institution_education,extended_cross_cultural,CAND008-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE019,Chinese Music Ensemble of New York,美国,北美,overseas_institution_ensemble,extended_cross_cultural,CAND009-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE020,Ba Ban Chinese Music Society,美国,北美,overseas_institution_education,extended_cross_cultural,CAND010-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE021,Melody of China,美国,北美,overseas_institution_education,extended_cross_cultural,CAND011-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE022,Toronto Chinese Orchestra,加拿大,北美,overseas_institution_education,extended_cross_cultural,CAND012-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE023,Vancouver Chinese Music Ensemble,加拿大,北美,overseas_institution_ensemble,extended_cross_cultural,CAND013-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE024,Harmony Guzheng Ensemble,加拿大,北美,overseas_institution_ensemble,extended_cross_cultural,CAND014-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE025,Seattle Chinese Orchestra,美国,北美,overseas_institution_ensemble,extended_cross_cultural,CAND015-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE026,Chung Wah Chinese Orchestra,澳大利亚,其他,overseas_institution_education,extended_cross_cultural,CAND016-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE027,Chao Feng Chinese Orchestra,澳大利亚,其他,overseas_institution_ensemble,extended_cross_cultural,CAND017-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE028,Australian Chinese Music Ensemble,澳大利亚,其他,overseas_institution_ensemble,extended_cross_cultural,CAND018-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE029,NZ Chinese Hundred Flowers Art Troupe,新西兰,其他,overseas_institution_education,extended_cross_cultural,CAND019-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE030,UK Chinese Music,英国,欧洲,overseas_institution_education,extended_cross_cultural,CAND020-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE031,Grand Chinese New Year Concert Berlin,德国,欧洲,overseas_institution_ensemble,extended_cross_cultural,CAND022-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE032,Belle / Erin Lam,英国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,CAND026-S001;CAND026-S003,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE033,Nicholas Ng,澳大利亚,其他,foreign_individual_cross_cultural,extended_cross_cultural,CAND028-S001;CAND028-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE034,Wu Fei & Abigail Washburn,美国,北美,cross_cultural_ensemble,extended_cross_cultural,CAND031-S001,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE035,Mona Li,德国,欧洲,foreign_individual_cross_cultural,extended_cross_cultural,CAND033-S001;CAND033-S002;CAND033-S003;CAND033-S004,4,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE036,东京古筝乐团（Tokyo Guzheng Orchestra）,日本,东亚,overseas_institution_education,extended_cross_cultural,CAND036-S001;CAND036-S002;CAND036-S003,3,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE037,泉州师范学院南音团队,阿联酋,中东及部分伊斯兰文化地区,cross_cultural_ensemble,extended_cross_cultural,P12-S002,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE038,Li Cangxiao 与墨西哥音乐家,墨西哥,拉丁美洲,cross_cultural_ensemble,extended_cross_cultural,P12-S003,1,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE039,中国音乐家（科威特中国文化中心）,科威特,中东及部分伊斯兰文化地区,cross_cultural_ensemble,extended_cross_cultural,P13-S001;P13-S002,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核
+CASE040,中国音乐学院音乐家（阿根廷）,阿根廷,拉丁美洲,cross_cultural_ensemble,extended_cross_cultural,P12-S004;P13-S004,2,YES,unknown,NO,NO,NO,UNKNOWN,desk_review_only,仅核对既有来源ID和元数据；未完成外部原文逐页复核

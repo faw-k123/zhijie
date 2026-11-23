@@ -1,0 +1,2 @@
+candidate_id,existing_case_id,performer,nationality,region,instrument,music_scope,performance_record,performance_country,identity_status,instrument_status,performance_status,location_status,independent_source_count,audience_feedback_status,outcome_evidence_status,strict_evidence_status,owner_approval_status,source_ids,evidence_limitations,next_action
+SC000,,待填写,待核,待核,待核,待核,待核,待核,unverified,unverified,unverified,unverified,0,not_collected,none,needs_more_evidence,pending_owner_review,,待填写,补齐身份、乐器、实际演奏和来源证据

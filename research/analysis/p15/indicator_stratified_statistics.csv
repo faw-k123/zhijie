@@ -1,0 +1,11 @@
+﻿indicator_id,label,strict_individual_n,strict_individual_null,strict_individual_mean,strict_individual_median,strict_individual_distribution,extended_cross_cultural_n,extended_cross_cultural_null,extended_cross_cultural_mean,extended_cross_cultural_median,extended_cross_cultural_distribution,descriptive_difference_mean,note
+emotional_resonance,情感共通性,0,2,,,0:0；1:0；2:0；3:0,2,34,,,0:0；1:2；2:0；3:0,,strict n<=2，不解释为群体均值
+timbre_identity,音色辨识度,1,1,,,0:0；1:1；2:0；3:0,1,35,,,0:0；1:1；2:0；3:0,,strict n<=2，不解释为群体均值
+story_explainability,故事可解释性,2,0,,,0:0；1:1；2:0；3:1,10,26,1.8,2.0,0:0；1:2；2:8；3:0,,strict n<=2，不解释为群体均值
+cross_cultural_adaptation,跨文化改编程度,2,0,,,0:0；1:1；2:1；3:0,10,26,2.3,2.0,0:0；1:0；2:7；3:3,,strict n<=2，不解释为群体均值
+education_support,教育支持程度,0,2,,,0:0；1:0；2:0；3:0,5,31,2.4,3,0:0；1:1；2:1；3:3,,strict n<=2，不解释为群体均值
+bridge_role,外国演奏者的文化桥梁作用,2,0,,,0:0；1:0；2:2；3:0,8,28,2.125,2.0,0:0；1:2；2:3；3:3,,strict n<=2，不解释为群体均值
+audience_participation,受众参与度,1,1,,,0:0；1:1；2:0；3:0,2,34,,,0:0；1:0；2:2；3:0,,strict n<=2，不解释为群体均值
+channel_fit,传播渠道适配度,2,0,,,0:0；1:0；2:1；3:1,8,28,1.875,2.0,0:0；1:2；2:5；3:1,,strict n<=2，不解释为群体均值
+era_theme_relevance,时代主题关联度,2,0,,,0:0；1:0；2:2；3:0,10,26,2.2,2.0,0:0；1:1；2:6；3:3,,strict n<=2，不解释为群体均值
+sustainability,传播持续性,2,0,,,0:0；1:0；2:0；3:2,7,29,2.4286,3,0:0；1:1；2:2；3:4,,strict n<=2，不解释为群体均值

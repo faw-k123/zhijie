@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "active_version": "v1.1",
+  "target_case_count": 40,
+  "updated_at": "2026-10-30",
+  "versions": [
+    {
+      "version": "v1.0",
+      "path": "v1.0",
+      "status": "reviewed",
+      "created_at": "2026-10-30T10:30:00+08:00",
+      "reviewed_by": "项目负责人",
+      "reviewed_at": "2026-10-30",
+      "files": {
+        "cases.json": {
+          "sha256": "07f8f38ac330122f494b9bdff37b13d64cb690d2ce58f9379078fbce1cf07940",
+          "bytes": 13315
+        },
+        "success_factors.json": {
+          "sha256": "32196e0bfa661b2f5ce43e0d753b9e31cefc3bfc40868014bbc39fb07268b675",
+          "bytes": 17968
+        },
+        "music_scores.json": {
+          "sha256": "345e101dd07995b0734e69f591aba3a5275ac01887f10861983614bbcc2a28d6",
+          "bytes": 972
+        },
+        "regional_strategies.json": {
+          "sha256": "20a6bbc84ec65df54bc7dcc43fc1f84dd870347bc2b0765227b0da6882710245",
+          "bytes": 923
+        }
+      }
+    },
+    {
+      "version": "v1.1",
+      "path": "v1.1",
+      "status": "reviewed",
+      "created_at": "2026-10-30T15:30:00+08:00",
+      "reviewed_by": "项目负责人",
+      "reviewed_at": "2026-10-30",
+      "files": {
+        "cases.json": {
+          "sha256": "0d1359104629016c3cf3b39d898d45649f4efe738fa9be732937aedfd32860b2",
+          "bytes": 49747
+        },
+        "success_factors.json": {
+          "sha256": "99393c0f6e6e7f9b8c8f23ce552339dd578f219044c9eedf268b7f722b8b60d7",
+          "bytes": 43300
+        },
+        "music_scores.json": {
+          "sha256": "2e2cdfc91265e014cc2e48f012e521d5517c3340b22e7f4f4347ad75e169fa79",
+          "bytes": 970
+        },
+        "regional_strategies.json": {
+          "sha256": "fec161ae67a6d18f7d1ec517db203fab002217908f7db92e8c7c541f04243b03",
+          "bytes": 925
+        }
+      }
+    }
+  ]
+}

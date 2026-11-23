@@ -1,0 +1,6 @@
+﻿candidate_id,source_id,source_url,source_grade,source_supports,source_does_not_support,independent,review
+P12-C001,P12-S001,https://www.nafa.edu.sg/about-us/news/singapore-chinese-orchestra-and-nafa-uas-renew-strategic-mou-to-strengthen-chinese-music-ecosystem-and-talent-development,B,Dance of the Golden Snake; Ripples in Jade Water; Zhongruan Concerto No. 2; Ode to the Sun,活动页与 MOU 同日；无演出后报道、受众反馈或现场完成记录。,yes,pass
+P12-C002,P12-S002,https://sdxw.iqilu.com/share/YS0yMS0xNjg4NzUyMw==.html,A,风打梨,表演者是中国学生团队，不是外国个人；观众引语为记者转述；无独立受众调查。,yes,pass
+P12-C003,P12-S003,http://wap.ccchinamexico.org/es/Events/Detail/1790615770,A,Kangding; Butterfly Lovers; Libertango; Danzón No. 2; Horse Racing,演出者含中国二胡演奏者；观众掌声为记者描述；无独立受众调查。,yes,pass
+P12-C004,P12-S004,http://en.people.cn/n3/2025/0924/c90000-20370292.html,B,中国传统曲目（未列明）,图片报道确认演出，但无具体乐器、曲目、演奏者名单。,yes,pass
+P12-C005,P12-S005,https://www.koreaherald.com/article/10623580,C,未列明,PR Newswire 稿；无独立评论、具体曲目/乐器；enthusiastic responses 为宣传性概括。,no,caution

@@ -1,0 +1,13 @@
+﻿step,check,result,status,evidence
+A01,确认激活前版本,active_version=v1.5,PASS,主manifest读取
+A02,发布前快照,9文件/9哈希/只读,PASS,pre_v1.6_activation_20261103_094343
+A03,v1.6状态,reviewed/data_version=v1.6,PASS,v1.6 manifest
+A04,CASE007整改,pending_review/false/needs_more_evidence,PASS,cases.json
+A05,新案例评分,15有效/5null,PASS,CASE039/040
+A06,v1.6文件哈希,5/5匹配,PASS,4主manifest文件+sources
+A07,原子更新manifest,before 0fc14.../after ad789...,PASS,os.replace
+A08,active_version切换,v1.5 -> v1.6,PASS,主manifest
+A09,数据校验,40案例/400评分/0 warnings,PASS,validate_research_data
+A10,API验证,v1.6/40案例,PASS,/api/research/status/
+A11,严格样本一致性,数据2/API2,PASS,CASE007 excluded
+A12,前端构建,type-check/build passed,PASS,npm

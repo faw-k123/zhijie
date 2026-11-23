@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.6",
+  "version": "v1.6",
+  "status": "reviewed",
+  "base_version": "v1.5",
+  "active_version": "v1.5",
+  "created_at": "2026-11-03",
+  "case_count": 40,
+  "source_count": 62,
+  "score_count": 400,
+  "valid_score_count": 94,
+  "null_score_count": 306,
+  "files": {
+    "cases.json": {
+      "sha256": "40371fe01d45a572b24df8ce55856e1449aae1cfbacd09a220c9f193163d4f38",
+      "bytes": 148547
+    },
+    "success_factors.json": {
+      "sha256": "4d10bf861abf1c88a1ba73ae58325b9f2ff222341625ee8985e9ae33ea450a6a",
+      "bytes": 158060
+    },
+    "sources.json": {
+      "sha256": "4fa5d89ff62d591af6a1ca7b23c4ecdbf48176eb00d9bf197ce21804bdcbf1a1",
+      "bytes": 36259
+    },
+    "music_scores.json": {
+      "sha256": "041b86c0e0d215f47a19608b47f6018bc4f78443139067bb49f6b8da776974e2",
+      "bytes": 970
+    },
+    "regional_strategies.json": {
+      "sha256": "6e98a17e7fd75d6043ba15a146173006f48ef371c7a1d1e79c3b2586f1a72377",
+      "bytes": 925
+    }
+  },
+  "note": "P13.7 promotion；未激活；主manifest登记为reviewed候选。"
+}

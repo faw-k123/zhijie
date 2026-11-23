@@ -1,0 +1,19 @@
+﻿check_id,category,check,actual,status,blocking,evidence
+C01,数据完整性,案例数=38,38,PASS,NO,36+2
+C02,数据完整性,来源数=58,58,PASS,NO,56+2
+C03,数据完整性,指标记录=380,380,PASS,NO,38×10
+C04,数据完整性,有效评分=79，null=301,79/301,PASS,NO,73+6 / 287+14
+C05,编号,CASE037/038 唯一且对应正确,CASE037=P12-C002; CASE038=P12-C003,PASS,NO,无重复
+C06,审批,两案例 owner_approval_status=approved,approved/approved,PASS,NO,yxh 2026-11-01
+C07,评分,6 条数值与审批表一致,1/2/2 与 1/2/1,PASS,NO,channel=null
+C08,评分,新评分 approval_status 已反映审批结果,仍为 pending / revised_draft_pending_approval,FAIL,YES,需在发布前更新状态
+C09,评分,两个 channel_fit 为 null,null/null,PASS,NO,撤回
+C10,评分,其余六项为 null,12条 null,PASS,NO,未补分
+C11,来源,6 条有效评分均有 source_id,P12-S002/P12-S003,PASS,NO,无缺失
+C12,来源,source_id 唯一,58 个唯一,PASS,NO,无重复
+C13,版本隔离,active_version 仍为 v1.2,v1.2,PASS,NO,API 返回36
+C14,版本隔离,主 manifest 未加入 v1.5,未加入,PASS,NO,独立目录
+C15,版本隔离,v1.2/v1.3/v1.4 哈希不变,全部匹配,PASS,NO,见 hash CSV
+C16,版本标识,v1.5-draft 可直接按正式版本加载,目录/data_version 为 v1.5-draft,FAIL,YES,激活前需归一为 v1.5 并登记 manifest
+C17,兼容性,当前 API 仍返回 v1.2 36 案例,v1.2 / 36,PASS,NO,只读接口正常
+C18,回滚,存在独立回滚方案,已存在,PASS,NO,未激活，删除目录即可

@@ -1,0 +1,6 @@
+﻿case_id,music_id,matched_title,source_id,mapping_status,performance_status,music_total,mapped_music_total,unmapped_music_total,limitation
+CASE008,23,平沙落雁,C008-S001,verified,program_listed,302,5,297,CASE008 program_listed；不代表实际演出完成
+CASE008,158,梅花三弄,C008-S001,verified,program_listed,302,5,297,CASE008 program_listed；不代表实际演出完成
+CASE008,26,流水,C008-S001,verified,program_listed,302,5,297,CASE008 program_listed；不代表实际演出完成
+CASE008,28,酒狂,C008-S001,verified,program_listed,302,5,297,CASE008 program_listed；不代表实际演出完成
+CASE008,29,阳关三叠,C008-S001,verified,program_listed,302,5,297,CASE008 program_listed；不代表实际演出完成

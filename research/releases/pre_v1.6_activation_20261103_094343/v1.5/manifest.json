@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.5",
+  "status": "reviewed",
+  "base_version": "v1.2",
+  "active_version": "v1.2",
+  "created_at": "2026-11-01",
+  "reviewed_by": "yxh",
+  "reviewed_at": "2026-11-01",
+  "case_count": 38,
+  "source_count": 58,
+  "score_count": 380,
+  "files": {
+    "cases.json": {
+      "sha256": "c1e5aa64cc7c40e1ad81cf9bff5d8b356ac91e43873027ab998d181cac03a04e",
+      "bytes": 140162
+    },
+    "success_factors.json": {
+      "sha256": "b6a28fc1a9d094f4c59d8ffc61f12a6296ff86747ad0441a233f75a5f3cdac6c",
+      "bytes": 145877
+    },
+    "music_scores.json": {
+      "sha256": "48809d6fe35db27bee2c596768bf11889ba8d4f9cb738ba4d59faf4d6c0d5ef0",
+      "bytes": 970
+    },
+    "regional_strategies.json": {
+      "sha256": "5cc0851c8cddeeb3e97cf7f4edd78f918903e2760185f8acefcb2c39ae3dfb94",
+      "bytes": 925
+    }
+  },
+  "note": "P12.4.7正式登记候选；未激活；主manifest仅登记v1.5，不切换active_version。"
+}

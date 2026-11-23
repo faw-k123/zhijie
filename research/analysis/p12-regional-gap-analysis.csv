@@ -1,0 +1,21 @@
+﻿region,country,case_count,country_distribution,instrument_coverage,scenario_coverage,gap_level,issue,recommended_action
+北美,美国,20,美国:16;加拿大:4,中国民族乐器:7;古筝:6;二胡:4;中国乐器合奏:3;秦琴:1;古琴:1;琵琶:1;唢呐:1;管子:1;中西合奏:1;中国乐器:1;古筝 + 班卓琴:1,overseas_institution_education:11;overseas_institution_ensemble:5;foreign_individual_cross_cultural:2;cross_cultural_ensemble:2,low,国家集中度较高,补非主导国家案例
+北美,加拿大,20,美国:16;加拿大:4,中国民族乐器:7;古筝:6;二胡:4;中国乐器合奏:3;秦琴:1;古琴:1;琵琶:1;唢呐:1;管子:1;中西合奏:1;中国乐器:1;古筝 + 班卓琴:1,overseas_institution_education:11;overseas_institution_ensemble:5;foreign_individual_cross_cultural:2;cross_cultural_ensemble:2,low,案例量有限,补活动完成与受众证据
+欧洲,英国,8,英国:4;法国:2;德国:2,古筝:3;二胡:2;古琴:2;琵琶:2;中阮:1;中国民族乐器:1,foreign_individual_cross_cultural:5;overseas_institution_education:2;overseas_institution_ensemble:1,low,案例量有限,补活动完成与受众证据
+欧洲,法国,8,英国:4;法国:2;德国:2,古筝:3;二胡:2;古琴:2;琵琶:2;中阮:1;中国民族乐器:1,foreign_individual_cross_cultural:5;overseas_institution_education:2;overseas_institution_ensemble:1,low,案例量有限,补活动完成与受众证据
+欧洲,德国,8,英国:4;法国:2;德国:2,古筝:3;二胡:2;古琴:2;琵琶:2;中阮:1;中国民族乐器:1,foreign_individual_cross_cultural:5;overseas_institution_education:2;overseas_institution_ensemble:1,low,案例量有限,补活动完成与受众证据
+东亚,日本,2,日本:2,二胡:1;古筝:1,cross_cultural_ensemble:1;overseas_institution_education:1,high,案例量有限,补非主导国家案例
+东南亚,,0,,,,high,无正式案例,补候选案例与区域来源
+中东及部分伊斯兰文化地区,,0,,,,high,无正式案例,补候选案例与区域来源
+拉丁美洲,,0,,,,high,无正式案例,补候选案例与区域来源
+其他,澳大利亚,6,澳大利亚:5;新西兰:1,中国民族乐器:4;古筝:1;二胡:1;中国音乐:1,foreign_individual_cross_cultural:2;overseas_institution_education:2;overseas_institution_ensemble:2,medium,国家集中度较高,补非主导国家案例
+其他,新西兰,6,澳大利亚:5;新西兰:1,中国民族乐器:4;古筝:1;二胡:1;中国音乐:1,foreign_individual_cross_cultural:2;overseas_institution_education:2;overseas_institution_ensemble:2,medium,案例量有限,补活动完成与受众证据
+东南亚,新加坡,0,,,,high,无正式案例,优先补候选来源
+东南亚,马来西亚,0,,,,high,无正式案例,优先补候选来源
+东南亚,泰国,0,,,,high,无正式案例,优先补候选来源
+中东及部分伊斯兰文化地区,阿联酋,0,,,,high,无正式案例,优先补候选来源
+中东及部分伊斯兰文化地区,沙特阿拉伯,0,,,,high,无正式案例,优先补候选来源
+中东及部分伊斯兰文化地区,土耳其,0,,,,high,无正式案例,优先补候选来源
+拉丁美洲,墨西哥,0,,,,high,无正式案例,优先补候选来源
+拉丁美洲,阿根廷,0,,,,high,无正式案例,优先补候选来源
+拉丁美洲,巴西,0,,,,high,无正式案例,优先补候选来源

@@ -1,0 +1,5 @@
+﻿candidate_id,approval_item,scope,recommended_action,owner_decision,owner_notes
+P12-C002,case_admission,P12-C002 阿联酋南音团队,approve_as_candidate,PENDING,
+P12-C002,indicator_scores,3条建议保留 + 1条channel_fit撤回,retain_3_revoke_1,PENDING,
+P12-C003,case_admission,P12-C003 墨西哥跨文化合作,approve_as_candidate,PENDING,
+P12-C003,indicator_scores,3条建议保留 + 1条channel_fit撤回,retain_3_revoke_1,PENDING,

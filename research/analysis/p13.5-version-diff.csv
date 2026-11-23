@@ -1,0 +1,8 @@
+﻿item,v1.5,v1.6_draft,delta,notes
+cases,38,40,+2,CASE039/CASE040
+source_relations,58,62,+4,每个新案例2个Xinhua来源
+score_records,380,400,+20,2案例×10指标
+valid_scores,79,94,+15,P13-C001 9 + P12-C004 6
+null_scores,301,306,+5,4原始null + 1修订null
+new_cases,0,CASE039;CASE040,+2,扩展跨文化，非strict
+active_version,v1.5,v1.5,不变,v1.6未激活

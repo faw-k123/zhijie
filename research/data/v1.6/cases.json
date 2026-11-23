@@ -1,0 +1,3538 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "v1.6",
+  "generated_at": "2026-11-01",
+  "case_count": 40,
+  "cases": [
+    {
+      "case_id": "CASE001",
+      "performer": "Eliott Tordo（艾略特·托多）",
+      "performer_type": "外国个人演奏者",
+      "country": "法国",
+      "region": "欧洲",
+      "subregion": "西欧",
+      "instrument": [
+        "二胡"
+      ],
+      "work": "影视/游戏配乐改编为主（如《角斗士》主题曲 Now We Are Free）；完整演出曲目单未公开（未知）",
+      "music_type": "民族器乐（跨文化改编）",
+      "event_date_text": "2016年起学习；2020年起视频走红；2023年11月中国12城巡演",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "个人 YouTube/哔哩哔哩 发布；2023中国巡演；每周授课",
+      "venue": "法国格勒诺布尔（学习地）；中国12座城市（巡演）",
+      "channel": [
+        "网络视频",
+        "线下音乐会",
+        "教学"
+      ],
+      "target_audience": [
+        "西方普通听众",
+        "影视配乐听众",
+        "二胡学习者"
+      ],
+      "learning_motivation": "2016年在电影主题曲中首次听到二胡，被音色吸引；起初并不知道它来自中国",
+      "adaptation": "用二胡演奏西方影视/游戏/摇滚曲目，自述风格“更史诗、更宏大”（epic and grand）",
+      "era_theme": [
+        "数字技术与传统音乐",
+        "青年文化交流",
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及其与宗教群体的关联）",
+      "feedback": "已获6条可核验评论原文（人民网2条、CGTN1条、YouTube3条），见05表；负面反馈未采集（未知）",
+      "success_evidence": "单条视频400万+（截至2021-09-26，人民网）；单条视频915万次观看、13万点赞、3289条评论（截至2026-10-25，YouTube页面）；2023年11月中国12城巡演；每周授课十几名学生，学生来自法/美/加/英/巴西；人民网、CGTN报道",
+      "research_notes": "评论完整度高但仅覆盖1条视频；受众国籍线索缺失；无获奖记录、未见进入学校课程（未知）",
+      "summary": "法国二胡演奏者，2016年因影视配乐中的二胡音色开始学习，通过YouTube/哔哩哔哩发布改编视频走红，2023年在中国12城巡演，并每周授课。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "二胡音色",
+        "影视/游戏配乐",
+        "史诗感"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 3,
+      "source_ids": [
+        "C001-S001",
+        "C001-S002",
+        "C001-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "C001-S001",
+          "title": "法国二胡音乐人演绎中国风",
+          "publisher": "人民网-国际频道（盛霜）",
+          "url": "http://world.people.com.cn/n1/2021/0926/c1002-32237068.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2021-09-26",
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "学习动机（影视游戏配乐中听到二胡）、自学方式、单条视频400万+、累计浏览量超千万、每周教授十几名学生、2条受众评论原文",
+          "notes": null
+        },
+        {
+          "source_id": "C001-S002",
+          "title": "A French erhu player reaching out to China",
+          "publisher": "CGTN（Li Jianhua）",
+          "url": "https://newseu.cgtn.com/news/2024-04-30/A-French-erhu-player-reaching-out-to-China-1tcJJTRX0sw/p.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2024-04-30",
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2016年首次听到二胡、语言障碍与自学、YouTube成为influencer、2023年11月中国12城巡演、学生来源国、bridge builder 自述",
+          "notes": null
+        },
+        {
+          "source_id": "C001-S003",
+          "title": "GLADIATOR - Now We Are Free - Erhu & Vocal Epic Cover",
+          "publisher": "Eliott Tordo Erhu Player 二胡（YouTube频道）",
+          "url": "https://www.youtube.com/watch?v=2SXjOj1u1ZE",
+          "citation": null,
+          "source_type": "视频平台",
+          "published_at": null,
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "截至采集日：915万次观看、13万点赞、3289条评论；3条受众评论原文；频道简介自述为法国音乐人",
+          "notes": "页面显示“约6年前发布”，无法精确到日。"
+        }
+      ],
+      "updated_at": "2026-10-25",
+      "case_type": "foreign_individual_cross_cultural",
+      "analysis_sample": "pending_review",
+      "performer_identity_status": "verified",
+      "performance_location": "mixed",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "法国身份与二胡活动有来源，但现有材料不能确认明确的海外现场演奏；线上视频和中国巡演不自动等同海外演奏。",
+      "evidence_limitations": [
+        "海外演出地点未逐场核验",
+        "YouTube/中国巡演与海外现场混在一起"
+      ],
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "非严格样本候选，不适用负责人批准。",
+      "owner_approval_source_ids": []
+    },
+    {
+      "case_id": "CASE002",
+      "performer": "美国巴德学院音乐学院 美中音乐研习院（US-China Music Institute）/ Bard Chinese Ensemble",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "纽约",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "“Guzheng Tianxia”音乐会曲目单未公开（未知）；乐团以中国当代民族管弦乐作品为主（官网）",
+      "music_type": "民族器乐（当代作品与跨编制改编）",
+      "event_date_text": "2026-04-30",
+      "event_start_date": "2026-04-30",
+      "event_end_date": "2026-04-30",
+      "event_name": "“Guzheng Tianxia”古筝音乐会（研习院年度中国音乐会议期间）",
+      "venue": "美国纽约 China Institute of America",
+      "channel": [
+        "线下音乐会",
+        "学校教育",
+        "媒体"
+      ],
+      "target_audience": [
+        "纽约观众",
+        "学者",
+        "文化爱好者"
+      ],
+      "learning_motivation": "学生 Kendall Griffith 来自波士顿，主修琵琶，已学习琵琶数年并学习中文，师从中央音乐学院张红艳",
+      "adaptation": "Bard Chinese Ensemble 以中西混合编制重新改编中国当代民族管弦乐作品，呈现“美国首演”",
+      "era_theme": [
+        "丝绸之路与文明交流",
+        "非遗保护",
+        "青年文化交流"
+      ],
+      "religion_culture": "无（材料未涉及宗教背景）",
+      "feedback": "报道未引述观众评论；仅记录到场200余人（未知具体反馈）",
+      "success_evidence": "200余人到场（CGTN，2026-05-08）；CGTN报道；年度会议机制；学院设中国乐器双学位项目（官网）；北美青年古筝演奏者参与合奏（CGTN图注）",
+      "research_notes": "演出曲目单、上座率、观众反馈均缺失；演奏者国籍仅部分可核（学生简介可核1人）；原表补充：学院乐团另有琵琶、二胡、笛子、笙、中阮、箜篌",
+      "summary": "美国巴德学院音乐学院美中音乐研习院举办“Guzheng Tianxia”古筝音乐会，以中西混合编制改编中国当代民族管弦乐作品，并依托中国乐器双学位项目与年度会议形成机构化传播。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "古筝音色",
+        "中西混合编制",
+        "学院教育"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C002-S001",
+        "C002-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C002-S001",
+          "title": "Guzheng concert bridges cultures in New York",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-05-08/Guzheng-concert-bridges-cultures-in-New-York-1MYAIfctEUo/p.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2026-05-08",
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2026-04-30 纽约 China Institute of America；到场200余人；参演者袁莎、许菱子、夏菁；图注明确“young North American guzheng performers”参与合奏",
+          "notes": null
+        },
+        {
+          "source_id": "C002-S002",
+          "title": "Bard Chinese Ensemble 巴德民乐室内乐",
+          "publisher": "US-China Music Institute, Bard College Conservatory of Music",
+          "url": "https://www.barduschinamusic.org/bard-chinese-ensemble",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-10-25",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "乐团定位（中西混合编制、中国当代民族管弦乐）；学生名单与简介（Kendall Griffith：波士顿出身、琵琶专业、学中文、师从张红艳）；双学位项目信息",
+          "notes": "官网未标注发布日期。"
+        }
+      ],
+      "updated_at": "2026-10-25",
+      "case_type": "overseas_institution_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "partially_verified",
+      "performance_location": "overseas",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "美国高校乐团，属于机构传播；成员国籍未逐人核实，不能作为外国个人样本。",
+      "evidence_limitations": [
+        "演奏者国籍仅部分可核",
+        "缺少曲目单与上座率"
+      ],
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "非严格样本候选，不适用负责人批准。",
+      "owner_approval_source_ids": []
+    },
+    {
+      "case_id": "CASE003",
+      "performer": "2026二胡群英会：巫谢慧 与 5名日本青年二胡演奏者",
+      "performer_type": "中外合作演出",
+      "country": "日本",
+      "region": "东亚",
+      "subregion": "东京",
+      "instrument": [
+        "二胡"
+      ],
+      "work": "中国传统经典曲、日本动漫曲、摇滚《敞开双臂》、巫谢慧原创《新天地》《衡山霓虹》《月亮与我》《上海小夜曲》《Dancing7》",
+      "music_type": "民族器乐（中日混编曲目）",
+      "event_date_text": "2026-10-03",
+      "event_start_date": "2026-10-03",
+      "event_end_date": "2026-10-03",
+      "event_name": "2026二胡群英会（二胡サミット），主办：株式会社To Hearts、Capital Village",
+      "venue": "日本东京涩谷",
+      "channel": [
+        "线下音乐会",
+        "媒体"
+      ],
+      "target_audience": [
+        "日本观众"
+      ],
+      "learning_motivation": "五名演奏者均为日本人，基本从小学时起喜欢二胡，有人赴中央音乐学院二胡专业留学，现为日本的专业二胡演奏者/教师",
+      "adaptation": "中日曲目混编，含动漫曲与摇滚曲改编；设置“峰会”互动环节",
+      "era_theme": [
+        "青年文化交流",
+        "丝绸之路与文明交流",
+        "数字技术与传统音乐"
+      ],
+      "religion_culture": "无（材料未涉及宗教背景）",
+      "feedback": "报道未引述观众评论；现场互动有笑声记录（属记者描述，非受众原话）（未知）",
+      "success_evidence": "5名日本专业演奏者同台；时隔17年再度举办；形成系列演出机制；中文导报页面显示阅读量10.3万（截至2026-10-25）",
+      "research_notes": "无受众评论原文；上座率、票房未知；第二来源为演奏者本人渠道（可靠性中）",
+      "summary": "2026年10月3日在东京涩谷举行的二胡群英会，巫谢慧与5名日本青年二胡演奏者同台，曲目混合中国传统曲、日本动漫曲与摇滚改编，并形成系列演出机制。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "二胡音色",
+        "动漫/摇滚改编",
+        "青年同台"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C003-S001",
+        "C003-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C003-S001",
+          "title": "巫谢慧携年轻二胡乐手奏响2026二胡群英会",
+          "publisher": "日本中文导报",
+          "url": "http://m.chinanews.com/wap/detail/chs/zw/hm6acc981b1446f500519e1684.shtml",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2026-10-12",
+          "accessed_at": "2026-10-25",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "2026-10-03 东京涩谷；5名日本演奏者姓名；曲目构成；学习动机；时隔17年再办；页面阅读量10.3万",
+          "notes": null
+        },
+        {
+          "source_id": "C003-S002",
+          "title": "ウェイウェイ・ウー メールマガジン（2026年3月11日号）",
+          "publisher": "巫谢慧（WeiWei Wuu）官方网站",
+          "url": "https://weiwei-wuu.com/archives/3729",
+          "citation": null,
+          "source_type": "演奏者本人",
+          "published_at": "2026-03-11",
+          "accessed_at": "2026-10-25",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "预告10/3（周六）二胡サミット；列出系列演出“二胡ヌーヴォー Vol.2”五场及5名青年演奏者（本多ゆとり、高山賢人、桜礼、峠岡慎太郎、桐子）",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-10-25",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "verified",
+      "performance_location": "overseas",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "日本五人二胡组合，属于团体传播；不是单个外国个人，不能进入 strict_individual。",
+      "evidence_limitations": [
+        "团体成员个人身份未逐人建档",
+        "缺少票务与受众原始反馈"
+      ],
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "非严格样本候选，不适用负责人批准。",
+      "owner_approval_source_ids": []
+    },
+    {
+      "case_id": "CASE004",
+      "performer": "Jeremy Moyer（莫杰明）",
+      "performer_type": "外国个人演奏者",
+      "country": "加拿大",
+      "region": "北美",
+      "subregion": "安大略省滑铁卢 / 上海",
+      "instrument": [
+        "二胡",
+        "秦琴"
+      ],
+      "work": "中国传统民间音乐、台湾民歌与戏曲/宗教音乐素材；个人专辑《A Discovery of Chinese Folk Tunes》（曲目单未公开）",
+      "music_type": "民族器乐（跨文化创作）",
+      "event_date_text": "1990年代中期在台湾学习二胡；2004年移居上海；2018年上海市政府英文报道",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "在华演奏、民间采风与个人专辑创作",
+      "venue": "台湾（学习地）；上海（居住与创作地）",
+      "channel": [
+        "线下音乐会",
+        "媒体",
+        "其他"
+      ],
+      "target_audience": [
+        "中国民间音乐听众",
+        "跨文化音乐听众"
+      ],
+      "learning_motivation": "1990年代中期在台湾接触中国民间音乐，随当地老师学习二胡；随后学习台湾椰子壳提琴，进入民歌、戏曲、宫廷与宗教音乐",
+      "adaptation": "将中国民间音乐素材融入个人创作，并发行专辑《A Discovery of Chinese Folk Tunes》",
+      "era_theme": [
+        "丝绸之路与文明交流",
+        "城市化与传统记忆"
+      ],
+      "religion_culture": "材料提及宗教音乐素材，但未说明具体宗教实践（未知）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "上海市政府英文报道确认其加拿大音乐人身份、台湾学习二胡、2004年移居上海及民间音乐采风；个人专辑可检索",
+      "research_notes": "B级：身份、学习与创作有政府/媒体来源；具体演出场次、受众反馈和专辑曲目单缺失，专辑页访问受限",
+      "summary": "加拿大音乐人，1990年代在台湾学习二胡，2004年移居上海，长期采集中国民间音乐并发行个人专辑。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "二胡音色",
+        "民间采风",
+        "跨文化创作"
+      ],
+      "origin_city": "上海",
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 3,
+      "source_ids": [
+        "C004-S001",
+        "C004-S002",
+        "C004-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "C004-S001",
+          "title": "The Canadian and his traditional Chinese instruments",
+          "publisher": "Shanghai Municipal Government",
+          "url": "http://service.shanghai.gov.cn/sheninfo/specialdetail.aspx?Id=4608dd10-9d7a-410d-8e54-1670788141ba",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": "2018-09-20",
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "身份（加拿大音乐人）、1990年代中期在台湾学习二胡、2004年移居上海、民间音乐采风与演奏",
+          "notes": null
+        },
+        {
+          "source_id": "C004-S002",
+          "title": "Canadian erhu master on how ditching violin proved instrumental",
+          "publisher": "South China Morning Post",
+          "url": "https://www.scmp.com/culture/music/article/2143650/canadian-erhu-master-his-love-chinas-stringed-instruments-and-how",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "加拿大二胡演奏者长期学习与演奏中国弦乐器（标题与检索摘要）",
+          "notes": "正文访问受限，未逐段复核"
+        },
+        {
+          "source_id": "C004-S003",
+          "title": "A Discovery of Chinese Folk Tunes",
+          "publisher": "Jeremy Moyer (Bandcamp)",
+          "url": "https://jeremymoyer.bandcamp.com/album/a-discovery-of-chinese-folk-tunes",
+          "citation": null,
+          "source_type": "演奏者本人",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "个人专辑存在，主题为中国民谣改编",
+          "notes": "页面访问受限，未抓取曲目单"
+        }
+      ],
+      "updated_at": "2026-10-30",
+      "case_type": "foreign_individual_cross_cultural",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "verified",
+      "performance_location": "mixed",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "加拿大个人，但已核实活动含台湾学习与上海长期活动；不能确认纯海外演奏。",
+      "evidence_limitations": [
+        "海外演出地点未逐场核验",
+        "缺少受众反馈"
+      ],
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "非严格样本候选，不适用负责人批准。",
+      "owner_approval_source_ids": []
+    },
+    {
+      "case_id": "CASE005",
+      "performer": "Clare Cooper",
+      "performer_type": "外国个人演奏者",
+      "country": "澳大利亚",
+      "region": "其他",
+      "subregion": "悉尼 / 柏林",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "实验与即兴音乐；古筝作为主奏或合作乐器；具体传统曲目未公开（未知）",
+      "music_type": "民族器乐（实验/即兴）",
+      "event_date_text": "1981年生于悉尼；2007年移居柏林；近十余年在16国演出；2024-10-06 LVSXY 演出",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "LVSXY 二重奏与个人/合作演出",
+      "venue": "柏林 ausland 等；16国演出",
+      "channel": [
+        "线下音乐会",
+        "媒体"
+      ],
+      "target_audience": [
+        "实验音乐听众",
+        "跨文化音乐听众"
+      ],
+      "learning_motivation": "官方简介未说明学习古筝的具体动机（未知）；以古筝与踏板竖琴为主要乐器",
+      "adaptation": "将古筝用于实验、即兴与跨媒介合作，不是传统曲目复原",
+      "era_theme": [
+        "丝绸之路与文明交流",
+        "数字技术与传统音乐"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "ausland Berlin 官方艺术家页确认其古筝/竖琴演奏、1981年生于悉尼、2007年移居柏林、近十余年在16国演出；SWR/ABC/BBC 播出其作品",
+      "research_notes": "B级：官方简介确认身份、乐器与国际演出；传统曲目、受众反馈、上座率缺失；实验音乐语境，不能代表传统曲目传播",
+      "summary": "澳大利亚古筝/竖琴演奏者，2007年移居柏林，长期在16国进行实验与即兴合作演出。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "古筝音色",
+        "即兴",
+        "跨媒介"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C005-S001",
+        "C005-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C005-S001",
+          "title": "Clare Cooper",
+          "publisher": "ausland Berlin",
+          "url": "https://ausland.berlin/artist/clare-cooper",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "身份、古筝/竖琴、1981年生于悉尼、2007年移居柏林、16国演出、SWR/ABC/BBC 播出",
+          "notes": null
+        },
+        {
+          "source_id": "C005-S002",
+          "title": "LVSXY — Clare Cooper & Clayton Thomas",
+          "publisher": "ausland Berlin",
+          "url": "https://ausland.berlin/event/lvsxy",
+          "citation": null,
+          "source_type": "演出主办方",
+          "published_at": "2024-10-06",
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2024-10-06 在 ausland 的 LVSXY 演出记录",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-10-30",
+      "case_type": "foreign_individual_cross_cultural",
+      "analysis_sample": "strict_individual",
+      "performer_identity_status": "verified",
+      "performance_location": "overseas",
+      "overseas_activity": true,
+      "strict_sample_eligible": true,
+      "eligibility_reason": "澳大利亚个人；官方简介确认古筝演奏、柏林基地与16国演出，满足严格样本候选条件。",
+      "evidence_limitations": [
+        "传统曲目单未公开",
+        "受众评论未采集"
+      ],
+      "owner_approval_status": "approved",
+      "owner_approval_by": "项目负责人",
+      "owner_approval_at": "2026-10-30",
+      "owner_approval_note": "负责人批准进入正式严格样本。澳大利亚出生，公开艺术家资料可核验；2007年移居柏林，近十余年在16国演出；2024-10-06 LVSXY 演出有主办方页面支持。研究限制：偏实验音乐与即兴语境，不是传统曲目复原；缺少受众反馈和曲目单。论文中不得泛化为传统古筝曲目传播案例。",
+      "owner_approval_source_ids": [
+        "C005-S001",
+        "C005-S002"
+      ]
+    },
+    {
+      "case_id": "CASE006",
+      "performer": "Jarrelle Barton",
+      "performer_type": "外国个人演奏者",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "明尼苏达州",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "中国传统古筝曲目与个人演奏；具体曲目单未公开（未知）",
+      "music_type": "民族器乐",
+      "event_date_text": "13岁开始自学；2017年 MPR 报道；2018年 Anderson Center 驻留/演出；2018-08-25 双城灯节；2018-12 奥尔德道演出",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Anderson Center 驻留、双城灯节与个人演出",
+      "venue": "美国明尼苏达州雷德温 Anderson Center；双城地区",
+      "channel": [
+        "网络视频",
+        "线下音乐会",
+        "其他"
+      ],
+      "target_audience": [
+        "美国普通听众",
+        "中国音乐爱好者"
+      ],
+      "learning_motivation": "13岁在公共图书馆听到古筝 CD，被音色吸引；找不到英文教材，自学中文教程，后随一位来自北京的老师学习",
+      "adaptation": "以古筝演奏中国传统曲目；是否做跨文化改编未知",
+      "era_theme": [
+        "青年文化交流",
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "报道称演奏视频在网上吸引成千上万观众；未采集评论原文（未知）",
+      "success_evidence": "MPR、Star Tribune 与新浪/环球网报道确认其美国身份、自学经历、Anderson Center 选择性驻留、2018 年双城灯节与 12 月演出；视频有数千观看",
+      "research_notes": "B级：身份、学习动机与公开演出有多个来源；评论原文、曲目单、上座率缺失；MPR 原页访问受限，以转载页交叉核对",
+      "summary": "美国古筝演奏者，13岁因唱片自学古筝，后随北京老师学习，在美国艺术中心驻留并公开演出。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "古筝音色",
+        "自学中文",
+        "艺术驻留"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 3,
+      "source_ids": [
+        "C006-S001",
+        "C006-S002",
+        "C006-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "C006-S001",
+          "title": "'It's my love, it's my life': Minnesota musician devoted to Chinese zither",
+          "publisher": "Minnesota Public Radio (MPR News)",
+          "url": "https://www.mprnews.org/story/2017/09/27/james-barton-on-playing-the-guzheng",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2017-09-27",
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "美国身份、13岁接触古筝、自学中文教程、视频与演出",
+          "notes": "原页访问受限，经转载页核对"
+        },
+        {
+          "source_id": "C006-S002",
+          "title": "湃洱湖畔奏天籁 美国小伙擅古筝",
+          "publisher": "环球网 / 新浪转载",
+          "url": "http://mil.news.sina.com.cn/2018-08-28/doc-ihikcahe7858774.shtml",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2018-08-28",
+          "accessed_at": "2026-10-30",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "Anderson Center 选择性驻留、双城灯节与 12 月演出、视频观众规模、随北京老师学习",
+          "notes": null
+        },
+        {
+          "source_id": "C006-S003",
+          "title": "Prior Lake man excels in playing 'heavenly sounding' ancient Chinese instrument",
+          "publisher": "Star Tribune",
+          "url": "https://www.startribune.com/prior-lake-man-excels-in-playing-heavenly-sounding-ancient-chinese-instrument/490728781/",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "美国明尼苏达州演奏者与古筝活动报道",
+          "notes": "访问受限，未逐段复核"
+        }
+      ],
+      "updated_at": "2026-10-30",
+      "case_type": "foreign_individual_cross_cultural",
+      "analysis_sample": "strict_individual",
+      "performer_identity_status": "verified",
+      "performance_location": "overseas",
+      "overseas_activity": true,
+      "strict_sample_eligible": true,
+      "eligibility_reason": "美国个人；报道确认古筝学习、Anderson Center 驻留与美国公开演出，满足严格样本候选条件。",
+      "evidence_limitations": [
+        "评论原文未采集",
+        "曲目单与上座率缺失"
+      ],
+      "owner_approval_status": "approved",
+      "owner_approval_by": "项目负责人",
+      "owner_approval_at": "2026-10-30",
+      "owner_approval_note": "负责人批准进入正式严格样本。美国古筝演奏者，身份和美国公开演出经历有多来源支持，包括 MPR、Star Tribune 及其他相关来源。研究限制：部分媒体原页访问受限；缺少评论原文、曲目单和上座率。不能将演出经历直接解释为海外受众认可。",
+      "owner_approval_source_ids": [
+        "C006-S001",
+        "C006-S002",
+        "C006-S003"
+      ]
+    },
+    {
+      "case_id": "CASE007",
+      "performer": "Colin Huehns",
+      "performer_type": "外国个人演奏者",
+      "country": "英国",
+      "region": "欧洲",
+      "subregion": "伦敦",
+      "instrument": [
+        "二胡"
+      ],
+      "work": "中国传统二胡曲目与英国作曲家新作；具体曲目单未公开（未知）",
+      "music_type": "民族器乐（跨文化委约）",
+      "event_date_text": "1996年起在西安音乐学院学习三年；1998年二胡十级；1999年回英；此后在 Leeds/Edinburgh/Oxford/Bristol 等高校演出；BBC Radio 3",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "英国高校讲座/独奏与 BBC 广播",
+      "venue": "英国高校；BBC Radio 3；西安音乐学院",
+      "channel": [
+        "线下音乐会",
+        "学校教育",
+        "媒体"
+      ],
+      "target_audience": [
+        "英国高校听众",
+        "中国音乐学习者"
+      ],
+      "learning_motivation": "自幼学习小提琴；1996年赴西安音乐学院随金伟学习二胡三年；1998年以优异成绩通过二胡十级",
+      "adaptation": "演奏传统二胡，并委约英国作曲家为二胡创作；同时演奏蒙古族弓弦乐器",
+      "era_theme": [
+        "丝绸之路与文明交流",
+        "青年文化交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "个人官网记录西安音乐学院三年学习、二胡十级、英国多所大学独奏/讲座、BBC Radio 3；皇家音乐学院图书馆藏其中国弓弦乐器展览图录",
+      "research_notes": "B级：个人官网自述与 RAM 馆藏交叉；缺少独立媒体、观众反馈与演出场次；自述可能夸大，需进一步核验",
+      "summary": "英国二胡演奏者，1996年赴西安音乐学院学习三年，回英后在多所高校与 BBC 演出并教授二胡。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "二胡音色",
+        "学院训练",
+        "英国委约"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C007-S001",
+        "C007-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C007-S001",
+          "title": "Colin Huehns and the Erhu",
+          "publisher": "Colin Huehns",
+          "url": "http://www.huehns.plus.com/erhu.htm",
+          "citation": null,
+          "source_type": "演奏者本人",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "西安音乐学院三年、二胡十级、英国高校独奏/讲座、BBC Radio 3、皇家音乐学院任教",
+          "notes": null
+        },
+        {
+          "source_id": "C007-S002",
+          "title": "The second spring reflects the moon: huqin, the family of Chinese bowed instruments",
+          "publisher": "Royal Academy of Music Library",
+          "url": "https://lib.ram.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=18339",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": "2002-01-01",
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "皇家音乐学院 2002 年中国弓弦乐器展览图录，与 Colin Huehns 的二胡研究/收藏相关",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-10-30",
+      "case_type": "foreign_individual_cross_cultural",
+      "analysis_sample": "pending_review",
+      "performer_identity_status": "verified",
+      "performance_location": "overseas",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "P13.7: needs_more_evidence，暂不纳入严格个人样本；保留原始案例类型、评分、来源和证据。",
+      "evidence_limitations": [
+        "主要依据个人官网",
+        "独立媒体与受众反馈不足"
+      ],
+      "owner_approval_status": "needs_more_evidence",
+      "owner_approval_by": "项目负责人",
+      "owner_approval_at": "2026-10-30",
+      "owner_approval_note": "负责人审核结论为需要补充证据，暂不进入正式严格样本。英国二胡演奏者，有西安音乐学院学习、英国高校讲座和演出等线索。研究限制：核心经历主要来自个人官网自述；皇家音乐学院图书馆展览图录只能旁证研究与收藏，不能独立证明具体演出。缺少独立媒体、演出主办方或观众记录。保留原始评分和来源，补证后重新审核。",
+      "owner_approval_source_ids": [
+        "C007-S001",
+        "C007-S002"
+      ]
+    },
+    {
+      "case_id": "CASE008",
+      "performer": "伦敦幽兰琴社（London Youlan Qin Society）",
+      "performer_type": "其他",
+      "country": "英国",
+      "region": "欧洲",
+      "subregion": "伦敦",
+      "instrument": [
+        "古琴"
+      ],
+      "work": "《流水》《梅花三弄》《良宵引》《阳春古曲—小天鹅圆舞》《兰亭序》《越人歌》等（2025-07-12 22周年雅集）",
+      "music_type": "民族器乐（古琴/国乐）",
+      "event_date_text": "2003-07-13成立；2025-07-12 22周年雅集；2025-08-25至30 伦敦国际中国音乐节",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "伦敦幽兰琴社22周年雅集暨第三届伦敦国际中国音乐节发布",
+      "venue": "伦敦大学亚非学院",
+      "channel": [
+        "线下音乐会",
+        "学校教育",
+        "工作坊",
+        "节庆"
+      ],
+      "target_audience": [
+        "英国本地观众",
+        "中英文化界",
+        "国际古琴学习者"
+      ],
+      "learning_motivation": "机构案例，不适用个人动机；琴社由程玉博士创立，面向英国及国际学习者",
+      "adaptation": "传统古琴曲目与中西音乐元素结合的雅集；具体改编曲目未知",
+      "era_theme": [
+        "非遗保护",
+        "丝绸之路与文明交流",
+        "青年文化交流"
+      ],
+      "religion_culture": "无（材料未提及宗教礼仪）",
+      "feedback": "报道称活动吸引近百名中英文化、音乐界人士和爱好者；未采集受众原话（未知）",
+      "success_evidence": "成立22年；累计成员近500；150多场雅集；连续21年夏校；培训来自20多国的600多名古琴/国乐学习者；2025雅集近百人；在英中乐团与亚非学院支持下活动",
+      "research_notes": "B级：机构与教育传播证据强；2025雅集演奏者含中、英、澳、美民乐演奏者，不能把整场算作外国人演奏；本案例定位为海外琴社教育传播",
+      "summary": "英国伦敦古琴社团，成立22年，累计培训20多国600多名学习者，持续举办雅集与夏校。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "古琴",
+        "雅集",
+        "海外教育"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C008-S001",
+        "C008-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C008-S001",
+          "title": "伦敦幽兰琴社22周年雅集举行",
+          "publisher": "欧洲时报英国版",
+          "url": "https://www.oushinet.com/static/content/ouzhong/ouzhongnews/2025-07-18/app_1395807074034145417.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2025-07-18",
+          "accessed_at": "2026-10-30",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "2003年成立、22周年雅集、近百人、150+雅集、21年夏校、20多国600多名学习者、2025音乐节",
+          "notes": null
+        },
+        {
+          "source_id": "C008-S002",
+          "title": "LYQS 162nd Yaji Gathering - Spring’s Echo, Summer’s Prelude",
+          "publisher": "UK Chinese Music",
+          "url": "https://www.ukchinesemusic.org/lyqs-162nd-yaji-gathering-springrs-echo-summerrs-prelude",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "琴社持续举办第162次雅集，证明活动连续性",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-10-30",
+      "case_type": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "partially_verified",
+      "performance_location": "overseas",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "英国琴社/教育机构，2025雅集演奏者含多国民乐演奏者；不能认定为外国人专场。",
+      "evidence_limitations": [
+        "个人演奏者名单与国籍未逐人核实",
+        "机构规模数据来自单一媒体"
+      ],
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "非严格样本候选，不适用负责人批准。",
+      "owner_approval_source_ids": []
+    },
+    {
+      "case_id": "CASE009",
+      "performer": "巴德中西乐团（Bard East/West Ensemble）",
+      "performer_type": "中外合作演出",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "纽约州 Annandale-on-Hudson",
+      "instrument": [
+        "古琴",
+        "二胡",
+        "琵琶",
+        "古筝",
+        "唢呐",
+        "管子"
+      ],
+      "work": "《苗寨狂欢》（世界首演）、《钟馗冒险》、古琴协奏曲《别赋》、科普兰《阿巴拉契亚之春》改编等",
+      "music_type": "民族器乐（中西混合编制/当代作品）",
+      "event_date_text": "2025-05-03",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Bard East/West Ensemble and USCMI Faculty Showcase Concert",
+      "venue": "美国纽约州 Bard College, Chapel of the Holy Innocents",
+      "channel": [
+        "线下音乐会",
+        "学校教育"
+      ],
+      "target_audience": [
+        "美国高校观众",
+        "中国音乐听众"
+      ],
+      "learning_motivation": "机构案例；由巴德学院美中音乐研习院支持，含双学位与学院项目",
+      "adaptation": "西方弦乐五重奏 + 七件中国乐器 + 打击乐；中西混合编制与委约作品",
+      "era_theme": [
+        "丝绸之路与文明交流",
+        "青年文化交流",
+        "非遗保护"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）；官方页面未给上座率或评论",
+      "success_evidence": "官方活动页确认2025-05-03音乐会、世界首演《苗寨狂欢》、古琴协奏曲《别赋》、中西混合编制；USCMI 提供双学位/学院项目",
+      "research_notes": "B级：机构与演出信息可核验；中国乐器演奏者国籍未逐人核实，不能声称全部为外国演奏者；定位为美国高校中西混合乐团",
+      "summary": "美国巴德学院美中音乐研习院的中西混合乐团，2025年5月3日演出中西混合编制与委约作品。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "中西混合编制",
+        "古琴协奏",
+        "学院项目"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C009-S001",
+        "C009-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C009-S001",
+          "title": "Bard East/West Ensemble and USCMI Faculty Showcase Concert",
+          "publisher": "US-China Music Institute, Bard College",
+          "url": "https://www.barduschinamusic.org/events/bewe-faculty-concert-2025",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": "2025-05-03",
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2025-05-03 演出、世界首演《苗寨狂欢》、古琴协奏曲《别赋》、中西混合编制",
+          "notes": null
+        },
+        {
+          "source_id": "C009-S002",
+          "title": "Bard East/West Ensemble",
+          "publisher": "US-China Music Institute, Bard College",
+          "url": "https://www.barduschinamusic.org/bard-eastwest-ensemble",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "乐团定位、中西混合编制与学院项目背景",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-10-30",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "partially_verified",
+      "performance_location": "overseas",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "美国高校中西混合乐团；中国乐器演奏者国籍未逐人核实，不能作为外国个人乐团。",
+      "evidence_limitations": [
+        "成员国籍未逐人核实",
+        "缺少上座率与受众反馈"
+      ],
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "非严格样本候选，不适用负责人批准。",
+      "owner_approval_source_ids": []
+    },
+    {
+      "case_id": "CASE010",
+      "performer": "Djang San（张思安 / Jean-Sébastien Héry）",
+      "performer_type": "外国个人演奏者",
+      "country": "法国",
+      "region": "欧洲",
+      "subregion": "波尔多 / 北京",
+      "instrument": [
+        "中阮",
+        "琵琶"
+      ],
+      "work": "用中阮、琵琶创作流行、摇滚与实验音乐；具体曲目单未公开（未知）",
+      "music_type": "民族器乐（跨文化改编/摇滚）",
+      "event_date_text": "2000年首次来华；2013年组建 Djang San + Band；2019年人民网德语视界报道",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Djang San + Band 现场与个人创作",
+      "venue": "中国北京/上海等（具体场次未知）",
+      "channel": [
+        "线下音乐会",
+        "媒体"
+      ],
+      "target_audience": [
+        "中国独立音乐听众",
+        "跨文化音乐听众"
+      ],
+      "learning_motivation": "2000年来华后受京剧启发，决定把中阮、琵琶融入创作；在秘鲁出生、6岁回法国",
+      "adaptation": "自制电子中阮/电子琵琶，把中国传统乐器放入摇滚、实验、爵士、电子",
+      "era_theme": [
+        "数字技术与传统音乐",
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "人民网德语视界报道其现场与创作；被称为最早用中阮作曲并演奏流行音乐的外国人之一；组建 Djang San + Band",
+      "research_notes": "B级：身份、乐器、创作有媒体报道；演出发生在中国，不是海外受众案例；缺海外演出/受众反馈，需降级使用",
+      "summary": "法国音乐人，2000年来华后受京剧启发，用中阮、琵琶创作摇滚与实验音乐，并组建个人乐队。",
+      "cover_url": null,
+      "cultural_hooks": [
+        "中阮",
+        "电子化",
+        "摇滚"
+      ],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "C010-S001",
+        "C010-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "C010-S001",
+          "title": "谭姐看中国 | 当法国人用中阮弹起了摇滚",
+          "publisher": "人民网德语视界（搜狐号）",
+          "url": "https://www.sohu.com/a/329458681_299706",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2019-07-26",
+          "accessed_at": "2026-10-30",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "法国身份、2000年来华、受京剧启发、使用中阮/琵琶、组建 Djang San + Band、现场演出",
+          "notes": null
+        },
+        {
+          "source_id": "C010-S002",
+          "title": "Djang San official website",
+          "publisher": "Djang San",
+          "url": "http://www.zhangsian.com",
+          "citation": null,
+          "source_type": "演奏者本人",
+          "published_at": null,
+          "accessed_at": "2026-10-30",
+          "reliability": "中",
+          "is_primary": false,
+          "supports": "个人作品与演出信息入口",
+          "notes": "访问受限，未逐页核对"
+        }
+      ],
+      "updated_at": "2026-10-30",
+      "case_type": "foreign_individual_cross_cultural",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "verified",
+      "performance_location": "mainland_china",
+      "overseas_activity": false,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "法国个人，但已核实活动主要在中国境内；没有明确海外演奏证据，不能进入严格海外样本。",
+      "evidence_limitations": [
+        "海外演出记录缺失",
+        "现场以中国境内为主"
+      ],
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "非严格样本候选，不适用负责人批准。",
+      "owner_approval_source_ids": []
+    },
+    {
+      "case_id": "CASE011",
+      "candidate_id": "CAND001",
+      "performer": "Duke Chinese Music Ensemble",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "古筝",
+        "二胡"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Duke Chinese Music Ensemble",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "机构合奏团存在，有课程/演出入口",
+      "research_notes": "成员国籍、具体演出、受众反馈未核",
+      "summary": "Duke Chinese Music Ensemble：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND001-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND001-S001",
+          "title": "Chinese Music Ensemble",
+          "publisher": "Duke University Department of Music",
+          "url": "https://music.duke.edu/ensembles/chinese-music-ensemble",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "机构合奏团存在，有课程/演出入口",
+          "notes": "成员国籍、具体演出、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员国籍、具体演出、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE012",
+      "candidate_id": "CAND002",
+      "performer": "UCLA Chinese Music",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "古筝",
+        "二胡"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "UCLA Chinese Music",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "UCLA 中国音乐组织与活动入口",
+      "research_notes": "成员身份、演出日期、曲目未核",
+      "summary": "UCLA Chinese Music：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND002-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND002-S001",
+          "title": "UCLA Chinese Music",
+          "publisher": "UCLA Chinese Music",
+          "url": "https://uclachinesemusic.com/home",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "UCLA 中国音乐组织与活动入口",
+          "notes": "成员身份、演出日期、曲目未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员身份、演出日期、曲目未核"
+      ]
+    },
+    {
+      "case_id": "CASE013",
+      "candidate_id": "CAND003",
+      "performer": "Qingyun Chinese Music Ensemble",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国乐器合奏"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "unverified",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Qingyun Chinese Music Ensemble",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2026 年度音乐会活动页",
+      "research_notes": "演奏者名单、国籍、曲目未核",
+      "summary": "Qingyun Chinese Music Ensemble：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND003-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND003-S001",
+          "title": "From Silk to Symphony: Qingyun Chinese Music Ensemble 2026 Annual Concert",
+          "publisher": "University of Michigan LSA",
+          "url": "https://lsa.umich.edu/rc/news-events/all-events.detail.html/146385-21898979.html",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": "2026",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2026 年度音乐会活动页",
+          "notes": "演奏者名单、国籍、曲目未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "演奏者名单、国籍、曲目未核"
+      ]
+    },
+    {
+      "case_id": "CASE014",
+      "candidate_id": "CAND004",
+      "performer": "Indiana University East-West collaboration",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中西合奏"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Indiana University East-West collaboration",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "学生主导的 East-West 合作报道",
+      "research_notes": "具体中国乐器、演奏者身份、演出时间未核",
+      "summary": "Indiana University East-West collaboration：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND004-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND004-S001",
+          "title": "Global Harmonies: Jacobs student leads East-West collaboration",
+          "publisher": "Indiana University News",
+          "url": "https://news.iu.edu/live/news/48606-global-harmonies-jacobs-student-leads-east-west-collab",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "学生主导的 East-West 合作报道",
+          "notes": "具体中国乐器、演奏者身份、演出时间未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "具体中国乐器、演奏者身份、演出时间未核"
+      ]
+    },
+    {
+      "case_id": "CASE015",
+      "candidate_id": "CAND005",
+      "performer": "University of Illinois Chinese music event",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "unverified",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "University of Illinois Chinese music event",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "校园中国音乐活动页",
+      "research_notes": "活动规模、演奏者、曲目未核",
+      "summary": "University of Illinois Chinese music event：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND005-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND005-S001",
+          "title": "Chai Time w/ GLOBE and Jasmine Field Orchestra",
+          "publisher": "University of Illinois Chinese Music",
+          "url": "http://cwm.illinois.edu/node/2320",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "校园中国音乐活动页",
+          "notes": "活动规模、演奏者、曲目未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "活动规模、演奏者、曲目未核"
+      ]
+    },
+    {
+      "case_id": "CASE016",
+      "candidate_id": "CAND006",
+      "performer": "University of Pittsburgh Chinese Music Ensemble",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国乐器合奏"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "unverified",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "University of Pittsburgh Chinese Music Ensemble",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "Chinese Music Ensemble 招新信息",
+      "research_notes": "成员身份、公开演出、受众反馈未核",
+      "summary": "University of Pittsburgh Chinese Music Ensemble：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND006-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND006-S001",
+          "title": "Ensemble Auditions 2024-25",
+          "publisher": "University of Pittsburgh Department of Music",
+          "url": "https://www.music.pitt.edu/news/ensemble-auditions-2024-25",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": "2024",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "Chinese Music Ensemble 招新信息",
+          "notes": "成员身份、公开演出、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员身份、公开演出、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE017",
+      "candidate_id": "CAND007",
+      "performer": "Ohio State Chinese Folk Music Orchestra",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "unverified",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Ohio State Chinese Folk Music Orchestra",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "学生组织登记页",
+      "research_notes": "组织活动记录、成员、演出未核",
+      "summary": "Ohio State Chinese Folk Music Orchestra：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND007-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND007-S001",
+          "title": "Chinese Folk Music Orchestra",
+          "publisher": "Ohio State University Office of Student Life",
+          "url": "https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=dd4a238a-783f-4be7-b4f6-0efc7a127bbd&l=ALL&c=Columbus&page=27",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "学生组织登记页",
+          "notes": "组织活动记录、成员、演出未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "组织活动记录、成员、演出未核"
+      ]
+    },
+    {
+      "case_id": "CASE018",
+      "candidate_id": "CAND008",
+      "performer": "Williams Chinese Music Ensemble",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国乐器合奏"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "unverified",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Williams Chinese Music Ensemble",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2016 音乐会节目单",
+      "research_notes": "PDF 内容、演奏者国籍、受众未核",
+      "summary": "Williams Chinese Music Ensemble：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND008-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND008-S001",
+          "title": "Chinese Music Ensemble",
+          "publisher": "Williams College",
+          "url": "https://events.williams.edu/wp-content/blogs.dir/247/files/2020/06/5-4-16-Chinese-Music-Ensemble.pdf",
+          "citation": null,
+          "source_type": "其他",
+          "published_at": "2016",
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "2016 音乐会节目单",
+          "notes": "PDF 内容、演奏者国籍、受众未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "PDF 内容、演奏者国籍、受众未核"
+      ]
+    },
+    {
+      "case_id": "CASE019",
+      "candidate_id": "CAND009",
+      "performer": "Chinese Music Ensemble of New York",
+      "performer_type": "外国乐团",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "unverified",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Chinese Music Ensemble of New York",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "乐团介绍与演出入口",
+      "research_notes": "成员国籍、具体演出、曲目未核",
+      "summary": "Chinese Music Ensemble of New York：overseas_ensemble_performance扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND009-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND009-S001",
+          "title": "About the Orchestra",
+          "publisher": "Chinese Music Ensemble of New York",
+          "url": "https://www.chinesemusicensemble.org/the-orchestra.html",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "乐团介绍与演出入口",
+          "notes": "成员国籍、具体演出、曲目未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_ensemble",
+      "extended_category": "overseas_ensemble_performance",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员国籍、具体演出、曲目未核"
+      ]
+    },
+    {
+      "case_id": "CASE020",
+      "candidate_id": "CAND010",
+      "performer": "Ba Ban Chinese Music Society",
+      "performer_type": "外国乐团",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "scheduled",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Ba Ban Chinese Music Society",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2026-02-07 图书馆演出活动",
+      "research_notes": "演奏者、曲目、受众反馈未核",
+      "summary": "Ba Ban Chinese Music Society：community_music_activity扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND010-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND010-S001",
+          "title": "Ba Ban Chinese Music Society",
+          "publisher": "Brooklyn Public Library",
+          "url": "https://www.bklynlibrary.org/calendar/ba-ban-chinese-music-dyker-library-20260207-0130pm",
+          "citation": null,
+          "source_type": "其他",
+          "published_at": "2026-02-07",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2026-02-07 图书馆演出活动",
+          "notes": "演奏者、曲目、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "community_music_activity",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "演奏者、曲目、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE021",
+      "candidate_id": "CAND011",
+      "performer": "Melody of China",
+      "performer_type": "外国学校/音乐学院",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Melody of China",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "教育演出名册，含乐团介绍",
+      "research_notes": "成员身份、具体场次、受众反馈未核",
+      "summary": "Melody of China：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND011-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND011-S001",
+          "title": "Melody of China",
+          "publisher": "The Music Center",
+          "url": "https://www.musiccenter.org/experience-learn/experience-learn/for-schools/educational-performances-and-assemblies/performing-artists-roster/melody-of-china/",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "教育演出名册，含乐团介绍",
+          "notes": "成员身份、具体场次、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员身份、具体场次、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE022",
+      "candidate_id": "CAND012",
+      "performer": "Toronto Chinese Orchestra",
+      "performer_type": "外国学校/音乐学院",
+      "country": "加拿大",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Toronto Chinese Orchestra",
+      "venue": "加拿大（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "乐团介绍与活动入口",
+      "research_notes": "成员、演出记录、曲目未核",
+      "summary": "Toronto Chinese Orchestra：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND012-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND012-S001",
+          "title": "About Us 關於我們",
+          "publisher": "Toronto Chinese Orchestra",
+          "url": "https://torontochineseorchestra.com/wp/about/",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "乐团介绍与活动入口",
+          "notes": "成员、演出记录、曲目未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "加拿大",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员、演出记录、曲目未核"
+      ]
+    },
+    {
+      "case_id": "CASE023",
+      "candidate_id": "CAND013",
+      "performer": "Vancouver Chinese Music Ensemble",
+      "performer_type": "外国学校/音乐学院",
+      "country": "加拿大",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Vancouver Chinese Music Ensemble",
+      "venue": "加拿大（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "乐团介绍与年度音乐会入口",
+      "research_notes": "成员身份、具体演出、受众反馈未核",
+      "summary": "Vancouver Chinese Music Ensemble：overseas_ensemble_performance扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND013-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND013-S001",
+          "title": "Vancouver Chinese Music Ensemble",
+          "publisher": "Vancouver Chinese Music Ensemble",
+          "url": "https://www.chinesemusicvancouver.com/vancouver-chinese-music-ensemble",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "乐团介绍与年度音乐会入口",
+          "notes": "成员身份、具体演出、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_ensemble",
+      "extended_category": "overseas_ensemble_performance",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "加拿大",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员身份、具体演出、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE024",
+      "candidate_id": "CAND014",
+      "performer": "Harmony Guzheng Ensemble",
+      "performer_type": "外国乐团",
+      "country": "加拿大",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "scheduled",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Harmony Guzheng Ensemble",
+      "venue": "加拿大（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "古筝合奏音乐会票务页",
+      "research_notes": "成员国籍、曲目、上座率、评论未核",
+      "summary": "Harmony Guzheng Ensemble：overseas_ensemble_performance扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND014-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND014-S001",
+          "title": "Harmony Guzheng Ensemble: Strings of Heritage",
+          "publisher": "Mount Royal University Theatres",
+          "url": "https://tickets.mru.ca/eventperformances.asp?evt=83",
+          "citation": null,
+          "source_type": "其他",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "古筝合奏音乐会票务页",
+          "notes": "成员国籍、曲目、上座率、评论未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_ensemble",
+      "extended_category": "overseas_ensemble_performance",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "加拿大",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员国籍、曲目、上座率、评论未核"
+      ]
+    },
+    {
+      "case_id": "CASE025",
+      "candidate_id": "CAND015",
+      "performer": "Seattle Chinese Orchestra",
+      "performer_type": "外国乐团",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "scheduled",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Seattle Chinese Orchestra",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "媒体报道 4月20日音乐会",
+      "research_notes": "演奏者身份、曲目、受众反馈未核",
+      "summary": "Seattle Chinese Orchestra：overseas_ensemble_performance扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND015-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND015-S001",
+          "title": "Seattle Chinese Orchestra helps East meet West in April 20 concert",
+          "publisher": "The Seattle Times",
+          "url": "https://www.seattletimes.com/entertainment/seattle-chinese-orchestra-helps-east-meet-west-in-april-20-concert/",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "媒体报道 4月20日音乐会",
+          "notes": "演奏者身份、曲目、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_ensemble",
+      "extended_category": "overseas_ensemble_performance",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "演奏者身份、曲目、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE026",
+      "candidate_id": "CAND016",
+      "performer": "Chung Wah Chinese Orchestra",
+      "performer_type": "外国学校/音乐学院",
+      "country": "澳大利亚",
+      "region": "其他",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Chung Wah Chinese Orchestra",
+      "venue": "澳大利亚（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "乐团活动页",
+      "research_notes": "成员、演出、曲目未核",
+      "summary": "Chung Wah Chinese Orchestra：community_music_activity扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND016-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND016-S001",
+          "title": "Chinese Orchestra",
+          "publisher": "Chung Wah Association",
+          "url": "https://www.chungwah.org.au/en/activities/chinese-orchestra/#content",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "乐团活动页",
+          "notes": "成员、演出、曲目未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "community_music_activity",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "澳大利亚",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员、演出、曲目未核"
+      ]
+    },
+    {
+      "case_id": "CASE027",
+      "candidate_id": "CAND017",
+      "performer": "Chao Feng Chinese Orchestra",
+      "performer_type": "外国乐团",
+      "country": "澳大利亚",
+      "region": "其他",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "scheduled",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Chao Feng Chinese Orchestra",
+      "venue": "澳大利亚（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2022 年 7 月免费音乐会新闻稿",
+      "research_notes": "PDF 未逐页核，演奏者/曲目未核",
+      "summary": "Chao Feng Chinese Orchestra：overseas_ensemble_performance扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND017-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND017-S001",
+          "title": "Chao Feng Chinese Orchestra 2022 Free Concert",
+          "publisher": "Chao Feng Chinese Orchestra",
+          "url": "https://chaofeng.com.au/Backup/assets/2022-july-english-press-release.pdf",
+          "citation": null,
+          "source_type": "其他",
+          "published_at": "2022-07",
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "2022 年 7 月免费音乐会新闻稿",
+          "notes": "PDF 未逐页核，演奏者/曲目未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_ensemble",
+      "extended_category": "overseas_ensemble_performance",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "澳大利亚",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "PDF 未逐页核，演奏者/曲目未核"
+      ]
+    },
+    {
+      "case_id": "CASE028",
+      "candidate_id": "CAND018",
+      "performer": "Australian Chinese Music Ensemble",
+      "performer_type": "外国乐团",
+      "country": "澳大利亚",
+      "region": "其他",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Australian Chinese Music Ensemble",
+      "venue": "澳大利亚（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "乐团艺术家页",
+      "research_notes": "演出记录、成员身份未核",
+      "summary": "Australian Chinese Music Ensemble：overseas_ensemble_performance扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND018-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND018-S001",
+          "title": "Australian Chinese Music Ensemble",
+          "publisher": "Move Records",
+          "url": "https://www.move.com.au/artist/australian-chinese-music-ensemble",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "乐团艺术家页",
+          "notes": "演出记录、成员身份未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_ensemble",
+      "extended_category": "overseas_ensemble_performance",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "澳大利亚",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "演出记录、成员身份未核"
+      ]
+    },
+    {
+      "case_id": "CASE029",
+      "candidate_id": "CAND019",
+      "performer": "NZ Chinese Hundred Flowers Art Troupe",
+      "performer_type": "其他",
+      "country": "新西兰",
+      "region": "其他",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "unverified",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "NZ Chinese Hundred Flowers Art Troupe",
+      "venue": "新西兰（具体场所待核）",
+      "channel": [
+        "其他"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2022 年总领事看望艺术团报道",
+      "research_notes": "成员、演出、乐器、受众反馈未核",
+      "summary": "NZ Chinese Hundred Flowers Art Troupe：community_music_activity扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND019-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND019-S001",
+          "title": "驻奥克兰总领事看望新西兰中国百花艺术团",
+          "publisher": "China Culture / 中国文化网",
+          "url": "https://cn.chinaculture.org/pubinfo/2022/07/22/200001003002001/4a905ff67ca2443688f4fcdc6a7fafd6.html",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": "2022-07-22",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2022 年总领事看望艺术团报道",
+          "notes": "成员、演出、乐器、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "community_music_activity",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "新西兰",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "成员、演出、乐器、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE030",
+      "candidate_id": "CAND020",
+      "performer": "UK Chinese Music",
+      "performer_type": "外国学校/音乐学院",
+      "country": "英国",
+      "region": "欧洲",
+      "subregion": "未标注",
+      "instrument": [
+        "古琴",
+        "古筝",
+        "琵琶"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "UK Chinese Music",
+      "venue": "英国（具体场所待核）",
+      "channel": [
+        "学校教育"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "英国中国音乐机构与音乐节入口",
+      "research_notes": "具体演出、演奏者、受众反馈未核",
+      "summary": "UK Chinese Music：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND020-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND020-S001",
+          "title": "UK Chinese Music",
+          "publisher": "UK Chinese Music",
+          "url": "https://www.ukchinesemusic.org/",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "英国中国音乐机构与音乐节入口",
+          "notes": "具体演出、演奏者、受众反馈未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "英国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "具体演出、演奏者、受众反馈未核"
+      ]
+    },
+    {
+      "case_id": "CASE031",
+      "candidate_id": "CAND022",
+      "performer": "Grand Chinese New Year Concert Berlin",
+      "performer_type": "外国乐团",
+      "country": "德国",
+      "region": "欧洲",
+      "subregion": "未标注",
+      "instrument": [
+        "中国民族乐器"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "scheduled",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Grand Chinese New Year Concert Berlin",
+      "venue": "德国（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "柏林中国新年音乐会活动页",
+      "research_notes": "演出团体、演奏者、曲目、受众未核",
+      "summary": "Grand Chinese New Year Concert Berlin：overseas_ensemble_performance扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND022-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND022-S001",
+          "title": "The Grand Chinese New Year Concert",
+          "publisher": "VisitBerlin",
+          "url": "https://www.visitberlin.de/en/event/grand-chinese-new-year-concert",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "柏林中国新年音乐会活动页",
+          "notes": "演出团体、演奏者、曲目、受众未核"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_ensemble",
+      "extended_category": "overseas_ensemble_performance",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "德国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "演出团体、演奏者、曲目、受众未核"
+      ]
+    },
+    {
+      "case_id": "CASE032",
+      "candidate_id": "CAND026",
+      "performer": "Belle / Erin Lam",
+      "performer_type": "外国个人演奏者",
+      "country": "英国",
+      "region": "欧洲",
+      "subregion": "未标注",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "performed_confirmed",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Belle / Erin Lam",
+      "venue": "英国（具体场所待核）",
+      "channel": [
+        "其他"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "香港成长、英国古筝演奏者，2025 Primal Live 获奖",
+      "research_notes": "香港成长，是否属于项目“外国个人”口径未定；需身份依据",
+      "summary": "Belle / Erin Lam：cross_cultural_collaboration扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "CAND026-S001",
+        "CAND026-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND026-S001",
+          "title": "THE GUZHENG VIRTUOSO REDEFINING CULTURAL BOUNDARIES",
+          "publisher": "La Vida Liverpool",
+          "url": "https://www.lavidaliverpool.co.uk/the-guzheng-virtuoso-redefining-cultural-boundaries/",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2025-11-28",
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "香港成长、英国古筝演奏者，2025 Primal Live 获奖",
+          "notes": "香港成长，是否属于项目“外国个人”口径未定；需身份依据"
+        },
+        {
+          "source_id": "CAND026-S003",
+          "title": "Belle incanta al Teatro Titano: il guzheng tra tradizione, classica e rock",
+          "publisher": "San Marino RTV",
+          "url": "https://sanmarinortv.sm/news/comunicati-c9/belle-incanta-al-teatro-titano-il-guzheng-tra-tradizione-classica-e-rock-a295776",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2026-09-12",
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "Teatro Titano 古筝演出报道；未写国籍",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "foreign_individual_cross_cultural",
+      "extended_category": "cross_cultural_collaboration",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "identity_pending",
+      "performance_location": "英国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "香港成长，是否属于项目“外国个人”口径未定；需身份依据"
+      ]
+    },
+    {
+      "case_id": "CASE033",
+      "candidate_id": "CAND028",
+      "performer": "Nicholas Ng",
+      "performer_type": "外国个人演奏者",
+      "country": "澳大利亚",
+      "region": "其他",
+      "subregion": "未标注",
+      "instrument": [
+        "二胡",
+        "中国音乐"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "partial",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Nicholas Ng",
+      "venue": "澳大利亚（具体场所待核）",
+      "channel": [
+        "其他"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "悉尼中国音乐演奏/研究者访谈",
+      "research_notes": "身份与族裔口径未定；需确认外国个人身份与具体演出",
+      "summary": "Nicholas Ng：cross_cultural_collaboration扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "CAND028-S001",
+        "CAND028-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND028-S001",
+          "title": "Dr Nicholas Ng",
+          "publisher": "ABC Listen",
+          "url": "https://www.abc.net.au/listen/programs/rhythmdivine/dr-nicholas-ng/6265910",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "悉尼中国音乐演奏/研究者访谈",
+          "notes": "身份与族裔口径未定；需确认外国个人身份与具体演出"
+        },
+        {
+          "source_id": "CAND028-S002",
+          "title": "Dr Nicholas Ng",
+          "publisher": "University of Sydney",
+          "url": "https://profiles.sydney.edu.au/nicholas.ng/about",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "二胡教学、巡演、ANU 中国古典乐团；未写国籍",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "foreign_individual_cross_cultural",
+      "extended_category": "cross_cultural_collaboration",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "identity_pending",
+      "performance_location": "澳大利亚",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "身份与族裔口径未定；需确认外国个人身份与具体演出"
+      ]
+    },
+    {
+      "case_id": "CASE034",
+      "candidate_id": "CAND031",
+      "performer": "Wu Fei & Abigail Washburn",
+      "performer_type": "中外合作演出",
+      "country": "美国",
+      "region": "北美",
+      "subregion": "未标注",
+      "instrument": [
+        "古筝 + 班卓琴"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "performed_confirmed",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Wu Fei & Abigail Washburn",
+      "venue": "美国（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "古筝与班卓琴合作访谈",
+      "research_notes": "Abigail 不演奏中国乐器，不能作为严格外国个人；可作扩展合作线索",
+      "summary": "Wu Fei & Abigail Washburn：cross_cultural_collaboration扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "CAND031-S001"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND031-S001",
+          "title": "Artist Interview and Performance: Wu Fei and Abigail Washburn",
+          "publisher": "KALX Berkeley",
+          "url": "https://kalx.berkeley.edu/artist-interview-and-performance-wu-fei-and-abigail-washburn/",
+          "citation": null,
+          "source_type": "其他",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "古筝与班卓琴合作访谈",
+          "notes": "Abigail 不演奏中国乐器，不能作为严格外国个人；可作扩展合作线索"
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "cross_cultural_ensemble",
+      "extended_category": "cross_cultural_collaboration",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "美国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "Abigail 不演奏中国乐器，不能作为严格外国个人；可作扩展合作线索"
+      ]
+    },
+    {
+      "case_id": "CASE035",
+      "candidate_id": "CAND033",
+      "performer": "Mona Li",
+      "performer_type": "外国个人演奏者",
+      "country": "德国",
+      "region": "欧洲",
+      "subregion": "未标注",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "program_listed",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "Mona Li",
+      "venue": "德国（具体场所待核）",
+      "channel": [
+        "其他"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "德国乐团音乐会 PDF 中的古筝演奏者",
+      "research_notes": "身份/国籍或项目身份标准未确认；不能因姓名或族裔排除。 节目单已证明古筝演奏。",
+      "summary": "Mona Li：cross_cultural_collaboration扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 4,
+      "source_ids": [
+        "CAND033-S001",
+        "CAND033-S002",
+        "CAND033-S003",
+        "CAND033-S004"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND033-S001",
+          "title": "1. Philharmonisches Konzert",
+          "publisher": "Duisburger Philharmoniker",
+          "url": "https://duisburger-philharmoniker.de/DP16cms2/wp-content/uploads/2022/09/1.-Philharmonisches-Konzert-Website.pdf",
+          "citation": null,
+          "source_type": "其他",
+          "published_at": "2022",
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "德国乐团音乐会 PDF 中的古筝演奏者",
+          "notes": "身份/国籍或项目身份标准未确认；不能因姓名或族裔排除。 节目单已证明古筝演奏。"
+        },
+        {
+          "source_id": "CAND033-S002",
+          "title": "Mona Li",
+          "publisher": "Duisburger Philharmoniker",
+          "url": "https://duisburger-philharmoniker.de/duisburger-philharmoniker/unsere-gast-%20%20interpreten/mona-li/",
+          "citation": null,
+          "source_type": "机构官网",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "古筝/扬琴、汉堡大学硕士、90年代起在德国演出；未写国籍",
+          "notes": null
+        },
+        {
+          "source_id": "CAND033-S003",
+          "title": "Lied von der Erde — 1. Philharmonisches Konzert",
+          "publisher": "Duisburger Philharmoniker",
+          "url": "https://duisburger-philharmoniker.de/Konzerte/lied-von-der-erde-pk-01-2022-2023/",
+          "citation": null,
+          "source_type": "演出主办方",
+          "published_at": "2022",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2022-09-07/08 节目单列 Mona Li — Gu Zheng，Mercatorhalle Duisburg",
+          "notes": null
+        },
+        {
+          "source_id": "CAND033-S004",
+          "title": "Mahler: Das Lied von der Erde",
+          "publisher": "Valeska Gleser（演出日历）",
+          "url": "https://valeska-gleser.de/termine/mahler-das-lied-von-der-erde/",
+          "citation": null,
+          "source_type": "其他",
+          "published_at": null,
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "2022-09-07 活动已举行；重复列 Mona Li — Gu Zheng",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "foreign_individual_cross_cultural",
+      "extended_category": "cross_cultural_collaboration",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "identity_pending",
+      "performance_location": "德国",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "身份/国籍或项目身份标准未确认；不能因姓名或族裔排除。 节目单已证明古筝演奏。"
+      ]
+    },
+    {
+      "case_id": "CASE036",
+      "candidate_id": "CAND036",
+      "performer": "东京古筝乐团（Tokyo Guzheng Orchestra）",
+      "performer_type": "外国乐团",
+      "country": "日本",
+      "region": "东亚",
+      "subregion": "未标注",
+      "instrument": [
+        "古筝"
+      ],
+      "work": "未标注（来源未列具体曲目）",
+      "music_type": "民族器乐（扩展样本）",
+      "event_date_text": "performed_confirmed",
+      "event_start_date": null,
+      "event_end_date": null,
+      "event_name": "东京古筝乐团（Tokyo Guzheng Orchestra）",
+      "venue": "日本（具体场所待核）",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "机构/团体扩展样本，不适用个人动机",
+      "adaptation": "未标注",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2018 年东京古筝乐团第二场演奏会报道",
+      "research_notes": "乐团成员国籍与具体演奏者未核；可能以在日华人为主",
+      "summary": "东京古筝乐团（Tokyo Guzheng Orchestra）：overseas_institution_education扩展样本，证据有限。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": null,
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 3,
+      "source_ids": [
+        "CAND036-S001",
+        "CAND036-S002",
+        "CAND036-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "CAND036-S001",
+          "title": "最炫民族风！东京古筝乐团举办第二场演奏会",
+          "publisher": "人民网-国际频道",
+          "url": "https://world.people.com.cn/n1/2018/0619/c1002-30066636.html",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2018-06-19",
+          "accessed_at": "2026-11-01",
+          "reliability": "中",
+          "is_primary": true,
+          "supports": "2018 年东京古筝乐团第二场演奏会报道",
+          "notes": "乐团成员国籍与具体演奏者未核；可能以在日华人为主"
+        },
+        {
+          "source_id": "CAND036-S002",
+          "title": "中国伝統楽器の魅力を披露 東京古筝楽団が演奏会開催",
+          "publisher": "新華社 / 新華網日本語",
+          "url": "http://jp.xinhuanet.com/2018-06/19/c_137264596.htm",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2018-06-19",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2018-06-17 东京高轮区民中心演出；古筝/二胡/琵琶/合奏",
+          "notes": null
+        },
+        {
+          "source_id": "CAND036-S003",
+          "title": "中国伝統楽器の魅力を披露（第2页）",
+          "publisher": "新華社 / 新華網日本語",
+          "url": "http://jp.xinhuanet.com/2018-06/19/c_137264596_2.htm",
+          "citation": null,
+          "source_type": "主流媒体",
+          "published_at": "2018-06-19",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "图片说明点名儿童古筝乐团渡边美姬演奏",
+          "notes": null
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "overseas_institution_education",
+      "extended_category": "overseas_institution_education",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "日本",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "owner_approval_status": "not_required",
+      "owner_approval_by": null,
+      "owner_approval_at": null,
+      "owner_approval_note": "扩展样本，不适用严格个人批准。",
+      "owner_approval_source_ids": [],
+      "eligibility_reason": "approved_extended：来源支持机构/活动/教育/合作入口；不自动升级为严格个人。",
+      "evidence_limitations": [
+        "乐团成员国籍与具体演奏者未核；可能以在日华人为主"
+      ]
+    },
+    {
+      "case_id": "CASE037",
+      "candidate_id": "P12-C002",
+      "performer": "泉州师范学院南音团队",
+      "performer_type": "中外合作演出",
+      "country": "阿联酋",
+      "region": "中东及部分伊斯兰文化地区",
+      "subregion": "阿布扎比",
+      "instrument": [
+        "南音琵琶",
+        "四宝"
+      ],
+      "work": "《风打梨》",
+      "music_type": "南音",
+      "event_date_text": "2025-11-14",
+      "event_start_date": "2025-11-14",
+      "event_end_date": "2025-11-14",
+      "event_name": "泉州师院南音团队在阿布扎比国家包容与共存节开幕式演出《风打梨》。",
+      "venue": "Abu Dhabi, Umm Al Emarat Park",
+      "channel": [
+        "节庆",
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "不适用（团体/合作案例）",
+      "adaptation": "跨文化节庆/合作演出",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2025-11-14 阿布扎比国母公园第七届国家包容与共存节开幕式；泉州师院南音《风打梨》；南音琵琶、四宝",
+      "research_notes": "中国团队；观众引语为记者转述；无独立受众调查。",
+      "summary": "泉州师院南音团队在阿布扎比国家包容与共存节开幕式演出《风打梨》。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": "阿布扎比",
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "P12-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "P12-S002",
+          "title": "福建古乐唱响阿布扎比",
+          "publisher": "福建日报（人民日报客户端转载）",
+          "url": "https://sdxw.iqilu.com/share/YS0yMS0xNjg4NzUyMw==.html",
+          "source_type": "主流媒体",
+          "published_at": "2025-11-21",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "supports": "2025-11-14 阿布扎比国母公园第七届国家包容与共存节开幕式；泉州师院南音《风打梨》；南音琵琶、四宝",
+          "does_not_support": "不代表长期传播效果；观众引语为记者转述；表演者是中国团队",
+          "notes": "演出后报道",
+          "citation": null,
+          "is_primary": true
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "阿联酋 / Abu Dhabi, Umm Al Emarat Park",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "P12.4.4 负责人批准，纳入扩展跨文化候选；不进入严格个人。",
+      "evidence_limitations": [
+        "中国团队；观众引语为记者转述；无独立受众调查。"
+      ],
+      "owner_approval_status": "approved",
+      "owner_approval_by": "yxh",
+      "owner_approval_at": "2026-11-01",
+      "owner_approval_note": "批准案例准入；批准 6 条评分；channel_fit 撤回。",
+      "owner_approval_source_ids": [
+        "P12-S002"
+      ]
+    },
+    {
+      "case_id": "CASE038",
+      "candidate_id": "P12-C003",
+      "performer": "Li Cangxiao 与墨西哥音乐家",
+      "performer_type": "中外合作演出",
+      "country": "墨西哥",
+      "region": "拉丁美洲",
+      "subregion": "墨西哥城",
+      "instrument": [
+        "二胡",
+        "钢琴",
+        "弦乐四重奏",
+        "打击乐"
+      ],
+      "work": "Kangding; Butterfly Lovers; Libertango; Danzón No. 2; Horse Racing",
+      "music_type": "跨文化室内乐",
+      "event_date_text": "2026-09-25 / 2026-09-27",
+      "event_start_date": "2026-09-25",
+      "event_end_date": "2026-09-27",
+      "event_name": "二胡演奏者 Li Cangxiao 与墨西哥音乐家在墨西哥城合作演出中国与拉美曲目。",
+      "venue": "Palacio de Bellas Artes, Mexico City; UNAM",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "不适用（团体/合作案例）",
+      "adaptation": "跨文化节庆/合作演出",
+      "era_theme": [
+        "青年文化交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "未采集（未知）",
+      "success_evidence": "2026-09-25 墨西哥城 Palacio de Bellas Artes、09-27 UNAM；二胡 Li Cangxiao 与墨西哥音乐家；曲目 Kangding、Butterfly Lovers、Libertango、Danzón No. 2、Horse Racing",
+      "research_notes": "含中国二胡演奏者；掌声为记者描述；无独立受众调查。",
+      "summary": "二胡演奏者 Li Cangxiao 与墨西哥音乐家在墨西哥城合作演出中国与拉美曲目。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": "墨西哥城",
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 1,
+      "source_ids": [
+        "P12-S003"
+      ],
+      "sources": [
+        {
+          "source_id": "P12-S003",
+          "title": "Se celebran con éxito en la Ciudad de México el concierto “Bajo la misma luna”",
+          "publisher": "Centro Cultural de China en México",
+          "url": "http://wap.ccchinamexico.org/es/Events/Detail/1790615770",
+          "source_type": "机构官网",
+          "published_at": "2026-09-28",
+          "accessed_at": "2026-11-01",
+          "reliability": "高",
+          "supports": "2026-09-25 墨西哥城 Palacio de Bellas Artes、09-27 UNAM；二胡 Li Cangxiao 与墨西哥音乐家；曲目 Kangding、Butterfly Lovers、Libertango、Danzón No. 2、Horse Racing",
+          "does_not_support": "不代表独立受众调查；掌声为记者描述；表演者含中国二胡演奏者",
+          "notes": "演出后报道",
+          "citation": null,
+          "is_primary": true
+        }
+      ],
+      "updated_at": "2026-11-01",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "墨西哥 / Palacio de Bellas Artes, Mexico City; UNAM",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "P12.4.4 负责人批准，纳入扩展跨文化候选；不进入严格个人。",
+      "evidence_limitations": [
+        "含中国二胡演奏者；掌声为记者描述；无独立受众调查。"
+      ],
+      "owner_approval_status": "approved",
+      "owner_approval_by": "yxh",
+      "owner_approval_at": "2026-11-01",
+      "owner_approval_note": "批准案例准入；批准 6 条评分；channel_fit 撤回。",
+      "owner_approval_source_ids": [
+        "P12-S003"
+      ]
+    },
+    {
+      "case_id": "CASE039",
+      "candidate_id": "P13-C001",
+      "performer": "中国音乐家（科威特中国文化中心）",
+      "performer_type": "中外合作演出",
+      "country": "科威特",
+      "region": "中东及部分伊斯兰文化地区",
+      "subregion": "哈瓦利省",
+      "instrument": [
+        "二胡",
+        "古筝",
+        "笛子",
+        "琵琶"
+      ],
+      "work": "《春江花月夜》《空谷鸟鸣》《潇湘水云》；《茉莉花》合作",
+      "music_type": "中国古典音乐/跨文化室内乐",
+      "event_date_text": "2025-11-24 / 2025-11-25",
+      "event_start_date": "2025-11-24",
+      "event_end_date": "2025-11-25",
+      "event_name": "Traditional Rhythm & New Vibe: Chinese Classical Chamber Concert",
+      "venue": "China Cultural Center, Hawalli Province, Kuwait",
+      "channel": [
+        "线下音乐会",
+        "工作坊"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "不适用（机构/合作案例）",
+      "adaptation": "中科合作《茉莉花》；科威特乌德琴参与",
+      "era_theme": [
+        "丝绸之路与文明交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "有观众互动/反馈描述（非量化）",
+      "success_evidence": "新华社报道确认两日演出、四种乐器、曲目、观众互动与中科合作",
+      "research_notes": "Xinhua 英文/阿拉伯语同源；无量化受众数据；个人名单未列",
+      "summary": "科威特中国文化中心中国古典音乐室内乐演出，含二胡、古筝、笛子、琵琶与中科合作《茉莉花》。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": "哈瓦利省",
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "P13-S001",
+        "P13-S002"
+      ],
+      "sources": [
+        {
+          "source_id": "P13-S001",
+          "title": "Chamber Concert of Chinese Classical Music held at China Cultural Center in Kuwait",
+          "publisher": "Xinhua",
+          "url": "https://english.news.cn/20251125/7679e2e919144be88b3b442d1b98027c/c.html",
+          "source_type": "主流媒体",
+          "published_at": "2025-11-25",
+          "accessed_at": "2026-11-03",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2025-11-24 科威特哈瓦利省中国文化中心中国古典音乐室内乐演出",
+          "notes": "演出后图文报道",
+          "citation": null
+        },
+        {
+          "source_id": "P13-S002",
+          "title": "عروض للموسيقى التقليدية الصينية في الكويت",
+          "publisher": "Xinhua Arabic",
+          "url": "https://arabic.news.cn/20251126/41f836ee50ea489f93cc991bc0e581c9/c.html",
+          "source_type": "主流媒体",
+          "published_at": "2025-11-26",
+          "accessed_at": "2026-11-03",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "四位中国音乐家；二胡/古筝/笛子/琵琶；曲目；观众互动；中科合作《茉莉花》",
+          "notes": "与 P13-S001 同属 Xinhua 依赖组",
+          "citation": null
+        }
+      ],
+      "updated_at": "2026-11-03",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "科威特 / China Cultural Center",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "P13.3.1 二次审查 approved；P13.4.2 负责人批准；扩展跨文化案例。",
+      "evidence_limitations": [
+        "Xinhua 同源多语种，不是独立多来源",
+        "无量化受众数据",
+        "无个人演奏者名单"
+      ],
+      "owner_approval_status": "approved",
+      "owner_approval_by": "yxh",
+      "owner_approval_at": "2026-11-02",
+      "owner_approval_note": "批准案例准入、15条有效评分、5条null",
+      "owner_approval_source_ids": [
+        "P13-S001",
+        "P13-S002"
+      ]
+    },
+    {
+      "case_id": "CASE040",
+      "candidate_id": "P12-C004",
+      "performer": "中国音乐学院音乐家（阿根廷）",
+      "performer_type": "中外合作演出",
+      "country": "阿根廷",
+      "region": "拉丁美洲",
+      "subregion": "布宜诺斯艾利斯",
+      "instrument": [
+        "琵琶",
+        "扬琴",
+        "笛",
+        "箫"
+      ],
+      "work": "《送我一支玫瑰花》《秋野》《月下花情》",
+      "music_type": "中国民乐/跨文化室内乐",
+      "event_date_text": "2025-09-22",
+      "event_start_date": "2025-09-22",
+      "event_end_date": "2025-09-22",
+      "event_name": "Balada de la Pipa: Viaje Musical por China",
+      "venue": "Teatro Colón, Salón Dorado, Buenos Aires",
+      "channel": [
+        "线下音乐会"
+      ],
+      "target_audience": [
+        "未标注"
+      ],
+      "learning_motivation": "不适用（机构/合作案例）",
+      "adaptation": "中国乐器与拉丁/探戈/Piazzolla 作品结合",
+      "era_theme": [
+        "青年文化交流"
+      ],
+      "religion_culture": "无（材料未提及）",
+      "feedback": "有学者反馈（非量化）",
+      "success_evidence": "新华社西语报道确认乐器、曲目、活动组织与 UBA 学者反馈",
+      "research_notes": "Xinhua 英文/西语同源；无量化受众数据；无逐位演奏者名单",
+      "summary": "中国音乐学院音乐家在科隆剧院演出琵琶、扬琴、笛、箫，并与拉丁/探戈作品对话。",
+      "cover_url": null,
+      "cultural_hooks": [],
+      "origin_city": "布宜诺斯艾利斯",
+      "review_status": "B",
+      "display_allowed": true,
+      "source_count": 2,
+      "source_ids": [
+        "P12-S004",
+        "P13-S004"
+      ],
+      "sources": [
+        {
+          "source_id": "P12-S004",
+          "title": "Chinese folk music concert held in Buenos Aires, Argentina",
+          "publisher": "Xinhua / People's Daily Online",
+          "url": "http://en.people.cn/n3/2025/0924/c90000-20370292.html",
+          "source_type": "主流媒体",
+          "published_at": "2025-09-24",
+          "accessed_at": "2026-11-03",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "2025-09-22 布宜诺斯艾利斯科隆剧院中国音乐学院传统曲目演出",
+          "notes": "演出后图文报道",
+          "citation": null
+        },
+        {
+          "source_id": "P13-S004",
+          "title": "Especial: Música china engalana emblemático Teatro Colón de Argentina",
+          "publisher": "Xinhua Spanish",
+          "url": "https://spanish.xinhuanet.com/20250923/155b170684124e51b6d1b760e91d66df/c.html",
+          "source_type": "主流媒体",
+          "published_at": "2025-09-23",
+          "accessed_at": "2026-11-03",
+          "reliability": "高",
+          "is_primary": true,
+          "supports": "琵琶/扬琴/笛/箫；曲目《送我一支玫瑰花》《秋野》《月下花情》；UBA 学者反馈",
+          "notes": "与 P12-S004 同属 Xinhua 依赖组",
+          "citation": null
+        }
+      ],
+      "updated_at": "2026-11-03",
+      "case_type": "cross_cultural_ensemble",
+      "analysis_sample": "extended_cross_cultural",
+      "performer_identity_status": "not_applicable",
+      "performance_location": "阿根廷 / Teatro Colón",
+      "overseas_activity": true,
+      "strict_sample_eligible": false,
+      "eligibility_reason": "P13.3.1 二次审查 approved；P13.4.2 负责人批准；扩展跨文化案例。",
+      "evidence_limitations": [
+        "Xinhua 同源多语种，不是独立多来源",
+        "无量化受众数据",
+        "无逐位演奏者名单"
+      ],
+      "owner_approval_status": "approved",
+      "owner_approval_by": "yxh",
+      "owner_approval_at": "2026-11-02",
+      "owner_approval_note": "批准案例准入、15条有效评分、5条null",
+      "owner_approval_source_ids": [
+        "P12-S004",
+        "P13-S004"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿entity,check,expected,actual,result,note
+traditional_song,row count,302,302,PASS,
+traditional_song,unique id,302,302,PASS,
+category,categories,4,4,PASS,
+comment,row count,192882,192882,PASS,comment.id 有历史重复，不能按 id 去重
+comment,duplicate comment.id groups,记录并保留,14628,WARN,重复 id 不直接删除
+comment,orphan song_id,0,0,PASS,
+comment,sentiment missing,记录,58789,WARN,缺失不填0
+emotion_time_series,row count,81388,81388,PASS,
+emotion_time_series,orphan song_id,0,0,PASS,
+emotion_time_series,duplicate song_id/date,0,0,PASS,
+music_case_mapping,records,5,5,PASS,全部 program_listed
+music_case_mapping,invalid song_id,0,0,PASS,
+region_matrix,rows,1812,1812,PASS,6区域×302
+region_matrix,case_supported,5,5,PASS,全部Europe

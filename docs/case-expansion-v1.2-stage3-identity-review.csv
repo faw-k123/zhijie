@@ -1,0 +1,6 @@
+candidate_id,candidate,previous_stage2_conclusion,identity_review_status,nationality_status,nationality_value,nationality_source_ids,strict_individual_eligibility,extended_sample_eligibility,eligibility_reason,stage3_conclusion,change_from_stage2,unresolved
+CAND024,Randy Raine-Reusch,可以进入严格个人样本复核,nationality_verified,verified,Canada,CAND024-S003,eligible_for_strict_review,eligible,加拿大音乐中心标题明确称其为 Canadian Randy Raine-Reusch；Western Front 2010-04-08 program 明确 zheng duo 与温哥华地点,可进入严格个人样本复核；不得直接正式纳入,保留严格复核资格；新增加拿大身份与古筝演出依据,2010-04-08 演出完成证据；CMC 正文访问受限
+CAND026,Belle / Erin Lam,继续待补证；可保留扩展样本,identity_pending,unverified,null,,ineligible_identity_pending,eligible,香港成长与英国古筝活动有来源，但没有明确国籍；不能把成长经历当国籍,继续待补证；可保留扩展样本,维持待补证；确认不将香港成长写成国籍,明确国籍/项目身份依据；2024-06-08 演出后记录
+CAND028,Nicholas Ng,继续待补证；可保留扩展样本,identity_pending,unverified,null,,ineligible_identity_pending,eligible,悉尼音乐学院简介支持二胡教学与巡演，但未写国籍；不能据此推断国籍,继续待补证；可保留扩展样本,维持待补证；二胡/巡演证据增强,国籍；具体海外音乐节名称、日期、场地、完成记录
+CAND033,Mona Li,继续待补证；可保留扩展样本,identity_pending,unverified,null,,ineligible_identity_pending,eligible,杜伊斯堡爱乐艺术家页/音乐会页支持古筝、地点、日期与节目单；没有明确国籍,继续待补证；可保留扩展样本,维持待补证；节目单/地点/日期证据增强,国籍；演出完成记录/现场反馈
+CAND036,东京古筝乐团,只能进入扩展样本,group_not_individual,not_applicable,null,,ineligible_not_individual,eligible,新华社演出后报道支持团体演出与具名儿童演奏者；乐团/教育案例，不能把团体身份等同于每位成员,只能进入扩展样本；不得进入严格个人,维持扩展样本；明确为乐团/教育类别,渡边美姬个人身份/国籍；成员构成；受众原话

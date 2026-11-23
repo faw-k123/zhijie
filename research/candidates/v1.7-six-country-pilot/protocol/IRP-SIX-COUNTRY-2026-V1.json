@@ -1,0 +1,639 @@
+{
+  "protocol_version": "IRP-SIX-COUNTRY-2026-V1",
+  "status": "frozen",
+  "created_at": "2026-11-08T07:52:40.637762+00:00",
+  "approved_by": "research_lead",
+  "approved_at": "2026-11-08T08:46:19.711973+00:00",
+  "research_lead": null,
+  "music": [
+    {
+      "music_id": "MU001",
+      "title": "赛马",
+      "asset_path": "backend/media/audio/乐器/二胡/赛马.mp3",
+      "asset_sha256": "8ffb2736b660500e737b869083805fbe199adf4dc6617b0023ceef4b209a1d02",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU002",
+      "title": "渔舟唱晚",
+      "asset_path": "backend/media/audio/乐器/古筝/渔舟唱晚.mp3",
+      "asset_sha256": "55230357f1fa160370ca9291c978246b9f7221f947d6a593aaadf2b44c8a6639",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU003",
+      "title": "十面埋伏",
+      "asset_path": "backend/media/audio/乐器/琵琶/十面埋伏.mp3",
+      "asset_sha256": "a8843c9bfc6aef33ef825d6aa33b784cb63221f86ed0c3e86ca6fd18c286c35b",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU004",
+      "title": "百鸟朝凤",
+      "asset_path": "backend/media/audio/乐器/唢呐/百鸟朝凤.mp3",
+      "asset_sha256": "66957cee7ae7c0636beca4d5cd84d365084268aea27e69bac6d0910d366a4b1c",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU005",
+      "title": "春江花月夜",
+      "asset_path": "backend/media/audio/乐器/古筝/春江花月夜.mp3",
+      "asset_sha256": "44558fbf520353bb37b80be7c725174a79f3e1d2437e298dc1415b9a45d94afb",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU006",
+      "title": "梅花三弄",
+      "asset_path": "backend/media/audio/乐器/古琴/梅花三弄.mp3",
+      "asset_sha256": "9bcd63f64bdeb3f7faaa979d4bfb43606fec691e53dd85175ba0671ffe4f5029",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU007",
+      "title": "高山流水",
+      "asset_path": "backend/media/audio/乐器/古琴/高山流水.mp3",
+      "asset_sha256": "10a81aeb81329681bdf116852c3a2876ceff2accc2977378104f54fda08a1135",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU008",
+      "title": "康定情歌",
+      "asset_path": "backend/media/audio/民歌/西南民歌/康定情歌.mp3",
+      "asset_sha256": "2596b3365e9f915cb9e28b65ddb7f8dd2f34ce27a64c9b5d71d9e4c7b175327b",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU009",
+      "title": "彩云追月",
+      "asset_path": "backend/media/audio/乐器/葫芦丝/彩云追月.mp3",
+      "asset_sha256": "ada1d92d6d42ad0a5d1f1159a085b88b18472a11ea5cbf8748e746c8fa6e2e96",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU010",
+      "title": "梁祝",
+      "asset_path": "backend/media/audio/乐器/二胡/梁祝.mp3",
+      "asset_sha256": "b89285860f96ed2b825ea8f459d3ec86f9a8712d731509816f0ab437eb4bce57",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU011",
+      "title": "酒狂",
+      "asset_path": "backend/media/audio/乐器/古琴/酒狂.mp3",
+      "asset_sha256": "a5a9d010d096effea5d107c540e6a8ec550b969f9b9f3b7eec7836dc547d669e",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU012",
+      "title": "阳关三叠",
+      "asset_path": "backend/media/audio/乐器/古琴/阳关三叠.mp3",
+      "asset_sha256": "769c1819068dc3945319569e5ee8d78dd839de7479fdf67d5aa0f6528017d7b2",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU013",
+      "title": "广陵散",
+      "asset_path": "backend/media/audio/乐器/古琴/广陵散.mp3",
+      "asset_sha256": "ebcbe7a6e3515bb491b7ca4132860e3fd4bef589c2cecb9926317d4791aa390a",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU014",
+      "title": "平沙落雁",
+      "asset_path": "backend/media/audio/乐器/古琴/平沙落雁.mp3",
+      "asset_sha256": "ce60ce1f22f425cf320de383441bf6c77fef5a4265d6b2a77501783b64360208",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU015",
+      "title": "月光下的凤尾竹",
+      "asset_path": "backend/media/audio/乐器/葫芦丝/月光下的凤尾竹.mp3",
+      "asset_sha256": "9090076fd75272434c100faa099508b0f94f3cbdd75923e1a263d4a3ef37335d",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU016",
+      "title": "太阳出来喜洋洋",
+      "asset_path": "backend/media/audio/说唱/四川清音/太阳出来喜洋洋(四川民歌).mp3",
+      "asset_sha256": "5e0257471dbd1d5678cb1fb331e77807ea2e733cb71a7e45b538c7d5c1ce4625",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU017",
+      "title": "霸王别姬",
+      "asset_path": "backend/media/audio/戏曲/京剧/霸王别姬.mp3",
+      "asset_sha256": "51cdb248dd6a3087bb283f1a7339d9bd057a8c02f2a1128f2e906dc3954ca0d9",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU018",
+      "title": "牡丹亭·皂罗袍（昆曲x古琴）",
+      "asset_path": "backend/media/audio/戏曲/昆曲/牡丹亭·皂罗袍（昆曲x古琴）.mp3",
+      "asset_sha256": "7e7e92b3aa0a7602f019edd66548f091b15409a161586440164a6956299c2067",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU019",
+      "title": "花木兰",
+      "asset_path": "backend/media/audio/戏曲/豫剧/花木兰.mp3",
+      "asset_sha256": "36d8dea6a3ab2680a5de330e205ad48543936bfe33f7564eba4b24a15557d67d",
+      "asset_exists": true
+    },
+    {
+      "music_id": "MU020",
+      "title": "山丹丹开花红艳艳",
+      "asset_path": "backend/media/audio/民歌/陕北民歌/山丹丹开花红艳艳.mp3",
+      "asset_sha256": "ab8292a71f085b81f7985f90064f04cbc6045fb7dbe3025bd983a8a75ad8bca7",
+      "asset_exists": true
+    }
+  ],
+  "countries": [
+    "日本",
+    "泰国",
+    "英国",
+    "美国",
+    "阿联酋",
+    "巴西"
+  ],
+  "country_plan": [
+    {
+      "country": "日本",
+      "region": "东亚",
+      "a_count": 6,
+      "b_count": 6,
+      "c_count": 8,
+      "priority_music_ids": [
+        "MU001",
+        "MU002",
+        "MU010",
+        "MU015",
+        "MU018",
+        "MU019"
+      ],
+      "secondary_music_ids": [
+        "MU005",
+        "MU007",
+        "MU008",
+        "MU009",
+        "MU016",
+        "MU017"
+      ],
+      "context_required_music_ids": [
+        "MU003",
+        "MU004",
+        "MU006",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU020"
+      ],
+      "note": "A/B/C是试验优先级，不是国家偏好。"
+    },
+    {
+      "country": "泰国",
+      "region": "东南亚",
+      "a_count": 6,
+      "b_count": 7,
+      "c_count": 7,
+      "priority_music_ids": [
+        "MU002",
+        "MU004",
+        "MU005",
+        "MU008",
+        "MU015",
+        "MU016"
+      ],
+      "secondary_music_ids": [
+        "MU001",
+        "MU007",
+        "MU009",
+        "MU010",
+        "MU014",
+        "MU018",
+        "MU020"
+      ],
+      "context_required_music_ids": [
+        "MU003",
+        "MU006",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU017",
+        "MU019"
+      ],
+      "note": "A/B/C是试验优先级，不是国家偏好。"
+    },
+    {
+      "country": "英国",
+      "region": "欧洲",
+      "a_count": 6,
+      "b_count": 8,
+      "c_count": 6,
+      "priority_music_ids": [
+        "MU003",
+        "MU005",
+        "MU006",
+        "MU007",
+        "MU011",
+        "MU018"
+      ],
+      "secondary_music_ids": [
+        "MU001",
+        "MU002",
+        "MU008",
+        "MU010",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU017"
+      ],
+      "context_required_music_ids": [
+        "MU004",
+        "MU009",
+        "MU015",
+        "MU016",
+        "MU019",
+        "MU020"
+      ],
+      "note": "A/B/C是试验优先级，不是国家偏好。"
+    },
+    {
+      "country": "美国",
+      "region": "北美",
+      "a_count": 6,
+      "b_count": 8,
+      "c_count": 6,
+      "priority_music_ids": [
+        "MU001",
+        "MU003",
+        "MU007",
+        "MU008",
+        "MU010",
+        "MU019"
+      ],
+      "secondary_music_ids": [
+        "MU002",
+        "MU004",
+        "MU005",
+        "MU009",
+        "MU015",
+        "MU016",
+        "MU017",
+        "MU018"
+      ],
+      "context_required_music_ids": [
+        "MU006",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU020"
+      ],
+      "note": "A/B/C是试验优先级，不是国家偏好。"
+    },
+    {
+      "country": "阿联酋",
+      "region": "中东及部分伊斯兰文化地区",
+      "a_count": 6,
+      "b_count": 8,
+      "c_count": 6,
+      "priority_music_ids": [
+        "MU002",
+        "MU005",
+        "MU007",
+        "MU009",
+        "MU014",
+        "MU015"
+      ],
+      "secondary_music_ids": [
+        "MU001",
+        "MU004",
+        "MU006",
+        "MU008",
+        "MU010",
+        "MU012",
+        "MU016",
+        "MU018"
+      ],
+      "context_required_music_ids": [
+        "MU003",
+        "MU011",
+        "MU013",
+        "MU017",
+        "MU019",
+        "MU020"
+      ],
+      "note": "A/B/C是试验优先级，不是国家偏好。"
+    },
+    {
+      "country": "巴西",
+      "region": "拉丁美洲",
+      "a_count": 6,
+      "b_count": 7,
+      "c_count": 7,
+      "priority_music_ids": [
+        "MU001",
+        "MU004",
+        "MU008",
+        "MU010",
+        "MU016",
+        "MU020"
+      ],
+      "secondary_music_ids": [
+        "MU002",
+        "MU003",
+        "MU005",
+        "MU009",
+        "MU015",
+        "MU018",
+        "MU019"
+      ],
+      "context_required_music_ids": [
+        "MU006",
+        "MU007",
+        "MU011",
+        "MU012",
+        "MU013",
+        "MU014",
+        "MU017"
+      ],
+      "note": "A/B/C是试验优先级，不是国家偏好。"
+    }
+  ],
+  "design": {
+    "type": "between_subject_single_version",
+    "description": "每名参与者随机分配一首曲目和一个版本；原版/适配版按国家×曲目配额平衡。",
+    "randomization": "SHA-256(seed|protocol|participant|country) 确定性分配；保存 seed 与分配日志。",
+    "order_balance": "本轮为组间单版本设计；不以同一参与者内顺序平衡冒充组内对照。"
+  },
+  "targets": {
+    "per_variant_per_cell": 20,
+    "per_cell": 40,
+    "per_country_total": 120,
+    "per_country_cells": 12
+  },
+  "inclusion": [
+    "年满18岁并完成研究同意",
+    "能够使用所在国语言完成问卷",
+    "完成至少一次完整试听并提交"
+  ],
+  "exclusion": [
+    "未同意",
+    "重复 participant 编号",
+    "完成率低于 70%",
+    "缺失任一必填八项测量且无合规缺失规则",
+    "试运行/演示数据"
+  ],
+  "measurement": {
+    "items": [
+      {
+        "id": "emotional_resonance",
+        "label": "情绪共鸣",
+        "source": "audience",
+        "prompt_zh": "这段音乐在多大程度上触动了你的情绪？",
+        "anchor_1": "完全没有情绪反应",
+        "anchor_5": "强烈触动，愿意继续听或分享",
+        "reverse": false,
+        "required": true
+      },
+      {
+        "id": "timbre_identity",
+        "label": "音色辨识",
+        "source": "audience",
+        "prompt_zh": "你能多清楚地辨认出这种乐器/声音的独特音色？",
+        "anchor_1": "听不出独特音色",
+        "anchor_5": "音色非常独特且能描述",
+        "reverse": false,
+        "required": true
+      },
+      {
+        "id": "melody_accessibility",
+        "label": "旋律可进入性",
+        "source": "audience",
+        "prompt_zh": "旋律对你来说有多容易跟随和记住？",
+        "anchor_1": "难以跟随或记住",
+        "anchor_5": "很容易跟随，能哼出片段",
+        "reverse": false,
+        "required": true
+      },
+      {
+        "id": "cultural_story",
+        "label": "文化故事性",
+        "source": "audience",
+        "prompt_zh": "音乐和导赏让你理解了多少背后的文化故事？",
+        "anchor_1": "完全没有理解",
+        "anchor_5": "能清楚复述故事和背景",
+        "reverse": false,
+        "required": true
+      },
+      {
+        "id": "adaptation_space",
+        "label": "跨文化改编空间",
+        "source": "audience",
+        "prompt_zh": "你觉得这种音乐与当地音乐元素结合的空间有多大？",
+        "anchor_1": "完全不适合结合",
+        "anchor_5": "结合自然，愿意听更多",
+        "reverse": false,
+        "required": true
+      },
+      {
+        "id": "visual_expressiveness",
+        "label": "视觉表现力",
+        "source": "audience",
+        "prompt_zh": "提供的视觉呈现与音乐有多匹配、多有表现力？",
+        "anchor_1": "视觉与音乐不匹配或没有视觉材料",
+        "anchor_5": "视觉显著增强音乐表现",
+        "reverse": false,
+        "required": true,
+        "no_visual_rule": "没有视觉材料时记 missing，不补 3 分"
+      },
+      {
+        "id": "era_theme_relevance",
+        "label": "时代主题相关性",
+        "source": "audience",
+        "prompt_zh": "音乐与导赏提出的当代主题有多相关？",
+        "anchor_1": "看不出关联",
+        "anchor_5": "关联清晰且与我的当代经验相连",
+        "reverse": false,
+        "required": true
+      },
+      {
+        "id": "existing_evidence",
+        "label": "既有传播证据",
+        "source": "researcher_evidence",
+        "prompt_zh": "由研究人员依据来源编码，不向受众提问",
+        "anchor_1": "无可核实传播证据",
+        "anchor_5": "多来源、持续、可核实的传播记录",
+        "reverse": false,
+        "required": true
+      }
+    ],
+    "auxiliary": [
+      {
+        "id": "prior_exposure",
+        "label": "既往中国音乐接触",
+        "values": [
+          "none",
+          "limited",
+          "familiar"
+        ]
+      },
+      {
+        "id": "save_share_intent",
+        "label": "收藏/分享意愿",
+        "scale": "1—5"
+      },
+      {
+        "id": "learning_intent",
+        "label": "学习参与意愿",
+        "scale": "1—5"
+      },
+      {
+        "id": "open_response",
+        "label": "开放回答",
+        "type": "text"
+      }
+    ],
+    "scale": "前七项 1—5；既有证据 0—100；正式聚合统一转 0—100",
+    "reverse": "本版本无反向题；若新增反向题，必须在编码规则中先反向计分再转换",
+    "missing": "缺失不补 3 分；视觉材料缺失时 visual_expressiveness 记 missing；任一必填项缺失则不进入正式评分",
+    "no_visual_rule": "无适用视觉材料时 visual_expressiveness 保持 null，不补分"
+  },
+  "formula": {
+    "survey_conversion": "(mean_1_5 - 1) / 4 × 100",
+    "score": "Σ(survey_100_i × 0.125) + evidence_0_100 × 0.125",
+    "range": "0—100；越界报错，不截断",
+    "evidence": "必须来自经审批证据分，不由受众填写"
+  },
+  "analysis": {
+    "within_country": "按国家×曲目×版本统计 n、均值、标准差、有效率、原版/适配差异",
+    "cross_country": "先国家内聚合，再对国家等权；权重规则须在评分版本中固定",
+    "ranking": "只有 active/published 版本且八项完整的单元进入排名"
+  },
+  "localization": [
+    {
+      "country": "日本",
+      "language": "ja",
+      "source_language": "zh-CN",
+      "title": null,
+      "intro": null,
+      "background_100": null,
+      "consent": null,
+      "questionnaire": null,
+      "open_questions": null,
+      "risk_notice": null,
+      "recruitment": null,
+      "operator_manual": null,
+      "translator": null,
+      "reviewer": null,
+      "translation_status": "pending_native_review",
+      "version": "LOC-IRP-SIX-COUNTRY-2026-V1-ja",
+      "note": "本地语言材料待母语翻译与审校；不得把中文或机器草稿当作已审校文本。"
+    },
+    {
+      "country": "泰国",
+      "language": "th",
+      "source_language": "zh-CN",
+      "title": null,
+      "intro": null,
+      "background_100": null,
+      "consent": null,
+      "questionnaire": null,
+      "open_questions": null,
+      "risk_notice": null,
+      "recruitment": null,
+      "operator_manual": null,
+      "translator": null,
+      "reviewer": null,
+      "translation_status": "pending_native_review",
+      "version": "LOC-IRP-SIX-COUNTRY-2026-V1-th",
+      "note": "本地语言材料待母语翻译与审校；不得把中文或机器草稿当作已审校文本。"
+    },
+    {
+      "country": "英国",
+      "language": "en",
+      "source_language": "zh-CN",
+      "title": null,
+      "intro": null,
+      "background_100": null,
+      "consent": null,
+      "questionnaire": null,
+      "open_questions": null,
+      "risk_notice": null,
+      "recruitment": null,
+      "operator_manual": null,
+      "translator": null,
+      "reviewer": null,
+      "translation_status": "pending_native_review",
+      "version": "LOC-IRP-SIX-COUNTRY-2026-V1-en",
+      "note": "本地语言材料待母语翻译与审校；不得把中文或机器草稿当作已审校文本。"
+    },
+    {
+      "country": "美国",
+      "language": "en",
+      "source_language": "zh-CN",
+      "title": null,
+      "intro": null,
+      "background_100": null,
+      "consent": null,
+      "questionnaire": null,
+      "open_questions": null,
+      "risk_notice": null,
+      "recruitment": null,
+      "operator_manual": null,
+      "translator": null,
+      "reviewer": null,
+      "translation_status": "pending_native_review",
+      "version": "LOC-IRP-SIX-COUNTRY-2026-V1-en",
+      "note": "本地语言材料待母语翻译与审校；不得把中文或机器草稿当作已审校文本。"
+    },
+    {
+      "country": "阿联酋",
+      "language": "ar",
+      "source_language": "zh-CN",
+      "title": null,
+      "intro": null,
+      "background_100": null,
+      "consent": null,
+      "questionnaire": null,
+      "open_questions": null,
+      "risk_notice": null,
+      "recruitment": null,
+      "operator_manual": null,
+      "translator": null,
+      "reviewer": null,
+      "translation_status": "pending_native_review",
+      "version": "LOC-IRP-SIX-COUNTRY-2026-V1-ar",
+      "note": "本地语言材料待母语翻译与审校；不得把中文或机器草稿当作已审校文本。"
+    },
+    {
+      "country": "巴西",
+      "language": "pt-BR",
+      "source_language": "zh-CN",
+      "title": null,
+      "intro": null,
+      "background_100": null,
+      "consent": null,
+      "questionnaire": null,
+      "open_questions": null,
+      "risk_notice": null,
+      "recruitment": null,
+      "operator_manual": null,
+      "translator": null,
+      "reviewer": null,
+      "translation_status": "pending_native_review",
+      "version": "LOC-IRP-SIX-COUNTRY-2026-V1-pt-BR",
+      "note": "本地语言材料待母语翻译与审校；不得把中文或机器草稿当作已审校文本。"
+    }
+  ],
+  "ethics": [
+    "不从国籍推断宗教、价值观或音乐偏好",
+    "阿联酋场景审查宗教符号、服饰、舞蹈和娱乐场景",
+    "日本、泰国等文化接近地区不假定天然理解",
+    "不使用刻板印象或本质化国家性格",
+    "退出研究的数据不进入分析"
+  ],
+  "note": "协议为候选稿；研究负责人审批后才可冻结。本地化材料未完成母语审校前不得正式招募。",
+  "sha256": "450d0352fdd9bce909a4671b6f5dc420d9620e8a5615f844c0553ebc22aff4ca"
+}

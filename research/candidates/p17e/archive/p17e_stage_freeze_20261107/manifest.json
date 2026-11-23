@@ -1,0 +1,20 @@
+{
+  "archive": "p17e_stage_freeze_20261107",
+  "status": "FROZEN",
+  "stage_audit": "CONDITIONAL_PASS",
+  "active_version": "v1.6",
+  "batch_01": {
+    "total": 25,
+    "performance_confirmed": 3,
+    "ambiguous_match": 6,
+    "rejected_match": 1,
+    "no_relevant_result": 15,
+    "not_searched": 0,
+    "outcome_evidenced": 0,
+    "sealed": false
+  },
+  "files_hashed": 88,
+  "total_bytes": 348665,
+  "formal_manifest_sha256": "ad789f89352c7e73f7d1d3f5f2ff4d9cf014f1fe04a7d8cfe1d1f95a7dd5741a",
+  "note": "P17-E candidate archive only; formal v1.6 not modified."
+}
