@@ -1,0 +1,32 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+.python311/
+venv/
+logs/*.log
+*.log
+.idea/
+.vscode/
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+dist/
+.vite-cache/
+*.tsbuildinfo
+
+# Local runtime state (kept on the developer machine, rebuilt from manifests)
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite-cache/
+
+# Upload planning outputs that can be regenerated
+docs/github-upload/file-manifest.csv
+docs/github-upload/batch-summary.csv
